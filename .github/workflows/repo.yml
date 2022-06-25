@@ -1,0 +1,27 @@
+name: Repo Dispatcher
+
+on:
+  schedule:
+    - cron: 55 16 * * *
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@main
+
+    - name: Update Rules
+      env:
+        URL: ${{secrets.URL}}
+      run: |
+        chmod +x update
+        ./update
+
+    - name: Delete workflow runs
+      uses: small-5/delete-workflow-runs@main
+      with:
+        retain_min: 0
+        keep_minimum_runs: 0
