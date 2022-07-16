@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wgNY8gUwapb2hPSTagtspw
-! Version: 202207151705
+! Checksum: WP34UljxIDYkBAmhSEvIag
+! Version: 202207161655
 ! Title: EasyList China+EasyList
-! Last modified: 15 Jul 2022 17:05 UTC
+! Last modified: 16 Jul 2022 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1304,6 +1304,7 @@ ubmcmm.baidustatic.com
 ##.top-read-ad
 ##.topSponsor
 ##.top_ad_ban
+##.pure-g[onclick*="float"]
 ##.top_box > #foot
 ##.top_box > #indextop
 ##.top_box > #news
@@ -1353,6 +1354,7 @@ ubmcmm.baidustatic.com
 ##.yd_ad3
 ##.yd_ad5
 ##.yd_ad6
+##style + .a-loading
 ##.zhanzhang_tuijian_btn
 ##.zhedangceng_ggg
 ##.zone_wap_banner2
@@ -2146,6 +2148,21 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||rrll.love^
+||qfgall.cn^
+||juhuitongcheng.life^
+||gfnormal01ae.com^
+||666724.xyz^
+||topnfq.com^
+||nvqhbij.cn^
+||aqiwxzv.cn^
+||zhangwanwan.online^
+||h56hg7.site^
+||gnkunbie.rest^
+||fcluqg.cn^
+||ishoutu.net^
+||gniunbic.rest^
+||49468220.com^
 !
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
@@ -9553,7 +9570,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||19kan.com/static/js/hf.js
 ||19qiqi.com/mid/
 ||19vcd.com/mid/
-||1fzd.com/gg/
+||5fzd.com/gg/
 ||1fzw.com/content/templates/zjbnew/yxj.js
 ||1ketang.com/Runtime/js/play
 ||1stchina.net/static/js/jquery.in.
@@ -14135,6 +14152,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||toolfk.com/common/zfb.jpg
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -14619,7 +14637,7 @@ cbber.com,you85.net###diy2
 chiphell.com###diy2 + div
 gpshk.cc,oneplusbbs.com,wstx.com,xiaot.com###diy4
 cbber.com,xiaot.com###diy_chart
-1fzd.com,2fzd.com,3fzd.com###diy_cmn1
+5fzd.com###diy_cmn1
 chinafix.com###diy_col_1-3
 elecfans.com###diy_company
 5imx.com###diy_mxad02
@@ -15484,7 +15502,7 @@ qidian.com###tr-banner
 tianya.cn###travel_float
 90pan.com###tt_6
 90pan.com###tt_xker
-1fzd.com###tuiguang
+5fzd.com###tuiguang
 sohu.com###turn-ad
 ziqiangxuetang.com###tutorial_btm
 ali213.net###tv
@@ -15712,7 +15730,6 @@ outlook.live.com##.__Microsoft_Owa_MessageListAds_ListView_templates_cs_x
 tools.2345.com##._hb-box + .mod
 qq.com##._switchad
 pincong.rocks##.a-a
-cqzjt.com,pianba.tv##.a-loading
 gamer.com.tw##.a-mercy-d:not([href*=".gamer."])
 159i.com##.a1.style25
 159i.com##.a1d
@@ -20321,6 +20338,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||pptv.com/webdelivery/webafp?cb=loadAdStatus&*sports.pp
 @@||pro.gooooal.com/ad/ad_2.js
 @@||pttplay.com/js/momo/adsbygoogle.js
+@@||haiwai.com^$generichide
 @@||pub.alimama.com/common/adzone/
 @@||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$domain=imasdk.googleapis.com
 @@||qiantucdn.com/static/images/adsbygoogle.js
@@ -21796,6 +21814,7 @@ smjb.net##div[style*="height: 50%"]
 ||zhenben.cc/2000/
 ||zhhbqg.com/rr/
 ||zhuishubox.com/js/after-rain.js
+shuquge.com##div[style="margin:10px auto;width: 930px;height: 250px;"]
 ! General rules for Novels
 ###asdw3
 ###asdw3 + img + :not(div)
@@ -39262,6 +39281,7 @@ _800x80_
 ##.AdCaption
 ##.AdCenter
 ##.AdCommercial
+##.AdCompactheader
 ##.AdContainer
 ##.AdContainer-Banner
 ##.AdContainer-Sidebar
@@ -40172,6 +40192,7 @@ _800x80_
 ##.ad-background
 ##.ad-background-container
 ##.ad-background-intra-body
+##.ad-ban
 ##.ad-banner
 ##.ad-banner-2
 ##.ad-banner-250x600
@@ -54166,6 +54187,7 @@ _800x80_
 ##div[id^="div-gpt-"]
 ##div[id^="ezoic-pub-ad-"]
 ##div[id^="google_dfp_"]
+##div[id^="gpt_ad_"]
 ##div[id^="gtm-ad-"]
 ##div[id^="js-dfp-"]
 ##div[id^="lazyad-"]
@@ -54529,6 +54551,7 @@ herstage.com#@##ads-wrapper
 mafagames.com#@##adsContainer
 video.tv-tokyo.co.jp#@##adspace
 globalsecurity.org#@##adtop
+ewybory.eu#@##adv-text
 basinnow.com,oxfordlearnersdictionaries.com#@##advertise
 fcbarcelona.dk#@##article_ad
 catb.org#@##banner-ad
@@ -55628,6 +55651,7 @@ tf2r.com#@#.adverts
 ||ads-twitter.com^
 ||ads.rd.linksynergy.com^
 ||ads3-adnow.com^
+||ads4g.pl^
 ||ads5-adnow.com^
 ||adsafeprotected.com^
 ||adsafety.net^
@@ -78822,6 +78846,7 @@ unitconversion.org###ileft
 4f.to,furbooru.org###imagespns
 mydorpie.com###imgbcont
 luxweb.lu###imu
+myjoyonline.com###in-article
 scoop.co.nz###in-cont
 designtaxi.com###in-news-link-1
 designtaxi.com###in-news-link-2
@@ -79831,7 +79856,7 @@ drivespark.com##.cmscontent-left-article
 careerindia.com##.cmscontent-top
 cnn.com##.cn--expandable.cn--idx-1
 thisismoney.co.uk##.cnr5
-browserhow.com,charlieintel.com,chromeunboxed.com,cryptoslate.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,iotwreport.com,reneweconomy.com.au,rezence.com,rok.guide##.code-block
+browserhow.com,charlieintel.com,chromeunboxed.com,cryptoslate.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,iotwreport.com,reneweconomy.com.au,rezence.com,rok.guide##.code-block
 conservativebrief.com##.code-block > span
 androidsage.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,techpp.com,whats-on-netflix.com##.code-block-1
 trendingpolitics.com##.code-block-12
@@ -80473,11 +80498,11 @@ gamedev.net##.mb-3.align-items-center.justify-content-start
 indiatimes.com##.mb-36 > .top-trending
 themoscowtimes.com##.mb-4.py-3
 techbone.net##.mb-5.bg-light
-consumer.org.nz##.mb3
 yardbarker.com##.mb_promo_responsive_right
 helpnetsecurity.com##.mbw
 thestar.com.my##.med-rec
 gamezone.com##.med-rect-ph
+ghanaweb.com##.med_rec_lg_min
 webmd.com##.medianet-ctr
 allmusic.com##.medium-rectangle
 weatherpro.com##.medium-rectangle-wrapper-2
@@ -80724,6 +80749,7 @@ computerweekly.com##.pro-downloads-home
 cosmopolitan.com##.product-buy-button-wrapper
 bgr.com##.product-callout-todays-top-deal
 barnesandnoble.com##.product-commentary-advertisement
+consumer.org.nz##.product-table-header
 ndtv.com##.product_mapping_sticky
 pbs.org##.production-and-funding
 nymag.com##.products-package
@@ -81160,6 +81186,7 @@ ndtv.com##.taboolFeed
 thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se##.taboola-row
 protocol.com##.tag-sponsored
 mdisk.me##.taka-gif-con
+ghanaweb.com##.takeover
 recombu.com##.takeover-right
 shacknews.com##.takeover-skin
 igg-games.com##.taxonomy-description
@@ -81469,6 +81496,7 @@ radiotoday.co.uk##[href^="http://go.radiotoday.co.uk/"]
 howtogeek.com##[href^="http://macpaw.7eer.net/"]
 pooletown.co.uk,tossinggames.com,urbanartassociation.com##[href^="http://redirect.viglink.com"]
 igg-games.com##[href^="http://s2.igg-games.com/"]
+newslogic.in##[href^="https://4i1n.short.gy/"]
 4sysops.com##[href^="https://4sysops.com/a.php"]
 topfiveforex.com##[href^="https://affiliate.iqoption.com/"]
 orschlurch.net,tetris.com##[href^="https://amzn.to/"]
@@ -81620,6 +81648,7 @@ rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgpro
 tractorbynet.com##a[href][target="_blank"] > img[class^="attachment-large"]
 mtaeta.info##a[href][target="_blank"] > img[src^="http://storage2.proboards.com/"]
 flaticon.com##a[href^="//www.flaticon.com/edge/redirect?"]
+graphic.com.gh##a[href^="/adverts/"]
 linkhub.icu##a[href^="/downloadnow.php?"]
 limetorrents.pro##a[href^="/leet/?"] > img[src^="/static/images/download"]
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
@@ -82165,7 +82194,6 @@ m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 youtube.com##ytd-compact-promoted-video-renderer
 youtube.com##ytd-companion-slot-renderer
 youtube.com##ytd-display-ad-renderer
-youtube.com##ytd-engagement-panel-section-list-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-single-option-survey-renderer
@@ -82311,6 +82339,8 @@ haveibeenpwned.com##.bodyGradient>:-abp-has(.why1Password)
 instacart.com#?#.css-zlyu1d:-abp-contains(Sponsored)
 instacart.com#?#.css-1pc1srv-ItemCardHoverProvider:-abp-has(.css-cieada-SponsoredProductBadge)
 instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-ads-badge="Sponsored"])
+instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-sp-badge="Sponsored"])
+instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-spp-badge="Sponsored"])
 instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-sppr-badge="Sponsored"])
 instacart.com#?#li[data-testid^="item_list_item_items_19462-"]:-abp-has(span:-abp-contains(Sponsored))
 albertsons.com#?#product-item-v2[class$="product-card-col"]:-abp-has(div[data-qa="prd-itm-spnsrd"])
@@ -82365,6 +82395,7 @@ twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|Gesponsert|Promoc
 twitter.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
 unsplash.com#?#.MbNnd:-abp-has(a:-abp-contains(Sponsored))
 wikiprocedure.com#?#div:-abp-contains(/^Advertisement$/)
+winaero.com#?#p:-abp-contains(Advertisement)
 windowsbulletin.com#?#.code-block:-abp-has(a[href^="http://www.reimageplus.com/"])
 windowsbulletin.com#?#strong:-abp-has(a[href^="http://www.reimageplus.com/"])
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-MediaObject-meta-"]:-abp-contains(/Gesponsert|Sponsored|Patrocinado|Sponsorisé|Sponsorizzato/))
