@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uUjM+ca3Tsqiypi0ggpA8w
-! Version: 202207231655
+! Checksum: KCl12Z4sHfGrq11GGyJywQ
+! Version: 202207241655
 ! Title: EasyList China+EasyList
-! Last modified: 23 Jul 2022 16:55 UTC
+! Last modified: 24 Jul 2022 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -325,6 +325,8 @@
 /duilian.$domain=~388g.com|~msra.cn|~supfree.net
 /duilian2.
 /duilian_gg.
+/duoteimg/dtnew_assets/pc/js/tech/chaping.
+/duoteimg/dtnew_recom_img/duoteself/*
 /dy_66jjss/*
 /dygg_
 /dzwww/ad_dzw_inner.js
@@ -1731,6 +1733,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 ##[class][onclick*=".ununxsxs.top"]
+##a[href*=".5250.cn"]
 ##a[href*=".buscandolaidea.com/"]
 ##a[href*=".covasco.com/"]
 ##a[href*=".dbrows.com/"]
@@ -1744,6 +1747,7 @@ ubmcmm.baidustatic.com
 ##a[href*=".meta-kp.com/"]
 ##a[href*=".meta-wg.com/"]
 ##a[href*=".nffhome.com/"]
+##a[href*=".nfqtech.com/"]
 ##a[href*=".nfrgeek.com:"]
 ##a[href*=".nfylife.com/"]
 ##a[href*=".onazs.com/"]
@@ -1756,6 +1760,7 @@ ubmcmm.baidustatic.com
 ##a[href*=".vloua.com/"]
 ##a[href*="/6298crsyzh.com:"]
 ##a[href*="/8616.tech"]
+##a[href*="/akmh047.vip"]
 ##a[href*="/kk80.cc"]
 ##div[onclick*=".yyav5.top"]
 ##img[onclick*="/kk80.cc"]
@@ -1807,6 +1812,7 @@ ubmcmm.baidustatic.com
 ||666729.xyz^
 ||666732.xyz^
 ||666733.xyz^
+||666734.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||777753.net^
@@ -1867,6 +1873,8 @@ ubmcmm.baidustatic.com
 ||ccpvmjh.cn^
 ||cdweikebaba.xin^
 ||ce33m7.com^
+||cengbalx.fun^
+||ceshi10.ink^
 ||cfhlrai.cn^
 ||changchunyitian.online^
 ||cheynewalk.com^
@@ -1889,6 +1897,7 @@ ubmcmm.baidustatic.com
 ||daizi.love^
 ||danaoren.shop^
 ||dcfh7vk.cn^
+||dfsvhv88.com^
 ||dhrfnyw.xyz^
 ||dididi.love^
 ||dkxobcs.cn^
@@ -1907,6 +1916,7 @@ ubmcmm.baidustatic.com
 ||f05.xyz^
 ||fangshan.us^
 ||fcluqg.cn^
+||fdsousf.cn^
 ||feiyuchuanmei.love^
 ||fekivnv.cn^
 ||fengxi.in^
@@ -1970,6 +1980,7 @@ ubmcmm.baidustatic.com
 ||healthcare.ink^
 ||hecan123.top^
 ||helilong.xyz^
+||hfwzbp.cn^
 ||hfzq1600.com^
 ||hhyyt.top^
 ||hkedve.cn^
@@ -2042,6 +2053,7 @@ ubmcmm.baidustatic.com
 ||lianliankanms.top^
 ||ling07.icu^
 ||lingke03.top^
+||lingke05.top^
 ||liutt.online^
 ||liuzhen.love^
 ||ljmzugo.cn^
@@ -2071,6 +2083,7 @@ ubmcmm.baidustatic.com
 ||mnbvbrow.xyz^
 ||mnuy56.site^
 ||mqjeut5.com^
+||msjj.tech^
 ||mthdqs.cn^
 ||mtk.pub^
 ||mttty.top^
@@ -2101,8 +2114,10 @@ ubmcmm.baidustatic.com
 ||olwsx.com^
 ||onekeyedu.com^
 ||otneq.today^
+||otownx.xyz^
 ||ouno.site^
 ||outrepublicanshelf.com^
+||oyecntg.cn^
 ||oyybgs.cn^
 ||p4f52tll.cn^
 ||p7ivj09f.xyz^
@@ -2147,6 +2162,7 @@ ubmcmm.baidustatic.com
 ||sejlfe.cn^
 ||sevenmax.cn^
 ||shuying.run^
+||shygkl.com^
 ||shzq8888.com^
 ||siqwfy.cn^
 ||sl6.top^
@@ -2168,10 +2184,13 @@ ubmcmm.baidustatic.com
 ||sttrr.top^
 ||sueed.love^
 ||supernfq.com^
+||sxieqbu.cn^
 ||syb.hk^
 ||sym.zone^
+||taipingyang.hk^
 ||tangxiaodou.top^
 ||tdtxkvj.cn^
+||tertqm.cn^
 ||tianning.xyz^
 ||tmrhoe2.com^
 ||topnfj.com^
@@ -2179,6 +2198,7 @@ ubmcmm.baidustatic.com
 ||topnfw.com^
 ||trznrug.cn^
 ||tt14q0p2.cn^
+||ttwwy.top^
 ||tuiquanqiu.cn^
 ||twjsx.cn^
 ||txie.club^
@@ -2201,6 +2221,7 @@ ubmcmm.baidustatic.com
 ||viswcnb.cn^
 ||viuspbkmn.bar^
 ||voihkjd.cn^
+||vongsond.uno^
 ||vppvp.com^
 ||vueujv.com^
 ||vvpingtai.com^
@@ -2220,6 +2241,7 @@ ubmcmm.baidustatic.com
 ||wongsonc.uno^
 ||woven.pw^
 ||wpqmiq.cn^
+||wqprtyg.cn^
 ||wqyloitd.cn^
 ||wtd57s7j.cn^
 ||wu3wl2g7.cn^
@@ -2227,6 +2249,7 @@ ubmcmm.baidustatic.com
 ||wymcloud.love^
 ||x4c43.com^
 ||xcjcy.pro^
+||xektyy.cn^
 ||xgckudv.cn^
 ||xhkvff.cn^
 ||xiaodongrui.com^
@@ -11282,8 +11305,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||dufile.com/jsa/
 ||duodada.com/111/
 ||duodada.com/333/
-||duote.com/duoteimg/dtnew_assets/pc/js/tech/chaping.
-||duote.com/duoteimg/dtnew_recom_img/duoteself/
 ||duouoo.com/vss/right-ssd.js
 ||duouoo.com/vss/wz
 ||dup.baidustatic.com^
@@ -21089,6 +21110,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||baj.fanwenzhan.com^
 ||bas.boshi.tv^
 ||bd*-ys.km.com^
+||bd-js1.2345.com^
 ||bd-s.baixing.net^
 ||bd.ahsrst.cn^
 ||bd.beimap.com^
@@ -21892,7 +21914,7 @@ smjb.net##div[style*="height: 50%"]
 ||alicdn.com^$domain=lawen44.net
 ||apk-01.oss-cn-beijing.aliyuncs.com/dp/
 ||bcebos.com/contentAdSecend_
-||bdxiguaimg.com^$domain=feisucn.net
+||bdxiguaimg.com^$domain=biquav.com|feisucn.net
 ||biqiugege8.com/js/d
 ||biqiugege8.com/js/p
 ||biqkan.com/js/dj
@@ -26543,6 +26565,7 @@ fqsousou.com,kengso.com#@#.user-share
 /eco_ads/*
 /ecom/magnet.
 /editable/ads/*
+/email-assets/ads/*
 /emailads/*
 /embed-ad-
 /embed/ad/*
@@ -29847,6 +29870,7 @@ takeover_banner_
 /prebid_$script,third-party
 /prebid_request.
 /prebid_v4.
+/prebid_ver.js
 /prebidAdcall.
 /prebidjs/*
 /prebidLibrary.
@@ -30923,6 +30947,7 @@ _800x80_
 ###SponsoredLinks
 ###SponsoredResultsTop
 ###SponsorsAds
+###StickyBannerAd
 ###TDads
 ###TL_footer_advertisement
 ###TOPADS
@@ -32059,6 +32084,7 @@ _800x80_
 ###adSpace8
 ###adSpace9
 ###adSpaceBottom
+###adSpaceHeight
 ###adSpace_footer
 ###adSpace_right
 ###adSpace_top
@@ -51432,6 +51458,7 @@ _800x80_
 ##.sideBySideAds
 ##.sideToSideAd
 ##.side_300_ad
+##.side__ad
 ##.side__ad-box
 ##.side_ad
 ##.side_ad2
@@ -56305,7 +56332,6 @@ tf2r.com#@#.adverts
 ||alefrfobkoxbgaf.com^
 ||aleilu.com^
 ||alespeonor.com^
-||alexametrics.com^
 ||alexius-ber.com^
 ||alfatraffic.com^
 ||alfpair.com^
@@ -60100,6 +60126,7 @@ tf2r.com#@#.adverts
 ||ejdkqclkzq.com^
 ||ejectbagsindefinite.com^
 ||ejectsurvivalfollower.com^
+||ejghgjhhgadcdchjaada.ru.
 ||ejkwgeanhw.com^
 ||ejurzsax.com^
 ||ejwxiuhjxep.com^
@@ -61382,6 +61409,7 @@ tf2r.com#@#.adverts
 ||gladiol9us10.com^
 ||glaimtug.com^
 ||glainsee.com^
+||glaivoun.net^
 ||glaiwhee.net^
 ||glaixich.net^
 ||glaksads.net^
@@ -66273,6 +66301,7 @@ tf2r.com#@#.adverts
 ||pistraving.co^
 ||pitatagata.com^
 ||pitchedfurs.com^
+||pitchedsprout.com^
 ||piticlik.com^
 ||pitpastraja.com^
 ||pitrespite.com^
@@ -69117,6 +69146,7 @@ tf2r.com#@#.adverts
 ||suined.com^
 ||suinglygaggler.com^
 ||suissemicron.com^
+||suitcasesimbue.com^
 ||suitesbahrag.icu^
 ||suitsoon.com^
 ||sulcateeclogue.com^
@@ -75545,6 +75575,7 @@ tf2r.com#@#.adverts
 ||winfreeprize.online^$popup
 ||witalfieldt.com^$popup
 ||withoughdv.xyz^$popup
+||woffxxx.com^$popup
 ||wokewhoki.pro^$popup
 ||wonderlandads.com^$popup
 ||workplaceidenticalincompetent.com^$popup
@@ -79706,6 +79737,7 @@ repeatmyvids.com,w3newspapers.com###topads
 scorespro.com###topban
 absolutelyrics.com,cdrlabs.com,exiledonline.com,findtheword.info,realitywanted.com,revizoronline.com,snapfiles.com###topbanner
 armenpress.am###topbnnr
+coinlean.com###topcontainer
 semiconductor-today.com###topheaderimage
 animixplay.to###topmid
 worldtimebuddy.com###toprek
@@ -79877,7 +79909,7 @@ searchenginejournal.com##.absolute-banner
 aminoapps.com,crash.net,inc.com,trustpilot.com##.ad-block
 sciencenews.org##.ad-block-leaderboard__freestar___Ologr
 sciencenewsforstudents.org##.ad-block-leaderboard__wrapper___1rR0c
-9to5google.com,9to5mac.com,audiokarma.org,beeradvocate.com,bizjournals.com,biznews.com,businessinsider.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,my9nj.com,myfitnesspal.com,nbcnews.com,nzherald.co.nz,opb.org,physiology.org,pixiv.net,punchng.com,realsport101.com,reason.com,scroll.in,seattletimes.com,sportskeeda.com,theglobeandmail.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,toofab.com,usmagazine.com,wogx.com##.ad-container
+9to5google.com,9to5mac.com,audiokarma.org,beeradvocate.com,bizjournals.com,biznews.com,businessinsider.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,my9nj.com,nbcnews.com,nzherald.co.nz,opb.org,physiology.org,pixiv.net,punchng.com,realsport101.com,reason.com,scroll.in,seattletimes.com,sportskeeda.com,theglobeandmail.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,toofab.com,usmagazine.com,wogx.com##.ad-container
 mobilesyrup.com##.ad-goes-here
 goal.com##.ad-slide_adSlideBanner__cEgCm
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,iamgujarat.com,lolcounter.com,mpog100.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
@@ -80324,7 +80356,7 @@ drivespark.com##.cmscontent-left-article
 careerindia.com##.cmscontent-top
 cnn.com##.cn--expandable.cn--idx-1
 thisismoney.co.uk##.cnr5
-browserhow.com,charlieintel.com,chromeunboxed.com,cryptoslate.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,iotwreport.com,reneweconomy.com.au,rezence.com,rok.guide##.code-block
+browserhow.com,charlieintel.com,chromeunboxed.com,cryptoslate.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,reneweconomy.com.au,rezence.com,rok.guide##.code-block
 conservativebrief.com##.code-block > span
 androidsage.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,techpp.com,whats-on-netflix.com##.code-block-1
 trendingpolitics.com##.code-block-12
@@ -80432,6 +80464,10 @@ stylist.co.uk##.css-8me5ln
 eviemagazine.com##.css-9n98hk
 nytimes.com##.css-bs95eu
 eviemagazine.com##.css-ipk9pc
+myfitnesspal.com##.css-kllxo3
+myfitnesspal.com##.css-lhxzbui
+myfitnesspal.com##.css-oex058
+myfitnesspal.com##.css-pummgu
 eviemagazine.com##.css-re7z9l
 healthline.com##.css-rjh5b
 healthline.com##.css-umsscj
@@ -80967,6 +81003,7 @@ imgur.com,pushsquare.com,songlyrics.com##.masthead
 powerelectronicsnews.com##.masthead-banner
 racgp.org.au##.mb-1.small
 amgreatness.com##.mb-10.mx-auto
+coinlean.com##.mb-3
 gamedev.net##.mb-3.align-items-center.justify-content-start
 indiatimes.com##.mb-36 > .top-trending
 themoscowtimes.com##.mb-4.py-3
