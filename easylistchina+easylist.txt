@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jcJAItIzxuDqi8MASsLQiQ
-! Version: 202207281705
+! Checksum: 2J4AqKRz97aKyZn8XYKWNw
+! Version: 202207291655
 ! Title: EasyList China+EasyList
-! Last modified: 28 Jul 2022 17:05 UTC
+! Last modified: 29 Jul 2022 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1328,6 +1328,7 @@ ubmcmm.baidustatic.com
 ##.w100b > .m_adv
 ##.wemziguanggao
 ##.wf_ad_block
+##.row > a[href="/hth.html"]
 ##.widget-qianhuiji
 ##.widget-topadding
 ##.widget-xlxba
@@ -1433,6 +1434,7 @@ ubmcmm.baidustatic.com
 ##div[id][style="position: fixed; bottom: 40%; z-index: 19999 !important; right: 2px;"]
 ##div[id^="a"] > a[target="_blank"][style="margin-top:3px;"]
 ##div[id^="ad_thread"]
+##script + div[id^="a-loading-"]
 ##div[id^="adv-"].adv
 ##div[id^="em"] > a[onclick^="em"][max-width]
 ##div[id^="photo-header-title-content-text-dall"]
@@ -2397,6 +2399,28 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||ryumrc.cn^
+||dongsonn.uno^
+||354664.top^
+||oqfdan.cn^
+||aihkjz.cn^
+||efangcdn.com^
+||codegeass.site^
+||opxnwz.shop^
+##a[href*=".pesqfmu.cn"]
+||vkygseu.cn^
+||mzwfrp.cn^
+||anshengshenghuo.fun^
+||jrnrpma.cn^
+||papathp.cn^
+||htjrlm.com^
+||tgfyq.cn^
+||kanshu.buzz^
+##a[href*=".hldbld.com/"]
+||sdfafds6.com^
+||103.21.91.144^
+||hozzs.hk^
+||mxwgt.cn^
 !
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
@@ -25735,7 +25759,7 @@ fqsousou.com,kengso.com#@#.user-share
 /advhd.
 /advice-ads.
 /advideo.$domain=~advideo.pro|~advideo.site
-/adview.$domain=~adview.mu|~adview.online|~adview.su
+/adview.$domain=~adview.mu|~adview.mx|~adview.online|~adview.su
 /adview/*
 /adview?
 /adview_
@@ -29921,6 +29945,7 @@ takeover_banner_
 .prebid&
 .prebid-bundle.
 .prebid.$domain=~prebid.org
+/_js/prbd_6.19.0.js
 /ad/postbid_
 /adn-hb/*
 /adn.ano.
@@ -44763,6 +44788,7 @@ _800x80_
 ##.adver
 ##.adver-block
 ##.adver-carousel-cards
+##.adver-header
 ##.adver-left
 ##.adver-text
 ##.adver-wrapper--250
@@ -48584,6 +48610,7 @@ _800x80_
 ##.home-features-ad
 ##.home-module--advertisement
 ##.home-module_ad
+##.home-page-ad
 ##.home-sidebar-ad
 ##.home-sidebar-ad-300
 ##.home-slider-ads
@@ -54787,6 +54814,7 @@ _800x80_
 ##.taboola_advertising
 ##.taboola_blk
 ##.taboola_block1
+##.taboola_container
 ##.taboola_lhs
 ##.tncls_taboola
 ##.trb_taboola
@@ -55056,7 +55084,7 @@ badoinkvr.com#@#a[href^="https://badoinkvr.com/"]
 xbdeals.net#@#a[href^="https://click.linksynergy.com/"]
 naughtyamerica.com#@#a[href^="https://natour.naughtyamerica.com/track/"]
 bookworld.no#@#a[href^="https://ndt5.net/"]
-legacy.com#@#a[href^="https://pubads.g.doubleclick.net/"]
+legacy.com,topper.com.br#@#a[href^="https://pubads.g.doubleclick.net/"]
 privateinternetaccess.com#@#a[href^="https://www.privateinternetaccess.com/"]
 marcpapeghin.com#@#a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="]
 politico.com#@#a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
@@ -60269,7 +60297,6 @@ tf2r.com#@#.adverts
 ||ekgloczbsblg.com^
 ||ekmas.com^
 ||ekrvemsgktkcihp.com^
-||eksiup.com^
 ||ekskbldmgjhfvl.com^
 ||ekttkwbkfbr.com^
 ||elasticad.net^
@@ -72981,6 +73008,7 @@ tf2r.com#@#.adverts
 ||egadvertising.com^$third-party
 ||egamingonline.com^$third-party
 ||egamiplatform.tv^$third-party
+||eksiup.com^$third-party
 ||elefantsearch.com^$third-party
 ||ematicsolutions.com^$third-party
 ||emberads.com^$third-party
@@ -76736,6 +76764,7 @@ tf2r.com#@#.adverts
 ||glam.com/gad/
 ||go.bloxplay.com^
 ||go.ezodn.com^
+||go.onelink.me^
 ||goldmoney.com/~/media/Images/Banners/
 ||google.com/adsense/ad
 ||google.com/adsense/domains
@@ -79661,7 +79690,7 @@ livestreamfails.com###oranum_livefeed_container_0
 electronicproducts.com,powvideo.net,streamplay.to###overlay
 mzzcloud.life,rabbitstream.net,rapid-cloud.ru,streamrapid.ru###overlay-container
 drivevideo.xyz###overlays
-animexin.xyz###overplay
+animexin.xyz,animexinax.com###overplay
 modthesims.info###pagenavigation > div > small
 seeklogo.com###panelAdShutterStockPromo
 hwbot.org###partner-tiles
@@ -81256,6 +81285,7 @@ dailymail.co.uk##.mol-fe-vouchercodes-redesign
 monsoonjournal.com##.mom-e3lanat-wrap
 mondoweiss.net##.mondo-ads-widget
 joindota.com##.monkey-container
+flickr.com##.moola-search-div.main
 apptrigger.com,fansided.com,lastnighton.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,winteriscoming.net##.mosaic-banner
 thepostmillennial.com##.mot-container
 thepostmillennial.com##.mot-label
@@ -82110,6 +82140,7 @@ premiumtimesng.com##.wpb_raw_code > .wpb_wrapper
 drphil.to##.wpfp_custom_popup
 sashares.co.za##.wppopups-whole
 theregister.com##.wptl
+windowsreport.com##.wr-marketing-cta-alt
 memeburn.com,ventureburn.com##.wrapper--grey
 paultan.org##.wrapper-footer
 wsj.com##.wsj-ad-label
@@ -84494,6 +84525,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||popin.cc/popin_discovery/recommend?$~third-party
 @@||portalbici.es^*-advertisement.$~third-party,xmlhttprequest
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
+@@||pubads.g.doubleclick.net/gampad/$image,domain=topper.com.br
 @@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
 @@||s0.2mdn.net/ads/studio/Enabler.js$domain=yuukinohana.co.jp
@@ -84513,6 +84545,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||strangermeetup.com/socket.io/$~third-party
 @@||tabiat.gov.tr/KACMS/Files/ad-$image,~third-party
 @@||tcm-koko.ed.jp/images/ad.jpg
+@@||tpc.googlesyndication.com/simgad/$image,domain=topper.com.br
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||trj.valuecommerce.com/vcushion.js
 @@||tubecorp.com/vs/vs.js$domain=hentaihd.xyz
