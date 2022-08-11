@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4fGA0uN8fm9f44CDG3DBSQ
-! Version: 202208101651
+! Checksum: G8hnYPKXyl/UQ7mfiKekJA
+! Version: 202208111641
 ! Title: EasyList China+EasyList
-! Last modified: 10 Aug 2022 16:51 UTC
+! Last modified: 11 Aug 2022 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1443,6 +1443,7 @@ ubmcmm.baidustatic.com
 ##div[class^="ps_"][value="20"]
 ##div[id][style="position: fixed; bottom: 40%; z-index: 19999 !important; right: 2px;"]
 ##div[id^="a"] > a[target="_blank"][style="margin-top:3px;"]
+##div[id^="a-loading-"] > span
 ##div[id^="ad_thread"]
 ##div[id^="adv-"].adv
 ##div[id^="em"] > a[onclick^="em"][max-width]
@@ -1813,6 +1814,7 @@ ubmcmm.baidustatic.com
 ||3xhmhct.cn^
 ||476bu131.cn^
 ||49468220.com^
+||4jfggh.com^
 ||50039tk.com^
 ||51grow.club^
 ||54askjdklm.xyz^
@@ -1865,6 +1867,7 @@ ubmcmm.baidustatic.com
 ||666749.xyz^
 ||666752.xyz^
 ||666753.xyz^
+||666754.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||777753.net^
@@ -1926,6 +1929,7 @@ ubmcmm.baidustatic.com
 ||badloniop.top^
 ||badmniop.top^
 ||baishui.me^
+||bbt114.cn^
 ||bdzkrl.cn^
 ||bengbaly.fun^
 ||beolit.cn^
@@ -2157,6 +2161,7 @@ ubmcmm.baidustatic.com
 ||ifvpetu.cn^
 ||igiene.club^
 ||igtqora.cn^
+||ihvwak.cn^
 ||iirpvchv.cn^
 ||ijre.club^
 ||ikrweb.cn^
@@ -2206,6 +2211,7 @@ ubmcmm.baidustatic.com
 ||kingleo.hk^
 ||kj-gov.cn^
 ||kjbyuguv12.com^
+||kjshenghuo.com^
 ||kkggy.top^
 ||klj4rw.site^
 ||kltnnxb.cn^
@@ -2225,6 +2231,7 @@ ubmcmm.baidustatic.com
 ||lacerate.club^
 ||lantian.love^
 ||laura.fun^
+||lcmnyfk.cn^
 ||ldpsfa.com^
 ||letsread.club^
 ||letzgr.cn^
@@ -2234,6 +2241,7 @@ ubmcmm.baidustatic.com
 ||lhpzz.love^
 ||lianliankanms.top^
 ||ling07.icu^
+||lingke02.xyz^
 ||lingke03.top^
 ||lingke05.top^
 ||liutt.online^
@@ -2245,6 +2253,7 @@ ubmcmm.baidustatic.com
 ||lmcraft.pw^
 ||lomo.cool^
 ||lorlsblh.cyou^
+||lptssbs.cn^
 ||lqqrvip.cn^
 ||ltht.tech^
 ||luotuoma.center^
@@ -2334,6 +2343,7 @@ ubmcmm.baidustatic.com
 ||okmjd.com^
 ||olwsx.com^
 ||onekeyedu.com^
+||oorlsblk.cyou^
 ||opxnwz.shop^
 ||oqfdan.cn^
 ||orientalocean.mobi^
@@ -2364,6 +2374,7 @@ ubmcmm.baidustatic.com
 ||pnrqz.xyz^
 ||pnslejs.cn^
 ||pongsone.uno^
+||porlsbll.cyou^
 ||ppcwzry.cn^
 ||pqfgtp.cn^
 ||prjwqs.xyz^
@@ -2400,6 +2411,7 @@ ubmcmm.baidustatic.com
 ||qsxfsp.shop^
 ||razasot.cn^
 ||rbioclv.cn^
+||renfs.xyz^
 ||rengbali.fun^
 ||renxinghuan.com^
 ||rgbsl.com^
@@ -2521,6 +2533,7 @@ ubmcmm.baidustatic.com
 ||uogrvci.cn^
 ||uongsona.uno^
 ||uongsono.uno^
+||uorlsblg.cyou^
 ||uquholhm.cn^
 ||urwnsq.xyz^
 ||uu99k.com^
@@ -2606,6 +2619,7 @@ ubmcmm.baidustatic.com
 ||xmgdgo.cn^
 ||xmsrd.com^
 ||xn--gov-x68dy61b.shop^
+||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
 ||xnxonbf.cn^
 ||xox8829.com^
 ||xox8863.com^
@@ -2625,6 +2639,7 @@ ubmcmm.baidustatic.com
 ||xywy.name^
 ||xyxhtyy.cn^
 ||xzwk.hk^
+||yanping521.vip^
 ||yanyuda.xyz^
 ||yaomuzhubao.com^
 ||yctrs.top^
@@ -2634,6 +2649,7 @@ ubmcmm.baidustatic.com
 ||yeyuly.love^
 ||yhz18.com^
 ||yihoo.biz^
+||yijiachen.cn^
 ||yimi1818.xyz^
 ||yinxi888.com^
 ||yiuspekmn.bar^
@@ -2648,6 +2664,7 @@ ubmcmm.baidustatic.com
 ||yuhuka.cc^
 ||yular.cn^
 ||yuliglsd.space^
+||yumnxwvd.ink^
 ||yuretb.site^
 ||yuvvddt.cn^
 ||yvajogj.cn^
@@ -2666,6 +2683,7 @@ ubmcmm.baidustatic.com
 ||zhe8000.pw^
 ||zhetoutiao.top^
 ||zhoudm.love^
+||zhouxingyu.xyz^
 ||ziyuanyinhang.wang^
 ||zjgjzzy.online^
 ||zkgvsoo.cn^
@@ -12813,7 +12831,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||phpstudyimg.com/all/hrl.gif
 ||phpstudyimg.com/all/renrenxiaxuan980.gif
 ||phpstudyimg.com/all/xiaojieqiantie.gif
-||pianba.tv/api/*.js
 ||pianjicdn.com^*.php
 ||pianyuan.org/zfb.
 ||piaodown.com/xtm/
@@ -16554,7 +16571,7 @@ caixin.com##.course_box
 meishij.net##.cp_body_right
 baidu.com##.cpc-adv-container
 makepolo.com##.cpc_tgs
-pianba.tv##.cpcad
+pbpb.tv##.cpcad
 zuoye.baidu.com,zybang.com##.cpro
 docin.com##.cpro_mod
 qq.com##.cps_inner
@@ -19320,7 +19337,7 @@ secretmine.net##div[id^="secre-"]
 mjzj.com##div[id^="sidebar-top-carouse"]
 douyu.com##div[id^="sign_p_"]
 suizhoushi.com##div[id^="sznew_ad"]
-dmh8.com,pianba.tv##div[id^="test"]
+dmh8.com##div[id^="test"]
 ottawazine.com##div[id^="text-"]
 e0575.cn##div[id^="tid_"]
 baidu.com##div[id^="toast"]
@@ -46998,11 +47015,14 @@ _800x80_
 ##.dfp-ad-container
 ##.dfp-ad-full
 ##.dfp-ad-hideempty
+##.dfp-ad-lead2-wrap
+##.dfp-ad-lead3-wrap
 ##.dfp-ad-midbreaker-wrap
 ##.dfp-ad-midbreaker2-wrap
 ##.dfp-ad-placeholder
 ##.dfp-ad-rect
 ##.dfp-ad-tags
+##.dfp-ad-top-wrapper
 ##.dfp-ad-unit
 ##.dfp-ad-widget
 ##.dfp-ads-ad-article-middle
@@ -51022,6 +51042,8 @@ _800x80_
 ##.rr_ads
 ##.rr_skyad
 ##.rs-ad
+##.rs-advert
+##.rs-advert__container
 ##.rs_ad_block
 ##.rs_ad_bot
 ##.rs_ad_top
@@ -53109,6 +53131,7 @@ _800x80_
 ##.widget_cxad
 ##.widget_dfp
 ##.widget_dfp_lb-widget
+##.widget_doubleclick_widget
 ##.widget_econaabachoadswidget
 ##.widget_emads
 ##.widget_epcl_ads_fluid
@@ -65861,6 +65884,7 @@ tf2r.com#@#.adverts
 ||oustoope.com^
 ||outabsola.com^
 ||outbarwonna.casa^
+||outbidashes.com^
 ||outblowtewhit.com^
 ||outelectrodean.com^
 ||outgateniceish.com^
@@ -79386,6 +79410,7 @@ planetminecraft.com###box_300btf
 comicbookrealm.com###brad
 modthesims.info###browse-content > div > small
 dailydot.com###browsi-topunit
+icon-icons.com###bsa-placeholder-search
 w3newspapers.com###btmadd
 battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca###bumper-cars
 northcountrypublicradio.org###business
@@ -79482,6 +79507,7 @@ ghacks.net###download-widget
 transfermarkt.com###drQtceq
 designtaxi.com###dt-small-sub-2
 designtaxi.com###dt-small-sub-3
+sashares.co.za###elementor-popup-modal-89385
 energyforecastonline.co.za###endorsers
 geekwire.com###engineering-centers-sidebar
 welovetrump.com###enhancedtextwidget-14
@@ -79617,6 +79643,7 @@ osbot.org###ipsLayout_mainArea > div > div > [href]
 unitconversion.org###iright
 allnewspipeline.com###isg_add
 newshub.co.nz###island-unit-2
+icon-icons.com###istockphoto-placeholder
 fakeupdate.net###itemz
 googleping.com###itro_opaco
 googleping.com###itro_popup
@@ -79836,6 +79863,7 @@ wowway.net###sc_read_header_banner
 my.juno.com###scienceTile
 money.yahoo.com###sda-MON
 pao.gr###section--sponsors
+searchenginejournal.com###sej-pop-wrapper
 abbreviations.com,definitions.net,grammar.com,kamus.net,lyrics.com,rhymes.net,scripts.com,symbols.com###sela-container
 triblive.com###shopsWidget
 thefastmode.com###side_ads_small
@@ -80111,6 +80139,7 @@ thedailybeast.com##.Sizer
 coin360.com##.Skyscraper
 geekflare.com##.Sponsors
 coin360.com##.StickyCorner__Container
+behance.net##.StockRail-rail-oox
 slant.co##.SummaryPage-LustreEmbed
 imgur.com##.Top300x600
 algoafm.co.za##.TopBanner
@@ -80311,6 +80340,7 @@ motor1.com##.ap
 motor1.com##.apb
 ebay.com##.app-rtm-pid-wrapper
 classicfm.com##.apple_music
+icon-icons.com##.apu
 adn.com##.arcad-feature
 1news.co.nz,boston25news.com,kiro7.com,wftv.com,whio.com,wpxi.com,wsbradio.com,wsbtv.com,wsoctv.com##.arcad_feature
 whatculture.com##.area-x__large
@@ -80717,6 +80747,7 @@ irishtimes.com##.cs-teaser
 c-span.org##.cspan-ad-still-wrapper
 healthline.com##.css-0 + div:not([class]):last-of-type
 healthline.com##.css-12efcmn
+nytimes.com##.css-142l3g4
 sbs.com.au##.css-14lcahw-MuiTypography-root
 stylist.co.uk##.css-17xu4dw
 medicalnewstoday.com,psychcentral.com##.css-1cg0byz
@@ -80770,6 +80801,7 @@ ehitavada.com##.custom-popup
 101cargames.com##.custom-siteskin
 trancentral.tv##.custom_banners_big_link
 annistonstar.com##.custom_hot_deal_image
+total-croatia-news.com##.custombanner
 jobhits.co.uk##.cvads
 futurecurrencyforecast.com##.cwc-tor-widget
 blockchair.com##.d-block
@@ -80845,6 +80877,7 @@ dailydot.com##.dynamic-block
 nomadlist.com##.dynamic-fill
 nytimes.com##.e12j3pa50
 thesaurus.com##.e1wyd5nb0
+nytimes.com##.e1xxpj0j1.css-4vtjtj
 arabtimesonline.com,independent.co.ug,nigerianobservernews.com##.e3lan
 presskitaquat.com##.e3lan-top
 tiresandparts.net##.e3lanat-layout-rotator
@@ -80861,6 +80894,7 @@ experts-exchange.com##.eeAD
 notebooks.com##.efbleft
 ctvnews.ca##.election-leaderboard
 sashares.co.za##.elementor-48612
+dailyfetched.com##.elementor-element-4e695da
 canyoublockit.com##.elementor-widget-container > center > p
 estnn.com##.elementor-widget-wp-widget-ai_widget
 popsci.com,thedrive.com##.empire-below_content__desktop__articles-prefill-container
@@ -81550,6 +81584,7 @@ computerweekly.com##.pro-downloads-home
 cosmopolitan.com##.product-buy-button-wrapper
 bgr.com##.product-callout-todays-top-deal
 barnesandnoble.com##.product-commentary-advertisement
+tweaktown.com##.product_box
 ndtv.com##.product_mapping_sticky
 pbs.org##.production-and-funding
 nymag.com##.products-package
