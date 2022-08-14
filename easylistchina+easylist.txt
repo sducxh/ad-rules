@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: b4mhyGL3pD8an5AzZ/ItUw
-! Version: 202208131641
+! Checksum: 0EguJB6duK6B88z9CnmvKA
+! Version: 202208141641
 ! Title: EasyList China+EasyList
-! Last modified: 13 Aug 2022 16:41 UTC
+! Last modified: 14 Aug 2022 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1828,6 +1828,7 @@ ubmcmm.baidustatic.com
 ||54askjdklm.xyz^
 ||551vip.xyz^
 ||5gustis.xyz^
+||5htftu.com^
 ||5xokfmru.cn^
 ||6399tp.com^
 ||666624.xyz^
@@ -1878,6 +1879,7 @@ ubmcmm.baidustatic.com
 ||666754.xyz^
 ||666755.xyz^
 ||666756.xyz
+||666757.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||777753.net^
@@ -2095,6 +2097,7 @@ ubmcmm.baidustatic.com
 ||ghhtt.top^
 ||gitwnd.cn^
 ||gkenql.cn^
+||globalso.biz^
 ||gnaunbiu.rest^
 ||gnbunbiv.rest^
 ||gncunbiw.rest^
@@ -2320,7 +2323,9 @@ ubmcmm.baidustatic.com
 ||mmrrk.top^
 ||mnbvbrow.xyz^
 ||mnuy56.site^
+||mnvrwq.xyz^
 ||mongsonv.uno^
+||morlsbli.cyou^
 ||mqjeut5.com^
 ||msjj.tech^
 ||mstgc.com^
@@ -2331,6 +2336,7 @@ ubmcmm.baidustatic.com
 ||mudcxq.cn^
 ||muliglsn.space^
 ||musan.love^
+||mxlwmp.cn^
 ||mxowrwb.cn^
 ||mxwgt.cn^
 ||mywei.love^
@@ -2443,6 +2449,7 @@ ubmcmm.baidustatic.com
 ||qnmvqdl.cn^
 ||qofvpbo.cn^
 ||qongsonw.uno^
+||qqpwhge.cn^
 ||qqwxi.xyz^
 ||qrnmyn.cn^
 ||qsdqyf.cn^
@@ -2479,6 +2486,7 @@ ubmcmm.baidustatic.com
 ||scktmdv.cn^
 ||sdfafds6.com^
 ||sdljvrf.cn^
+||sdnc.top^
 ||sdqinghong.cn^
 ||sdutmedia.com^
 ||sejlfe.cn^
@@ -2671,6 +2679,7 @@ ubmcmm.baidustatic.com
 ||xn--gov-x68dy61b.shop^
 ||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
 ||xnxonbf.cn^
+||xorlsblw.cyou^
 ||xox8829.com^
 ||xox8863.com^
 ||xox8956.com^
@@ -2699,6 +2708,7 @@ ubmcmm.baidustatic.com
 ||yelmlrq.cn^
 ||yengbalf.fun^
 ||yeyuly.love^
+||yhilnc.cn^
 ||yhz18.com^
 ||yihoo.biz^
 ||yijiachen.cn^
@@ -2743,6 +2753,7 @@ ubmcmm.baidustatic.com
 ||zlreqxe.xyz^
 ||zorlsbln.cyou^
 ||zoujitea.hk^
+||zovgdpj.cn^
 ||zp1999.online^
 ||zsgwed.cn^
 ||zujilife.online^
@@ -10134,6 +10145,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||91danji.com/js/lmt.js
 ||91hs005.xyz^*.gif
 ||91jbz.com/file/script/A
+||91meijuw.com/6666/
+||91meijuw.com/template/pingg_tpl/images/*400X400.
 ||91nrtt.com/vod/
 ||91p20.space/fans/
 ||91rb.net/fc/
@@ -14375,6 +14388,7 @@ hao123.com###\5f _wgt_0_1
 hao123.com###\5f _wgt_0_13
 ofweek.com###\5f ad-2100
 hao123.com###__elm_0_4
+mobile01.com###_popIn_recommend_side
 973.com###a0
 mtv-ktv.net###aShow
 le.com###a_body_11628
@@ -16662,6 +16676,7 @@ xingkbjm.com##.d_postlist > ul > li:nth-child(-n+2)
 qingdaonews.com##.da30050
 qingdaonews.com##.da66050
 zhangxinxu.com##.da_bottom
+mobile01.com##.dable-side_theme
 gw54.com,xbyuan.com,xgw5.com##.dad
 lenovo.com.cn##.daily-hotwords
 map.baidu.com##.damoce-search-item
@@ -22609,7 +22624,6 @@ fqsousou.com,kengso.com#@#.user-share
 -advert_August.
 -advertise.$domain=~ads.com|~i-advertise.net|~mb-advertise.gr
 -advertise/
--advertisement.
 -advertisement/script.
 -advertisement_
 -advertising/assets/
@@ -79176,9 +79190,8 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstreamta
 ||pornvibe.org/banners/
 ||puporn.com/tpswmiflfmh/
 ||pussyspace.com/vr29
-||rat.xxx/floop/
-||rat.xxx/rpi/
-||rat.xxx/xdman/
+||rat.xxx/retr/
+||rat.xxx/ssk/
 ||realgfporn.com/js/bbbasdffdddf.php
 ||redgifs.com/assets/js/goCtrl.js
 ||redtube.com^$subdocument,~third-party
@@ -79969,7 +79982,6 @@ parentdish.co.uk###rr-amazon
 search-results.com###rr_sa_container
 anisearch.com###rrightX
 core77.com###rsDesignDir
-sciencealert.com###rt-header
 pages.ebay.com###rtm_1658
 ebay.com###rtm_html_441
 noqreport.com###rumble_vj59vh
@@ -80257,6 +80269,7 @@ news18.com##.NAT_add
 ask.com##.PartialKelkooResults
 snopes.com##.PlacementWrapper
 imgur.com##.PrimisPlayerContainer
+sciencealert.com##.Purch_Y_C_0_1-container
 tumblr.com##.Qrht9
 lbcgroup.tv##.ScriptDiv
 simkl.com##.SimklTVDetailEpisodeLinksItemHref
@@ -80330,6 +80343,7 @@ aminoapps.com,crash.net,inc.com,trustpilot.com##.ad-block
 sciencenews.org##.ad-block-leaderboard__freestar___Ologr
 sciencenewsforstudents.org##.ad-block-leaderboard__wrapper___1rR0c
 9to5google.com,9to5mac.com,audiokarma.org,beeradvocate.com,bizjournals.com,biznews.com,businessinsider.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,my9nj.com,nbcnews.com,nzherald.co.nz,oneesports.gg,opb.org,physiology.org,pixiv.net,politico.com,punchng.com,realsport101.com,reason.com,scroll.in,seattletimes.com,sportskeeda.com,theglobeandmail.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,toofab.com,usmagazine.com,wogx.com##.ad-container
+sciencealert.com##.ad-desktop\:block
 mobilesyrup.com##.ad-goes-here
 goal.com##.ad-slide_adSlideBanner__cEgCm
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,iamgujarat.com,lolcounter.com,mpog100.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
@@ -80479,7 +80493,6 @@ businesslive.co.za##.article-da
 eonline.com##.article-detail__right-rail--topad
 eonline.com##.article-detail__segment-ad
 christianpost.com##.article-divider
-sciencealert.com##.article-fulltext > div
 scoop.co.nz##.article-left-box
 nintendolife.com,purexbox.com##.article-recommendations
 people.com##.articleContainer__rail
@@ -82714,6 +82727,7 @@ osbot.org##custom > a[href]
 readonepiece.com##div > b
 healthline.com##div.css-0 > div[class]:not([id])
 windows10forums.com##div.message--post.message
+inverse.com##div.zz
 nexusradio.com##div[align=center]
 fortune.com##div[class*="Ad-"]
 sportbible.com##div[class*="Advert"]
@@ -83577,6 +83591,7 @@ gayporno.fm##.b-content__aside-head
 onlydudes.tv##.b-footer-place
 onlydudes.tv##.b-side-col
 japan-whores.com##.b-sidebar
+rat.xxx##.b-spot
 me-gay.com##.b-uvb-spot
 dofap.com##.b_videobot
 xfantasy.su##.ba
@@ -83809,6 +83824,7 @@ allfuckpics.com##.middleclass
 lic.me##.miniplayer
 tryindianporn.com##.mle
 hentaicore.org##.mob-lock
+rat.xxx##.mob-nat-spot
 gaymovievids.com,verygayboys.com##.mobile-random
 tube-bunny.com##.mobile-vision
 yourdarkdesires.com##.moment
@@ -83969,7 +83985,7 @@ sexvid.xxx##.top-cube
 japan-whores.com##.top-r-all
 motherless.com##.top-referers
 porngem.com##.top-sponsor
-zbporn.tv##.top-spot
+rat.xxx,zbporn.tv##.top-spot
 10movs.com##.top_banner
 camwhores.tv##.topad
 m.mylust.com##.topb-100
@@ -84454,7 +84470,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||sundaysportclassifieds.com/ads/$image,~third-party
 @@||survey.g.doubleclick.net^$script,domain=sporcle.com
 @@||techadvisor.com/cmsdata/$image,~third-party
-@@||thedailywtf.com/images/*-advertisement.png$~third-party
 @@||thepiratebay.org/cdn-cgi/challenge-platform/$~third-party
 @@||thingiverse.com/assets/ad/$image,~third-party
 @@||townhall.com/resources/dist/js/prebid-pjmedia.js$script,domain=pjmedia.com
@@ -84508,6 +84523,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ads.microsoft.com^$generichide
 @@||apple.com^$generichide
 @@||bitbucket.org^$generichide
+@@||browserbench.org^$generichide
 @@||calendar.google.com^$generichide
 @@||cbs.com^$generichide
 @@||cloud.google.com^$generichide
@@ -84548,6 +84564,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||tidal.com^$generichide
 @@||tv.youtube.com^$generichide
 @@||web.archive.org^$generichide
+@@||web.basemark.com^$generichide
 @@||web.telegram.org^$generichide
 @@||whatsapp.com^$generichide
 @@||wikibooks.org^$generichide
@@ -84727,8 +84744,8 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||hinagiku-u.ed.jp/wp54/wp-content/themes/hinagiku/images/$image,~third-party
 @@||ias.global.rakuten.com/adv/$script,domain=rakuten.co.jp
 @@||iejima.org/ad-banner/$image,~third-party
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=autokult.pl|bloomberg.co.jp|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|klix.ba|locipo.jp|maharashtratimes.com|minigame.aeriagames.jp|nettavisen.no|niusdiario.es|pointmall.rakuten.co.jp|rtlnieuws.nl|sportsbull.jp|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|voe.sx|webdunia.com|wowbiz.ro|wtk.pl
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=vk.sportsbull.jp
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=autokult.pl|bloomberg.co.jp|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|klix.ba|locipo.jp|maharashtratimes.com|minigame.aeriagames.jp|nettavisen.no|niusdiario.es|pointmall.rakuten.co.jp|rtlnieuws.nl|s.yimg.jp|sportsbull.jp|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|univtec.com|video.tv-tokyo.co.jp|vlive.tv|voe.sx|webdunia.com|wowbiz.ro|wtk.pl
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=s.yimg.jp|vk.sportsbull.jp
 @@||ingrossoprofumitester.it/img/ad-profumeria-$image,~third-party
 @@||innervision.co.jp/var/ezwebin_site/storage/images/ad/$image,~third-party
 @@||jmedj.co.jp/files/$image,~third-party
@@ -84763,7 +84780,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||pixel.adsafeprotected.com^$xmlhttprequest,domain=gentside.com
 @@||politiken.dk/static/$script
 @@||popin.cc/popin_discovery/recommend?$~third-party
-@@||portalbici.es^*-advertisement.$~third-party,xmlhttprequest
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
 @@||pubads.g.doubleclick.net/gampad/$image,domain=topper.com.br
 @@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
