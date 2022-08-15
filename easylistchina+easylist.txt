@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0EguJB6duK6B88z9CnmvKA
-! Version: 202208141641
+! Checksum: RrTOaUKQZs15W8jpP9Upbw
+! Version: 202208151651
 ! Title: EasyList China+EasyList
-! Last modified: 14 Aug 2022 16:41 UTC
+! Last modified: 15 Aug 2022 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1880,6 +1880,7 @@ ubmcmm.baidustatic.com
 ||666755.xyz^
 ||666756.xyz
 ||666757.xyz^
+||666758.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||777753.net^
@@ -1952,6 +1953,7 @@ ubmcmm.baidustatic.com
 ||bhujiwwb.top^
 ||bob5379.com^
 ||bobdz.com^
+||borlsbla.cyou^
 ||bpnhgan.cn^
 ||bsytkas.cn^
 ||btaawy.cn^
@@ -1997,6 +1999,7 @@ ubmcmm.baidustatic.com
 ||collegepre.net^
 ||colour5.top^
 ||congsons.uno^
+||corlsblt.cyou^
 ||cosyroom.biz^
 ||cqdalqx.cn^
 ||cruiseeagle.hk^
@@ -2134,6 +2137,7 @@ ubmcmm.baidustatic.com
 ||gylbh.cn^
 ||gytty.top^
 ||gz7pz.com^
+||gznxodg.cn^
 ||h56hg7.site^
 ||hbtyk.top^
 ||hcbmq.cn^
@@ -2196,6 +2200,7 @@ ubmcmm.baidustatic.com
 ||iorlsblj.cyou^
 ||iotewq.xyz^
 ||ishoutu.net^
+||itbwq.xyz^
 ||iuliglsh.space^
 ||iusnajah.cn^
 ||ixihet.cn^
@@ -2223,6 +2228,7 @@ ubmcmm.baidustatic.com
 ||juhuitongcheng.life^
 ||juringupstage.com^
 ||jwtkw2w.cn^
+||jyuyjxx.cn^
 ||k31bpzf.xyz^
 ||k3uihu.xyz^
 ||kanshu.buzz^
@@ -2240,6 +2246,7 @@ ubmcmm.baidustatic.com
 ||khdry.top^
 ||kimiaexirteb.com^
 ||kingleo.hk^
+||kisafnid.space^
 ||kj-gov.cn^
 ||kjbyuguv12.com^
 ||kjshenghuo.com^
@@ -2252,6 +2259,7 @@ ubmcmm.baidustatic.com
 ||krurkex.com^
 ||ksadrewrty.com^
 ||kvevv.com^
+||kvhcc.com^
 ||kwdgudw.cn^
 ||kwjfoeq.cn^
 ||kzecc.com^
@@ -2327,6 +2335,7 @@ ubmcmm.baidustatic.com
 ||mongsonv.uno^
 ||morlsbli.cyou^
 ||mqjeut5.com^
+||mrshw.mobi^
 ||msjj.tech^
 ||mstgc.com^
 ||mthdqs.cn^
@@ -2362,6 +2371,7 @@ ubmcmm.baidustatic.com
 ||niunai.buzz^
 ||niuspykmn.bar^
 ||njamlya.top^
+||nkevca.cn^
 ||nngzfd.cn^
 ||nongchanlianhe.top^
 ||nongsonx.uno^
@@ -2455,6 +2465,7 @@ ubmcmm.baidustatic.com
 ||qsdqyf.cn^
 ||qsxfsp.shop^
 ||razasot.cn^
+||rbgfxxt.cn^
 ||rbioclv.cn^
 ||renfs.xyz^
 ||rengbali.fun^
@@ -2471,6 +2482,7 @@ ubmcmm.baidustatic.com
 ||rofvjko.cn^
 ||rongsonm.uno^
 ||rongxin.biz^
+||rorlsblm.cyou^
 ||rowemfg.com^
 ||rqkfhquz.cn^
 ||rrkky.top^
@@ -2493,6 +2505,7 @@ ubmcmm.baidustatic.com
 ||sevenmax.cn^
 ||sfzztox.cn^
 ||sgdgh15.com^
+||sghmvum.cn^
 ||shaokaodaren.top^
 ||shhcc.top^
 ||shino3ur.xyz^
@@ -2532,6 +2545,7 @@ ubmcmm.baidustatic.com
 ||sxieqbu.cn^
 ||syb.hk^
 ||sym.zone^
+||taiheian.top^
 ||taipingyang.hk^
 ||tangxiaodou.top^
 ||tdtxkvj.cn^
@@ -2551,6 +2565,7 @@ ubmcmm.baidustatic.com
 ||ttwwy.top^
 ||tuiquanqiu.cn^
 ||tuliglsd.space^
+||tumnxwvd.ink^
 ||tuotianxia.top^
 ||twjsx.cn^
 ||twuafbj.cn^
@@ -2599,6 +2614,7 @@ ubmcmm.baidustatic.com
 ||veugcz8.com^
 ||vfcwij.cn^
 ||vflzdrv.cn^
+||vgrovkb.cn^
 ||vhlret.cn^
 ||viswcnb.cn^
 ||viuspbkmn.bar^
@@ -2613,6 +2629,7 @@ ubmcmm.baidustatic.com
 ||vtuctez.cn^
 ||vueujv.com^
 ||vuliglsf.space^
+||vumnxwvf.ink^
 ||vvpingtai.com^
 ||wangduoduo.pw^
 ||wangjunyan.xyz^
@@ -2689,6 +2706,7 @@ ubmcmm.baidustatic.com
 ||xqoekp.cn^
 ||xroqbkk.cn^
 ||xsbndzklbm.com^
+||xsjh001.xyz^
 ||xsjh002.xyz^
 ||xtojqz.club^
 ||xujmcrc.cn^
@@ -2708,6 +2726,7 @@ ubmcmm.baidustatic.com
 ||yelmlrq.cn^
 ||yengbalf.fun^
 ||yeyuly.love^
+||yfunkgk.cn^
 ||yhilnc.cn^
 ||yhz18.com^
 ||yihoo.biz^
@@ -2750,6 +2769,7 @@ ubmcmm.baidustatic.com
 ||ziyuanyinhang.wang^
 ||zjgjzzy.online^
 ||zkgvsoo.cn^
+||zlgame.top^
 ||zlreqxe.xyz^
 ||zorlsbln.cyou^
 ||zoujitea.hk^
@@ -9365,6 +9385,7 @@ ubmcmm.baidustatic.com
 ||ubmcvideo.baidustatic.com^
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||widget.ezprice.com.tw^$third-party
+||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xyimg.net^$domain=~xy.com
 ||yiqifa.com^$subdocument
 ||yiqifa.com^*.js$third-party
@@ -18474,6 +18495,7 @@ mydigit.cn##.txtMes
 cntour2.com##.txtPicAd
 ltaaa.com##.txtads
 500.com##.tz_pai
+mobile01.com##.u-ad-image
 onlinedown.net##.u-btn-safe
 kkpan.com,qqtn.com,smzy.com,yxdj.com.cn##.u-gs-btn
 smzy.com##.u-gs-btn2
@@ -28946,7 +28968,7 @@ fqsousou.com,kengso.com#@#.user-share
 ://ad1.
 ://adcl.$domain=~adcl.co.nz|~adcl.com|~adcl.screenconnect.com
 ://adn.*/zone/$subdocument
-://ads.$domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.finance|~ads.gambinoslot.com|~ads.google.com|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lordlucky.com|~ads.magalu.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
+://ads.$domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.finance|~ads.gambinoslot.com|~ads.google.com|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lordlucky.com|~ads.magalu.com|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads2.
 ://adv.$domain=~adv.asahi.com|~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
@@ -76771,6 +76793,7 @@ tf2r.com#@#.adverts
 ||ads.servebom.com^
 ||ads.sportradar.com^
 ||adserving.unibet.com^
+||adv.r7.com^
 ||advast.sibnet.ru^
 ||adzmoney.linkyqueen.ga^
 ||aff.bstatic.com^
@@ -80302,7 +80325,7 @@ timesofindia.indiatimes.com##._3xsKP
 outlook.live.com##._BAY1XlyQSIe6kyKPlYP
 revolver.news##.__hinit
 gadgets360.com##.__wdgt_rhs_kpc
-gadgets.ndtv.com##._ad
+gadgets.ndtv.com,gadgets360.com##._ad
 pirateiro.com##._br9is
 afro.com##.a-215.g-single
 rumble.com##.a-break
@@ -80420,7 +80443,7 @@ imagetotext.info##.adv_text
 98online.com,airgunshooting.co.uk,airmalta.com,allghananews.com,anews.com.tr,angliaafloat.co.uk,arabianindustry.com,barkinganddagenhampost.co.uk,becclesandbungayjournal.co.uk,blogto.com,burymercury.co.uk,cambstimes.co.uk,canalboat.co.uk,cardealermagazine.co.uk,caribbeancinemas.com,completefrance.com,countrysmallholding.com,crimemagazine.com,dailyedge.ie,derehamtimes.co.uk,dissmercury.co.uk,dunmowbroadcast.co.uk,eadt.co.uk,eastlondonadvertiser.co.uk,economist.com,edp24.co.uk,ee.co.za,elystandard.co.uk,eos.org,etf.com,eveningnews24.co.uk,exmouthjournal.co.uk,fakenhamtimes.co.uk,farmprogress.com,football.co.uk,ft.com,games.co.uk,gamesgames.com,greatyarmouthmercury.co.uk,hackneygazette.co.uk,hamhigh.co.uk,hertsad.co.uk,huntspost.co.uk,icaew.com,ilfordrecorder.co.uk,iol.co.za,ipswichstar.co.uk,islingtongazette.co.uk,johnogroat-journal.co.uk,kentonline.co.uk,lgr.co.uk,lowestoftjournal.co.uk,maltapark.com,midweekherald.co.uk,momjunction.com,morningstar.co.uk,mousebreaker.com,newhamrecorder.co.uk,newstalkzb.co.nz,northdevongazette.co.uk,northnorfolknews.co.uk,northsomersettimes.co.uk,pilotweb.aero,pinkun.com,proxcskiing.com,raidforums.com,romfordrecorder.co.uk,royston-crow.co.uk,saffronwaldenreporter.co.uk,sidmouthherald.co.uk,sportingshooter.co.uk,sportspromedia.com,stamfordmercury.co.uk,stowmarketmercury.co.uk,sudburymercury.co.uk,tbivision.com,the42.ie,thecomet.net,thejournal.ie,theneweuropean.co.uk,thewestonmercury.co.uk,trucksplanet.com,videogamer.com,waploaded.com,wattonandswaffhamtimes.co.uk,whtimes.co.uk,wisbechstandard.co.uk,wymondhamandattleboroughmercury.co.uk,yourchickens.co.uk##.advert
 zimbabwesituation.com##.advertise
 gpfans.com##.advertise-panel
-000webhost.com,aarp.org,animax-asia.com,apkforpc.com,araratadvertiser.com.au,areanews.com.au,armidaleexpress.com.au,audioxpress.com,axn-asia.com,batemansbaypost.com.au,begadistrictnews.com.au,bendigoadvertiser.com.au,benfergusonshow.com,blayneychronicle.com.au,bluemountainsgazette.com.au,boorowanewsonline.com.au,bordermail.com.au,braidwoodtimes.com.au,bravotv.com,bunburymail.com.au,busseltonmail.com.au,camdenadvertiser.com.au,camdencourier.com.au,canowindranews.com.au,centralwesterndaily.com.au,cessnockadvertiser.com.au,cnbctv18.com,conservativeradio.com,controleng.com,cootamundraherald.com.au,cowraguardian.com.au,dailyadvertiser.com.au,dailyliberal.com.au,dungogchronicle.com.au,dw.com,easternriverinachronicle.com.au,edenmagnet.com.au,esperanceexpress.com.au,examiner.com.au,fairfieldchampion.com.au,forbesadvocate.com.au,gemtvasia.com,gleninnesexaminer.com.au,gloucesteradvocate.com.au,goondiwindiargus.com.au,goulburnpost.com.au,greatlakesadvocate.com.au,grenfellrecord.com.au,hardenexpress.com.au,hawkesburygazette.com.au,hcn.org,hepburnadvocate.com.au,huffingtonpost.co.uk,huntervalleynews.net.au,inqld.com.au,inverelltimes.com.au,jewishworldreview.com,juneesoutherncross.com.au,katherinetimes.com.au,legion.org,lifezette.com,lithgowmercury.com.au,liverpoolchampion.com.au,livestly.com,macarthuradvertiser.com.au,macleayargus.com.au,magtheweekly.com,mailtimes.com.au,maitlandmercury.com.au,mandurahmail.com.au,manningrivertimes.com.au,margaretrivermail.com.au,martechadvisor.com,moreechampion.com.au,mudgeeguardian.com.au,murrayvalleystandard.com.au,muswellbrookchronicle.com.au,naroomanewsonline.com.au,narrominenewsonline.com.au,northerndailyleader.com.au,northweststar.com.au,nvi.com.au,oann.com,oberonreview.com.au,onetvasia.com,oxygen.com,parkeschampionpost.com.au,pch.com,portlincolntimes.com.au,portnews.com.au,portpirierecorder.com.au,portstephensexaminer.com.au,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,redvoicemedia.com,revolver.news,salife.com.au,sconeadvocate.com.au,sify.com,singletonargus.com.au,smithsonianmag.com,southcoastregister.com.au,southernhighlandnews.com.au,standard.net.au,stawelltimes.com.au,stockandland.com.au,streamingmedia.com,tenterfieldstar.com.au,the-scientist.com,theadvocate.com.au,thecatholicthing.org,thecourier.com.au,thecurrent.org,thedirect.com,theflindersnews.com.au,theislanderonline.com.au,theland.com.au,theleader.com.au,therural.com.au,townandcountrymagazine.com.au,transcontinental.com.au,ulladullatimes.com.au,victorharbortimes.com.au,weatherwatch.co.nz,wellingtontimes.com.au,westernadvocate.com.au,westernmagazine.com.au,whyallanewsonline.com.au,wollondillyadvertiser.com.au,woot.com,yasstribune.com.au,youngwitness.com.au##.advertisement
+000webhost.com,aarp.org,animax-asia.com,apkforpc.com,araratadvertiser.com.au,areanews.com.au,armidaleexpress.com.au,audioxpress.com,axn-asia.com,batemansbaypost.com.au,begadistrictnews.com.au,bendigoadvertiser.com.au,benfergusonshow.com,blayneychronicle.com.au,bluemountainsgazette.com.au,boorowanewsonline.com.au,bordermail.com.au,braidwoodtimes.com.au,bravotv.com,bunburymail.com.au,busseltonmail.com.au,camdenadvertiser.com.au,camdencourier.com.au,canowindranews.com.au,centralwesterndaily.com.au,cessnockadvertiser.com.au,cnbctv18.com,conservativeradio.com,controleng.com,cootamundraherald.com.au,cowraguardian.com.au,dailyadvertiser.com.au,dailyliberal.com.au,dungogchronicle.com.au,dw.com,easternriverinachronicle.com.au,edenmagnet.com.au,esperanceexpress.com.au,examiner.com.au,fairfieldchampion.com.au,forbesadvocate.com.au,gemtvasia.com,gleninnesexaminer.com.au,gloucesteradvocate.com.au,goondiwindiargus.com.au,goulburnpost.com.au,greatlakesadvocate.com.au,grenfellrecord.com.au,hardenexpress.com.au,hawkesburygazette.com.au,hcn.org,hepburnadvocate.com.au,huffingtonpost.co.uk,huntervalleynews.net.au,inqld.com.au,inverelltimes.com.au,jewishworldreview.com,juneesoutherncross.com.au,katherinetimes.com.au,legion.org,lifezette.com,lithgowmercury.com.au,liverpoolchampion.com.au,livestly.com,macarthuradvertiser.com.au,macleayargus.com.au,magtheweekly.com,mailtimes.com.au,maitlandmercury.com.au,mandurahmail.com.au,manningrivertimes.com.au,margaretrivermail.com.au,martechadvisor.com,moneyland.ch,moreechampion.com.au,mudgeeguardian.com.au,murrayvalleystandard.com.au,muswellbrookchronicle.com.au,naroomanewsonline.com.au,narrominenewsonline.com.au,northerndailyleader.com.au,northweststar.com.au,nvi.com.au,oann.com,oberonreview.com.au,onetvasia.com,oxygen.com,parkeschampionpost.com.au,pch.com,portlincolntimes.com.au,portnews.com.au,portpirierecorder.com.au,portstephensexaminer.com.au,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,redvoicemedia.com,revolver.news,salife.com.au,sconeadvocate.com.au,sify.com,singletonargus.com.au,smithsonianmag.com,southcoastregister.com.au,southernhighlandnews.com.au,standard.net.au,stawelltimes.com.au,stockandland.com.au,streamingmedia.com,tenterfieldstar.com.au,the-scientist.com,theadvocate.com.au,thecatholicthing.org,thecourier.com.au,thecurrent.org,thedirect.com,theflindersnews.com.au,theislanderonline.com.au,theland.com.au,theleader.com.au,therural.com.au,townandcountrymagazine.com.au,transcontinental.com.au,ulladullatimes.com.au,victorharbortimes.com.au,weatherwatch.co.nz,wellingtontimes.com.au,westernadvocate.com.au,westernmagazine.com.au,whyallanewsonline.com.au,wollondillyadvertiser.com.au,woot.com,yasstribune.com.au,youngwitness.com.au##.advertisement
 trumparea.com##.advertisement-list
 structurae.net##.advertisements
 scmp.com##.advertisers
@@ -81036,6 +81059,7 @@ sashares.co.za##.elementor-48612
 dailyfetched.com##.elementor-element-4e695da
 canyoublockit.com##.elementor-widget-container > center > p
 estnn.com##.elementor-widget-wp-widget-ai_widget
+lego.com##.emotion-cache-1tunmxn
 popsci.com,thedrive.com##.empire-below_content__desktop__articles-prefill-container
 popsci.com,thedrive.com##.empire-content__desktop__articles-prefill-container
 popsci.com,thedrive.com##.empire-header__desktop__article-prefill-container
@@ -81579,6 +81603,8 @@ bizasialive.com##.nipl_add_banners_inner
 tumblr.com##.njwip
 newsmax.com##.nmsponsorlink
 newsmax.com##.nmsponsorlink + [class]
+pcgamesn.com##.nn_mobile_mpu2_wrapper
+pcgamesn.com##.nn_mobile_mpu_wrapper
 trueachievements.com##.nn_player_w
 androidcentral.com,imore.com##.no-amazon
 fiercetelecom.com,fiercevideo.com##.node--type-embed-promo
@@ -82679,6 +82705,7 @@ emalm.com##a[href^="https://s.click.aliexpress.com/"]
 everybithelps.co.uk##a[href^="https://shop.trezor.io/"]
 wbnq.com,wbwn.com,wjbc.com##a[href^="https://stjude.org/radio/"]
 glory985.com##a[href^="https://sweetbidsflo.irauctions.com/listing/0"]
+vnkb.com##a[href^="https://vnkb.com/e/"]
 1280wnam.com##a[href^="https://wistatefair.com/fair/tickets/"]
 tristateswolf.com##a[href^="https://www.alleganycofair.org/"]
 scaredstiffreviews.com##a[href^="https://www.amazon."][href*="ref="]
@@ -83260,6 +83287,7 @@ msn.com##a.nativead[target="_blank"]
 msn.com##div[aria-label="promotions"]
 msn.com##div[class^="articlePage_topBannerAdContainer_"]
 msn.com##div[data-section-id="sponsored.stripe.shopping"]
+msn.com##div[data-section-id="stripe.bannernativead"]
 ! Bing
 bing.com##.ad_sc
 bing.com##.adsMvC
