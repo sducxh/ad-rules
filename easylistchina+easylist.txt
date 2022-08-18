@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LmfDupw31XIA12BkJvAPIQ
-! Version: 202208171651
+! Checksum: lXM8FKY9GvIuYw6ygNx27g
+! Version: 202208181703
 ! Title: EasyList China+EasyList
-! Last modified: 17 Aug 2022 16:51 UTC
+! Last modified: 18 Aug 2022 17:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1827,6 +1827,7 @@ ubmcmm.baidustatic.com
 ||54askjdklm.xyz^
 ||551vip.xyz^
 ||5gustis.xyz^
+||5hte21mz.com^
 ||5htftu.com^
 ||5xokfmru.cn^
 ||6399tp.com^
@@ -1882,6 +1883,7 @@ ubmcmm.baidustatic.com
 ||666758.xyz^
 ||666759.xyz^
 ||666762.xyz^
+||666763.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||777753.net^
@@ -1929,6 +1931,7 @@ ubmcmm.baidustatic.com
 ||atixxzd.cn^
 ||auwrtou.cn^s
 ||axt.cool^
+||axvnsla.top^
 ||aymtdcg.cn^
 ||ayst.love^
 ||azfrij.cn^
@@ -1952,6 +1955,7 @@ ubmcmm.baidustatic.com
 ||bestnfj.com^
 ||bfejteb.cn^
 ||bhicxb.cn^
+||bhny.asia^
 ||bhujiwwb.top^
 ||bob5379.com^
 ||bobdz.com^
@@ -2016,6 +2020,7 @@ ubmcmm.baidustatic.com
 ||cxiwn.xyz^
 ||cytrd0.site^
 ||czwdzcm.cn^
+||d7y5grtl.site^
 ||dabaicai.ink^
 ||daibu.me^
 ||daizi.love^
@@ -2212,7 +2217,9 @@ ubmcmm.baidustatic.com
 ||itbwq.xyz^
 ||itnxxa.xyz^
 ||iuliglsh.space^
+||iumnxwvh.ink^
 ||iusnajah.cn^
+||iuyuwh.cn^
 ||ixihet.cn^
 ||iyuedu.cn.com^
 ||j46rwh.site^
@@ -2261,6 +2268,7 @@ ubmcmm.baidustatic.com
 ||kisafnid.space^
 ||kj-gov.cn^
 ||kjbyuguv12.com^
+||kjcnve.xyz^
 ||kjshenghuo.com^
 ||kkggy.top^
 ||klj4rw.site^
@@ -2315,6 +2323,7 @@ ubmcmm.baidustatic.com
 ||lvjoe.pw^
 ||lwfcipd.cn^
 ||lyggt.top^
+||ma3s.top^
 ||maaijun.top^
 ||markson.hk^
 ||mbmqgo.cn^
@@ -2336,6 +2345,7 @@ ubmcmm.baidustatic.com
 ||meredithnice.com^
 ||meta-wx.com^
 ||mgtcw.top^
+||miatip.cn^
 ||mifeng.buzz^
 ||miuspzkmn.bar^
 ||miytdie.cn^
@@ -2401,12 +2411,14 @@ ubmcmm.baidustatic.com
 ||oaepnba.cn^
 ||obnpazq.cn^
 ||ofooe.cn^
+||ogcyshr.cn^
 ||oghdnp.cn^
 ||oiuqwppcsdf.com^
 ||oizn.club^
 ||ojgtbs.cn^
 ||okfzopj.cn^
 ||okmjd.com^
+||oldulgk.cn^
 ||olwsx.com^
 ||onekeyedu.com^
 ||oorlsblk.cyou^
@@ -2451,18 +2463,21 @@ ubmcmm.baidustatic.com
 ||prudence.love^
 ||pstdzxu.cn^
 ||pvzdrx.cn^
+||pwqtkap.cn^
 ||pxfeiws.cn^
 ||pymby.top^
 ||pzcrwml.cn^
 ||pznqjhh.life^
 ||qbc1.cn^
 ||qcyunnan.cn^
+||qdxsodq.cn^
 ||qfgall.cn^
 ||qianchengwenhua.xyz^
 ||qianduoduo.fit^
 ||qianyan.love^
 ||qichegongxiang.xyz^
 ||qiezijs.cc^
+||qimooc.wang^
 ||qinger.name^
 ||qingtian.love^
 ||qinhang.pro^
@@ -2668,6 +2683,7 @@ ubmcmm.baidustatic.com
 ||wephone.club^
 ||wfkspcs.cn^
 ||whoican.love^
+||wisafnie.space^
 ||wiuspckmn.bar^
 ||wlhcb.cn^
 ||wlovey.asia^
@@ -20655,12 +20671,12 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 ||17ce.com^*_$image
 !#18comic.org
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
-##.col-lg-3[style="z-index: 0;"] > .well
+##.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
+##.thumb-overlay-albums > .col-xs-12[style="display: flex;justify-content: center;"]
 ://18comic*/templates/frontend/airav/js/jquery.avs-0.4.js
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href^="http"]:not([href*="18comic."]) > img
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
-##div[style="display: flex;justify-content: center;"] > .well[data-group][style]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
 ||18comic.*/iframe
 ||18comic.*/static/resources/files/*0x
@@ -31686,6 +31702,7 @@ _800x80_
 ###ad336x280
 ###ad368_2578
 ###ad368_2700
+###ad3734
 ###ad375x85
 ###ad3Article
 ###ad3small
@@ -34480,6 +34497,7 @@ _800x80_
 ###articleview_ad2
 ###artist-ad-container
 ###as24-magazine-rightcol-adtag-1
+###aside-ad-container
 ###asideAd
 ###aside_ad
 ###asideads
@@ -38739,6 +38757,7 @@ _800x80_
 ###tippytop-ad
 ###title-sponsor-banner
 ###title-wide-sponsored-by
+###tmInfiniteAd
 ###tmcomp_ad
 ###tmgAd_div_mpu_1
 ###tmglBannerAd
@@ -39675,6 +39694,7 @@ _800x80_
 ##.GoogleDfpAd
 ##.GoogleDfpAd-Content
 ##.GoogleDfpAd-container
+##.GoogleDfpAd-Float
 ##.GoogleDfpAd-wrap
 ##.GoogleDfpAd-wrapper
 ##.GoogleDfpAdModule
@@ -43446,7 +43466,10 @@ _800x80_
 ##.ads-top-728
 ##.ads-top-center
 ##.ads-top-content
+##.ads-top-fixed
+##.ads-top-home
 ##.ads-top-left
+##.ads-top-main
 ##.ads-top-right
 ##.ads-top-spacer
 ##.ads-topbar
@@ -53955,6 +53978,7 @@ _800x80_
 ##a[href^="https://a.bestcontentoperation.top/"]
 ##a[href^="https://a.bestcontentweb.top/"]
 ##a[href^="https://a.montangop.top/"]
+##a[href^="https://a2.adform.net/"]
 ##a[href^="https://aaucwbe.com/"]
 ##a[href^="https://ad.atdmt.com/"]
 ##a[href^="https://ad.doubleclick.net/"]
@@ -54160,6 +54184,7 @@ _800x80_
 ##a[href^="https://refpaexhil.top/"]
 ##a[href^="https://refpasrasw.world/"]
 ##a[href^="https://refpazkjixes.top/"]
+##a[href^="https://reinstandpointdumbest.com/"]
 ##a[href^="https://retiremely.com/"]
 ##a[href^="https://rev.adsession.com/"]
 ##a[href^="https://s.zlink2.com/"]
@@ -56322,6 +56347,7 @@ tf2r.com#@#.adverts
 ||airconditionblown.com^
 ||airconditiondescendent.com^
 ||aircraftmighty.com^
+||airdempu.com^
 ||airdropemboil.com^
 ||airpush.com^
 ||airrrxggfafnbl.xyz^
@@ -59156,6 +59182,7 @@ tf2r.com#@#.adverts
 ||curvecaressmean.com^
 ||cuseccharm.com^
 ||cusecwhitten.com^
+||cusptumbak.com^
 ||custodyabsolutiondrawback.com^
 ||customads.co^
 ||cuterbond.com^
@@ -61042,7 +61069,6 @@ tf2r.com#@#.adverts
 ||flaxierfilmset.com^
 ||flaxseedssoenrh4372ojd.com^
 ||fleckbest.com^
-||fleraprt.com^
 ||flewfirescommunication.com^
 ||flexlinks.com^
 ||flexnoseassist.com^
@@ -62351,6 +62377,7 @@ tf2r.com#@#.adverts
 ||hollekeamboina.com^
 ||hollercatastrophe.co^
 ||hollercatastrophe.com^
+||hollerscanelos.com^
 ||holptimawa.com^
 ||holydelicatessen.com^
 ||home4loans.info^
@@ -64642,6 +64669,7 @@ tf2r.com#@#.adverts
 ||mersionbronze.cam^
 ||meryjane.pro^
 ||merzostueru2hu8jr09.com^
+||meshagreeable.com^
 ||meshlucky.com^
 ||meshpetrols.com^
 ||messenger-notify.digital^
@@ -65506,6 +65534,7 @@ tf2r.com#@#.adverts
 ||notification-centar.com^
 ||notification-list.com^
 ||notification.best^
+||notifstar.com^
 ||notify-guru.com^
 ||notify-master.net^
 ||notify-monad.com^
@@ -67857,6 +67886,7 @@ tf2r.com#@#.adverts
 ||reichelcormier.bid^
 ||reidaitqutnss.xyz^
 ||reindaks.com^
+||reinstandpointdumbest.com^
 ||reiqwxxd.com^
 ||reitb.com^
 ||rejcinews.pro^
@@ -69105,6 +69135,7 @@ tf2r.com#@#.adverts
 ||sobalf.com^
 ||sobbathing.com^
 ||soburge.com^
+||socalleddemocratstripe.com^
 ||socialbars-web1.com^
 ||sociallycontend.com^
 ||sociocast.com^
@@ -70510,6 +70541,7 @@ tf2r.com#@#.adverts
 ||tweard.com^
 ||tweeshtbacksey.com^
 ||twentieslegislation.com^
+||twentycolander.com^
 ||twentycustomimprovement.com^
 ||twentyhandful.com^
 ||twfaebgpngpx.xyz^
@@ -74496,6 +74528,7 @@ tf2r.com#@#.adverts
 ||auiviilbp2.com^$popup
 ||ausoafab.net^$popup
 ||awarentew.xyz^$popup
+||awasrqp.xyz^$popup
 ||awejmp.com^$popup
 ||awempire.com^$popup
 ||awesomenewspush.com^$popup
@@ -74884,6 +74917,7 @@ tf2r.com#@#.adverts
 ||flippantbliss.com^$popup
 ||flixcontentshop.com^$popup
 ||flopinclose.com^$popup
+||flowerself.xyz^$popup
 ||flowln.com^$popup
 ||flrdra.com^$popup
 ||flysoothingate.com^$popup
@@ -80429,6 +80463,7 @@ israelnationalnews.com##.LeftInfo
 nationalgeographic.com##.LinkedImage
 johnogroat-journal.co.uk,stamfordmercury.co.uk##.MPU
 metservice.com##.Mrec-min-height
+tvtv.us##.MuiPaper-root.jss12
 ahaan.co.uk##.MuiSnackbar-anchorOriginBottomCenter
 news18.com##.NAT_add
 ask.com##.PartialKelkooResults
@@ -82256,7 +82291,7 @@ jquery.com##.sponsor-line
 cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 blbclassic.org##.sponsorZone
-2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,duckduckgo.com,dunyanews.tv,fifplay.com,hbr.org,herald.co.zw,infoq.com,libhunt.com,motherjones.com,msn.com,reviewjournal.com,stocksnap.io,timeslive.co.za##.sponsored
+2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,duckduckgo.com,dunyanews.tv,fifplay.com,hbr.org,herald.co.zw,infoq.com,lawandcrime.com,libhunt.com,motherjones.com,msn.com,reviewjournal.com,stocksnap.io,timeslive.co.za##.sponsored
 washingtontimes.com##.sponsored-heading
 hellomagazine.com##.sponsored-news
 coinmarketcap.com##.sponsoredMark
@@ -83008,6 +83043,7 @@ gadgetsnow.com##div[id^="div-u-id-"]
 thewrap.com##div[id^="dsk-box-ad"]
 whatsondisneyplus.com##div[id^="extra_mpu_"]
 micast.tv##div[id^="floatLayer"]
+memedroid.com##div[id^="freestar-ad-"]
 mangatigre.com##div[id^="i-d-cr-page"]
 forbesafrica.com##div[id^="incontentAd"]
 dexerto.com##div[id^="jwplayer_"]
@@ -83113,6 +83149,7 @@ napuzba.com##div[style^="width:336px"]
 jwire.com.au##div[style^="width:468px;"]
 imgbabes.com##div[style^="width:604px;"]
 interglot.com,sodapdf.com,stopmalvertising.com##div[style^="width:728px;"]
+tvtv.us##div[style^="z-index: 1100; position: fixed;"]
 ebay.com##div[title="ADVERTISEMENT"]
 adblock-tester.com##embed[width="240"]
 imgburn.com##font[face="Arial"][size="1"]
