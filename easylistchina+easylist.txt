@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zP6lnxYLWfEgJKgWpb9STQ
-! Version: 202208201641
+! Checksum: EyZ6rtUXThZlTPzBUsuknw
+! Version: 202208211641
 ! Title: EasyList China+EasyList
-! Last modified: 20 Aug 2022 16:41 UTC
+! Last modified: 21 Aug 2022 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1795,6 +1795,7 @@ ubmcmm.baidustatic.com
 ##a[href*="/akmh047.vip"]
 ##a[href*="/ihezu.run"]
 ##a[href*="/kk80.cc"]
+##a[href*="/uu5566.cn.com/"]
 ##div[onclick*=".yyav5.top"]
 ##img[onclick*="/kk80.cc"]
 ##img[src*=".hecan123.top"]
@@ -1813,6 +1814,7 @@ ubmcmm.baidustatic.com
 ||2077.tech^
 ||21cnbm.com^
 ||21fsdf.com^
+||22fssv.com^
 ||23539355.com^
 ||2i0da8u7.cn^
 ||2ppgsmeh.cn^
@@ -1888,6 +1890,7 @@ ubmcmm.baidustatic.com
 ||666763.xyz^
 ||666764.xyz^
 ||666765.xyz^
+||666767.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||777753.net^
@@ -1898,6 +1901,7 @@ ubmcmm.baidustatic.com
 ||884352.com^
 ||885741.com^
 ||885842.com^
+||888yh.xyz^
 ||8feichai.com^
 ||8kuwoyi.xyz^
 ||91office.club^
@@ -1934,6 +1938,7 @@ ubmcmm.baidustatic.com
 ||asunbc.cn^
 ||atixxzd.cn^
 ||auwrtou.cn^s
+||aw6s.top^
 ||axt.cool^
 ||axvnsla.top^
 ||aymtdcg.cn^
@@ -1952,6 +1957,7 @@ ubmcmm.baidustatic.com
 ||badloniop.top^
 ||badmniop.top^
 ||baishui.me^
+||bakeryembedded.com^
 ||bbt114.cn^
 ||bbzerk.cn^
 ||bdzkrl.cn^
@@ -1962,6 +1968,7 @@ ubmcmm.baidustatic.com
 ||bhicxb.cn^
 ||bhny.asia^
 ||bhujiwwb.top^
+||bisafniv.space^
 ||bob5379.com^
 ||bobdz.com^
 ||borlsbla.cyou^
@@ -2069,6 +2076,7 @@ ubmcmm.baidustatic.com
 ||esajfsd.cn^
 ||etxggi.cn^
 ||euliglsp.space^
+||euqxtuj.cn^
 ||eurostatsafetyshoes.tw^
 ||exgzyg.cn^
 ||eyaldw.cn^
@@ -2078,6 +2086,7 @@ ubmcmm.baidustatic.com
 ||fadacaitp.com^
 ||fangshan.us^
 ||fanjin.name^
+||fbwvly.cn^
 ||fcluqg.cn^
 ||fdsousf.cn^
 ||feiyuchuanmei.love^
@@ -2222,6 +2231,7 @@ ubmcmm.baidustatic.com
 ||ijre.club^
 ||ikrweb.cn^
 ||ikvcxz.cn^
+||img301.com^
 ||imgapp.top^
 ||inpnjq.cn^
 ||iongsoni.uno^
@@ -2261,12 +2271,14 @@ ubmcmm.baidustatic.com
 ||juhuiguoji.wang^
 ||juhuitongcheng.life^
 ||juringupstage.com^
+||jvpook.cn^
 ||jwtkw2w.cn^
 ||jyuyjxx.cn^
 ||k31bpzf.xyz^
 ||k3uihu.xyz^
 ||kanshu.buzz^
 ||kaqweqrdf.com^
+||kasdwergv.com^
 ||kdsnw.today^
 ||keentech.top^
 ||kefu3254.cn^
@@ -2372,6 +2384,7 @@ ubmcmm.baidustatic.com
 ||mnbvbrow.xyz^
 ||mnuy56.site^
 ||mnver.xyz^
+||mnvqx.xyz^
 ||mnvrwq.xyz^
 ||mongsonv.uno^
 ||morlsbli.cyou^
@@ -2583,6 +2596,7 @@ ubmcmm.baidustatic.com
 ||sinaimges.com^
 ||siqwfy.cn^
 ||sisafnib.space^
+||skbao.co^
 ||sl6.top^
 ||slcgngo.cn^
 ||slieindy.top^
@@ -2608,6 +2622,7 @@ ubmcmm.baidustatic.com
 ||svlzckw.cn^
 ||sxbexrv.cn^
 ||sxieqbu.cn^
+||sxyzhdf.cn^
 ||sy2s.top^
 ||syb.hk^
 ||sym.zone^
@@ -2662,6 +2677,7 @@ ubmcmm.baidustatic.com
 ||uengbalc.fun^
 ||ugkmihh.cn^
 ||uhyhdrh.cn^
+||uisafnit.space^
 ||uiuspakmn.bar^
 ||um5xcgngmart.xyz^
 ||umkezbh.cn^
@@ -2673,6 +2689,7 @@ ubmcmm.baidustatic.com
 ||uorlsblg.cyou^
 ||uquholhm.cn^
 ||urwnsq.xyz^
+||uu2e.com^
 ||uu99k.com^
 ||uwdspsh.cn^
 ||uyzdcun.cn^
@@ -2810,6 +2827,7 @@ ubmcmm.baidustatic.com
 ||yengbalf.fun^
 ||yeyuly.love^
 ||yfunkgk.cn^
+||yhdd1.com^$third-party
 ||yhilnc.cn^
 ||yhz18.com^
 ||yihoo.biz^
@@ -2856,6 +2874,7 @@ ubmcmm.baidustatic.com
 ||zkgvsoo.cn^
 ||zkqfrti.cn^
 ||zlgame.top^
+||zlmbnh.cn^
 ||zlreqxe.xyz^
 ||zorlsbln.cyou^
 ||zoujitea.hk^
@@ -9854,6 +9873,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||234fang.com/index.php?/ajax/get_adv/
 ||239300.net/template/*_mh_gg
 ||23aitt.com/zz/
+||23img.com^*/qomnyi.
 ||23sc.cn/andy/
 ||241hs.com/js/jquery.js
 ||249999.xyz^*.gif
@@ -10593,6 +10613,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||antpedia.com/images/advimages/
 ||antpedia.com/include/js/view_news/l_banner_js.js
 ||antpedia.com/viewnewsrightboxtop.
+||anyshare.icu/js/dap
 ||anywlan.com/link/*.gif
 ||aolusb.com/forever/
 ||aoshi.com/rbc.jpg
@@ -14194,8 +14215,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||yxad.com/yxad/
 ||yxbao.com/js/bt_
 ||yxdd.com^$subdocument
-||yxdm.li/js/*_
-||yxdm.li/js/gad.js
+||yxdm.live/js/*_
+||yxdm.live/js/gad.js
 ||yxdown.com/cj/
 ||yxdown.com/pc/news/js/news
 ||yxdown.com/zt/zt/js/zt.js
@@ -16238,13 +16259,13 @@ wed114.cn##.adtwo
 114la.com,78dm.net,chinairn.com,dav01.com,qncye.com,qzwb.com,silisili.in,silver.org.cn,solidot.org,ylmf.com##.adv
 xmfish.com##.adv-760
 xmfish.com##.adv-960
-yxdm.li##.adv-bt
+yxdm.live##.adv-bt
 xinhuanet.com##.adv-column2
-yxdm.li##.adv0
+yxdm.live##.adv0
 shouji56.com##.adv01 + a
 qq.com##.adv1000
-kdhome.net,yxdm.li##.adv2
-kdhome.net,xinhuanet.com,yxdm.li##.adv3
+kdhome.net,yxdm.live##.adv2
+kdhome.net,xinhuanet.com,yxdm.live##.adv3
 myhack58.com##.adv32
 it165.net##.adv728a
 it165.net##.adv728b
@@ -20716,7 +20737,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 ##.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 ##.thumb-overlay-albums > .col-xs-12[style="display: flex;justify-content: center;"]
-/templates/frontend/airav/js/*.gif$image
+/media/users/*.js$image
+/templates/frontend/airav/js/*$image
 ://18comic*/templates/frontend/airav/js/jquery.avs-0.4.js
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href^="http"]:not([href*="18comic."]) > img
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
@@ -21575,6 +21597,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||pkk1.zuimeiniwo.com^
 ||pl520.com^$third-party
 ||q1.yyxwzx.com^
+||qc1.cheshipin.com^
 ||qdzyspjx.com^
 ||qifake.com^
 ||qiji1.jdwx.info^
@@ -49939,6 +49962,7 @@ _800x80_
 ##.mpu_platinum
 ##.mpu_side
 ##.mpu_text_ad
+##.mpu_wrapper
 ##.mpuad
 ##.mpuads
 ##.mpuholderportalpage
@@ -77245,6 +77269,7 @@ tf2r.com#@#.adverts
 ||instant-gaming.com/affgames/
 ||instantpaysites.com/banner/
 ||ipp.littlecdn.com^
+||jam.hearstapps.com/js/renderer.js
 ||jinx.com/content/banner/
 ||jobtarget.com/distrib_pages/
 ||jvzoo.com/assets/widget/
@@ -79357,6 +79382,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstreamta
 ||imgbox.com/images/tpd.png
 ||imgderviches.work/exclusive/bayou_
 ||imgtaxi.com/frame.php
+||imhentai.xxx/js/slider.js
 ||interracial-girls.com/chaturbate/
 ||interracial-girls.com/i/$image
 ||iplayboy.us/bnrs/
@@ -80137,7 +80163,7 @@ livelaw.in###news_on_exit
 canberratimes.com.au,examiner.com.au,theland.com.au###newswell-leaderboard-container
 searchfiles.de###nextuse
 seroundtable.com###ninja_box
-pcgamesn.com,pockettactics.com,theloadout.com###nn_astro_wrapper
+pcgamebenchmark.com,pcgamesn.com,pockettactics.com,theloadout.com###nn_astro_wrapper
 trueachievements.com,truesteamachievements.com,truetrophies.com###nn_bfa_wrapper
 techraptor.net,unite-db.com###nn_lb1
 techraptor.net,unite-db.com###nn_lb2
