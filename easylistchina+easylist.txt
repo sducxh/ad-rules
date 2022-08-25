@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: k20SxL8tfs8unR/9NuGuqA
-! Version: 202208241641
+! Checksum: IbRONRrLYy9JB2vuPoVZFw
+! Version: 202208251641
 ! Title: EasyList China+EasyList
-! Last modified: 24 Aug 2022 16:41 UTC
+! Last modified: 25 Aug 2022 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -398,6 +398,7 @@
 /heituad/*
 /heji/mei00*.js
 /hjstore/system/banner/*.txt
+/hm.js?$third-party,xmlhttprequest
 /homead/*_appledaily_bg.
 /html/taobao_focus_
 /huijiad/huijiad.
@@ -1800,6 +1801,7 @@ ubmcmm.baidustatic.com
 ##a[href*="/akmh047.vip"]
 ##a[href*="/ihezu.run"]
 ##a[href*="/kk80.cc"]
+##a[href*="/tv688.cc"]
 ##a[href*="/uu5566.cn.com/"]
 ##div[onclick*=".yyav5.top"]
 ##img[onclick*="/kk80.cc"]
@@ -1901,6 +1903,7 @@ ubmcmm.baidustatic.com
 ||666769.xyz^
 ||666772.xyz^
 ||666773.xyz^
+||666774.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||745c.cn^
@@ -2009,6 +2012,7 @@ ubmcmm.baidustatic.com
 ||ce33m7.com^
 ||cengbalx.fun^
 ||ceshi10.ink^
+||cfaxidtm.site^
 ||cfhlrai.cn^
 ||cfkkdhs.cn^
 ||changchunyitian.online^
@@ -2109,6 +2113,7 @@ ubmcmm.baidustatic.com
 ||fbwvly.cn^
 ||fcluqg.cn^
 ||fdsousf.cn^
+||fdveqpc.cn^
 ||feiyuchuanmei.love^
 ||fekivnv.cn^
 ||fengbalo.fun^
@@ -2248,6 +2253,7 @@ ubmcmm.baidustatic.com
 ||ifczkst.cn^
 ||ifdcvns.cn^
 ||ifvpetu.cn^
+||ig1a.top^
 ||igiene.club^
 ||igtqora.cn^
 ||ihvwak.cn^
@@ -2273,6 +2279,10 @@ ubmcmm.baidustatic.com
 ||iuyuwh.cn^
 ||ixihet.cn^
 ||iyuedu.cn.com^
+||izzcwww7.live^
+||izzcwww7.world^
+||izzcwww8.xyz^
+||izzcwww9.xyz^
 ||j46rwh.site^
 ||j4shabt8.cn^
 ||jamierace.com^
@@ -2332,6 +2342,7 @@ ubmcmm.baidustatic.com
 ||kmvbre.com^
 ||krkcryk.cn^
 ||krurkex.com^
+||krysogsid.uno^
 ||ksadrewrty.com^
 ||kvevv.com^
 ||kvhcc.com^
@@ -2499,6 +2510,7 @@ ubmcmm.baidustatic.com
 ||otjedg.xyz^
 ||otneq.today^
 ||otownx.xyz^
+||oujirkb.cn^
 ||ouliglsu.space^
 ||oumnxwvu.ink^
 ||ouno.site^
@@ -2537,6 +2549,7 @@ ubmcmm.baidustatic.com
 ||propsad.com^
 ||prudence.love^
 ||pstdzxu.cn^
+||ptenwy.cn^
 ||ptnxa.xyz^
 ||pvzdrx.cn^
 ||pwqtkap.cn^
@@ -2606,6 +2619,7 @@ ubmcmm.baidustatic.com
 ||rrpdhal.cn^
 ||rssblgb.cn^
 ||ruliglso.space^
+||rumnxwvo.ink^
 ||ruoci666.cn^
 ||rvbztg.cn^
 ||rwwfmb.cn^
@@ -2671,6 +2685,7 @@ ubmcmm.baidustatic.com
 ||syb.hk^
 ||sym.zone^
 ||syr66.com.cn^
+||t4sb9dq7.site^
 ||taiheian.top^
 ||taipingyang.hk^
 ||tangxiaodou.top^
@@ -2685,6 +2700,7 @@ ubmcmm.baidustatic.com
 ||tianning.xyz^
 ||tierzf.xyz^
 ||tisafnii.space^
+||tixnd.xyz^
 ||tkngckh.cn^
 ||tmrhoe2.com^
 ||tongsone.uno^
@@ -2919,6 +2935,7 @@ ubmcmm.baidustatic.com
 ||zhangheng.me^
 ||zhangwanwan.online^
 ||zhangzhiyang01.cn^
+||zhanlan.asia^
 ||zhe8000.pw^
 ||zhetoutiao.top^
 ||zhoudm.love^
@@ -11953,6 +11970,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||hc360.com/security/201409/201409021830024990.jpg
 ||hcbbsoss.oss-cn-hangzhou.aliyuncs.com^*-banner
 ||hdchina.*/styles/topshow/AD/
+||hdmoli.com/static/js/pop_promotion.js
 ||hdsky.me/adv/
 ||hdslb.com/bfs/ad/
 ||hdslb.com/js/core-v5/picment.
@@ -15074,6 +15092,7 @@ yangluo.cn###frame51RcxP
 playno1.com###frame8I822E
 tahua.net###frameJjnBIp
 dabin69.com###frameOa2lrD
+hcbbs.com###framePd6Nsv img[src^="http"]
 ytshe.com###frameUTSzKE
 yangluo.cn###frameVw7574
 laowang.vip###frameYl5IOf
@@ -20797,13 +20816,14 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 ##.thumb-overlay-albums > .col-xs-12[style="display: flex;justify-content: center;"]
 18comic.org,18comic.vip#?#:-abp-has(>.adsbyexoclick)
+://18comic.*/media/albums/*?
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href^="http"]:not([href*="18comic."]) > img
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
 ||18comic.*/iframe
-||18comic.*/media/albums/*?
 ||18comic.*/media/logo/
 ||18comic.*/static/resources/files/*0x
+||18comic.*/static/resources/images/*.gif
 ||18comic.*/static/resources/images/168/
 ||18comic.*/static/resources/images/300
 ||18comic.*/static/resources/images/JGG/
@@ -21174,6 +21194,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||a1.shusanqi.com^
 ||a1.sumiaowang.com^
 ||a1.syfj.net^
+||a1.tbuz.com.cn^
 ||a1.twtym.com^
 ||a1.yaozui.com^
 ||a1.zhanzhang.net^
@@ -21677,6 +21698,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||redmx.cn^$third-party
 ||res.pinpai8.cn^
 ||retrieval-bd.duote.com^
+||richh.cn^
 ||rst2.y3600.cn^
 ||rxys.cn^
 ||s.yaozui.com^
@@ -22192,7 +22214,7 @@ $image,third-party,domain=258zw.com
 !
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.666wx.cc|m.ajnnan.com|m.biqusa.com|m.bqg99.cc|m.bswtan.com|m.jmshuwu.net|m.ruihangkeji.com|m.wx-book.com|wodexiaoshuoh.com
 !#Novels
-$script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.com|0794.org|0biquge.com|100fanwo.com|114zw.la|1234u.net|123ds.org|123wxwx.com|126shu.org|12zw.la|138txt.net|147xiaoshuo.com|16kxsw.com|17k.com|1biqu.com|1biqug.com|1kanshu.org|1pwx.com|20dcr.com|22ff.vip|230book.net|23hh.com|23qb.com|23sk.com|23us.tw|23wxx.com|23xstxt.com|24kwx.cc|258zw.com|27k.net|27xsw.com|2kxs.org|2wxs.net|30sy.cc|31xiaoshuo.com|33yq.org|360xs.com|3kzww.com|3twx.com|3wwd.com|3yt.com|477zw.co|4gxs.cc|50zw.co|50zw.com|50zww.net|520tingshu.xyz|52biquge.com|52bqg.net|52kshu.info|52shuku123.net|52xs.net|530p.com|55shuba.com|597txt2.com|59xs.com|5awx.cc|5ccc.tw|630shu.net|63xs.org|666wx.cc|67shu.net|69shu.org|69zww.com|7017k.net|777zw.net|77dushu.com|77xsw.cc|7kzw.org|800xiaoshuo.net|80xs.la|8181zw.com|81book.com|81new.cc|863zw.co|86kl.com|93xscc.com|98xiaoshuo.com|99mk.la|9tiefu.com|a6ksw.com|abcxs.net|adshuba.com|ahzwx.com|aidusk.com|aixiaxs.com|aixiaxsw.com|aixswx.com|ajnnan.com|aoyuge.com|b520.cc|b5200.net|bamxs.com|baoshuu.com|baoshuxuan.com|bbiquge.cc|bequgew.com|bifeige.com|bimiwuxs.com|bimixsw.com|biqiugege8.com|biqiugexsw.com|biqkan.com|biquav.com|biqudd.com|biqudu.tv|biquge.biz|biquge775.com|biquge8.cc|biquge98.net|biquge99.cc|biqugecd.com|biqugeg.com|biqugeq.com|biqugesc.com|biqugesk.org|biqugewu.net|biqugexx.com|biqugse.com|biquka.com|biqulu.net|biquluo.com|biqumy.com|biqupai.com|biququ.info|biqusa.com|biqusan.com|biqusk.com|biqutsxs.com|biquw.com|biqux.com|bisowu.cc|bixia.org|bixia66.com|bixiawu.cc|bjsxjy.com|bodekang.net|boluoxs.com|bookcheng.net|bookshuku.com|boquku.com|bqg999.cc|bqkan8.com|bqwxg8.com|bqxs520.com|bshuku.com|bswtan.com|bxwx.tw|bxwx00.com|bxwx8.la|bxwx888.org|bxwxorg.com|cascoo.net|changduzw.com|cits0871.com|clewxc.com|cn3k5.com|cnhxfilm.com|damengzhu1.com|daomuxsw.com|ddbqgtxt.com|ddsge.com|ddxsku.com|diyibanzhu9.pro|dizishu.com|dmhuah.com|dobiez.com|doupocangqiong1.com|douxunwx.com|dpcq1.com|dpcq1.net|duanwenxue.com|dushuge.org|dybz77777.com|eexiaoshuo.com|etongxs.com|exiaoshuo.com|feisucn.net|feiszw.com|fpzw.org|fttxt.com|fyxfcw.com|fzknitter.com|gaofuwu.org|gdbzkz.com|ggkxs.com|gllmh8.com|guaili.org|guanshu.cc|gzthby.com|haotxt.com|hatxt.com|hbfie.org|heikexs.com|heiyan.org|heiyanwang.com|hongyeshuzhai.com|hongyeshuzhal.com|huanyue123.com|huitailangxs.com|huixsw.com|hybquge.com|ibiquta.com|ibotaodz.com|ibqg5200.com|idzs.org|imiaobige.com|ishisetianxia.com|ishubao.org|iwurexs.com|ixs.la|ixs5200.com|janpn.com|jcdf99.com|jianlaixiaoshuo.com|jieshengit.com|jiezhong.cc|jingwubook.com|jmshuwu.net|jruqcg.com|jx.la|kakuxs.com|kankezw.com|kanshu5.net|kanshushi.com|kchao.net|kenshuzw.com|kkbiqu2.com|lansezw.com|lawen44.net|lewen123.com|lewenge.org|lewxs.com|liewen.la|lindiankanshu.cc|lingdianxs.org|liuxs.la|lnwow.co|lnwow.net|longzu5.net|luoqiu.io|luoqiuzw.com|lwsktxt.com|lwtxt.net|maxreader.la|mcmssc.com|meiguixsw.com|meituhe.com|mhtxs.la|mibaoge.com|mijiashe.com|mingrenteahouse.com|minishuwu.net|mishug.com|mmmli.net|mobikan.cc|moxue99.com|moyandushu.com|mozhua2.com|mqxs.com|mubige.com|mxguan5.com|nuanyuehanxing.com|okzuowen.com|oldtimesxs.cc|panqis.cc|paoshu8.com|paoshuzw.com|piaotian5.net|piaotianwx.com|piaotianxs.com|piaotianzw.com|pksge.com|prpcoin.com|qbiqu.com|qbxs8.net|qianqianxsw.net|qianrenge.cc|qishuk.com|qiuyelou.com|qqduu.com|qqxsnew.net|qqxsw.co|qr1234.com|quanxiaoshuo.org|quge66.com|qushuba.com|qxzx8.com|ranwen.com|ranwen.la|rizhaoxs.com|rmipoz.com|rmxsba.com|roushuwu6.com|ruihangkeji.com|sbooktxt.com|sdhckt.com|shanhaimiwenlu.com|shenshuxs.la|shixiaolong.com|shu008.com|shu05.com|shuanshu.com|shuao.org|shubaowang.cc|shudai.cc|shuhaiwu.com|shulou.la|shumi.la|shumil.co|shuquge.com|shuquso.com|shuyyw.com|siluke.us|silukeke.com|silukew.com|siluwx.org|sinodan.cc|sjks88.com|soduha.com|soxscc.org|sthuojia.com|stxsw.com|suyue6.com|swangwx.com|sxcnw.net|sytxt.cc|taiuu.com|tangsanshu.com|tianyashuku.com|ting56.cc|tpsge.com|trxs.cc|tsxsw.la|tsxsw.net|ttzw.tv|tutengzw.com|txt909.com|txtduo.com|txtshuku.org|txtwan.com|tycqge.com|tywx.la|u33.cc|uuxs8.cc|vipxs.la|viviyzw.com|wbxsw.com|wenxuem.com|wenxuemi.cc|whzh-xs.com|wlaidu.com|wodexiaoshuoh.com|wqdao.com|wutuxs.net|wx-book.com|x23us.me|x23us.us|x81zw.co|xbiquge.la|xbiquge.so|xbiqugecc.com|xbiqugela.com|xbiquke.com|xbiquwx.la|xbxwx.cc|xdingdiann.com|xhtxt.cc|xhytd.com|xiaoshuwu5.com|xiaoxiangxs.com|xiashuyun.com|xiaxs.la|xieyixs.com|xinqingdou.net|xinremenxs.com|xinshuhaige.net|xinshula.com|xinxin6.com|xinxinshuw.com|xinxs.la|xiushukong.com|xluochen.com|xmalshenzu.com|xntk.org|xpaoshuba.cc|xqianqian.com|xquge6.com|xs222.com|xs386.com|xs5200.com|xs7788.com|xs98.com|xsb-xs.com|xsbiqugew.com|xstt5.com|xszww8.net|xuanjiezhimen.org|xuanshu.com|xuehongxs.org|xunsilu.com|xxbiqudu.com|xxqb5200.com|xxxbiquge.com|xyusk.com|yanqing888.org|yanyiquan.com|yanyuzw.com|yb3.cc|yemancomic.com|yikanxiaoshuo.net|yingsx.com|ymxwx.com|yqd6.com|yruan.com|ysxs8.vip|yuanzunxs.cc|yunhaixianzong.com|yunxs.com|yunyueba.com|yushubo.com|yuyougu.com|yuzhaiwus.com|zaodk.com|zbzw.la|zhhbqg.com|zhnxcw.com|zhuishubox.com|ziyouge.top|zmccx.com|zmtcsy.com|zydu1.com|zzs5.com
+$script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.com|0794.org|0biquge.com|100fanwo.com|114zw.la|1234u.net|123ds.org|123wxwx.com|126shu.org|12zw.la|138txt.net|147xiaoshuo.com|16kxsw.com|17k.com|1biqu.com|1biqug.com|1kanshu.org|1pwx.com|20dcr.com|22ff.vip|230book.net|23hh.com|23qb.com|23sk.com|23us.tw|23wxx.com|23xstxt.com|24kwx.cc|258zw.com|27k.net|27xsw.com|2kxs.org|2wxs.net|30sy.cc|31xiaoshuo.com|33yq.org|360xs.com|3kzww.com|3twx.com|3wwd.com|3yt.com|477zw.co|4gxs.cc|50zw.co|50zw.com|50zww.net|520tingshu.xyz|52biquge.com|52bqg.net|52kshu.info|52shuku123.net|52xs.net|530p.com|55shuba.com|597txt2.com|59xs.com|5awx.cc|5ccc.tw|630shu.net|63xs.org|666wx.cc|67shu.net|69shu.org|69zww.com|7017k.net|777zw.net|77dushu.com|77xsw.cc|7kzw.org|800xiaoshuo.net|80xs.la|8181zw.com|81book.com|81new.cc|863zw.co|86kl.com|93xscc.com|98xiaoshuo.com|99mk.la|9tiefu.com|a6ksw.com|abcxs.net|adshuba.com|ahzwx.com|aidusk.com|aixiaxs.com|aixiaxsw.com|aixswx.com|ajnnan.com|aoyuge.com|b520.cc|b5200.net|bamxs.com|baoshuu.com|baoshuxuan.com|bbiquge.cc|bequgew.com|bifeige.com|bimiwuxs.com|bimixsw.com|biqiugege8.com|biqiugexsw.com|biqkan.com|biquav.com|biqudd.com|biqudu.tv|biquge.biz|biquge775.com|biquge8.cc|biquge98.net|biquge99.cc|biqugecd.com|biqugeg.com|biqugeq.com|biqugesc.com|biqugesk.org|biqugewu.net|biqugexx.com|biqugse.com|biquka.com|biqulu.net|biquluo.com|biqumy.com|biqupai.com|biququ.info|biqusa.com|biqusan.com|biqusk.com|biqutsxs.com|biquw.com|biqux.com|bisowu.cc|bixia.org|bixia66.com|bixiawu.cc|bjsxjy.com|bodekang.net|boluoxs.com|bookcheng.net|bookshuku.com|boquku.com|bqg999.cc|bqkan8.com|bqwxg8.com|bqxs520.com|bshuku.com|bswtan.com|bxwx.tw|bxwx00.com|bxwx8.la|bxwx888.org|bxwxorg.com|cascoo.net|changduzw.com|cits0871.com|clewxc.com|cn3k5.com|cnhxfilm.com|damengzhu1.com|daomuxsw.com|ddbqgtxt.com|ddsge.com|ddxsku.com|diyibanzhu9.pro|dizishu.com|dmhuah.com|dobiez.com|doupocangqiong1.com|douxunwx.com|dpcq1.com|dpcq1.net|duanwenxue.com|dushuge.org|dybz77777.com|eexiaoshuo.com|etongxs.com|exiaoshuo.com|feisucn.net|feiszw.com|fpzw.org|fttxt.com|fyxfcw.com|fzknitter.com|gaofuwu.org|gdbzkz.com|ggkxs.com|gllmh8.com|guaili.org|guanshu.cc|gzthby.com|haotxt.com|hatxt.com|hbfie.org|heikexs.com|heiyan.org|heiyanwang.com|hongyeshuzhai.com|hongyeshuzhal.com|huanyue123.com|huitailangxs.com|huixsw.com|hybquge.com|ibiquta.com|ibotaodz.com|ibqg5200.com|idzs.org|imiaobige.com|ishisetianxia.com|ishubao.org|iwurexs.com|ixs.la|ixs5200.com|janpn.com|jcdf99.com|jianlaixiaoshuo.com|jieshengit.com|jiezhong.cc|jingwubook.com|jmshuwu.net|jruqcg.com|jx.la|kakuxs.com|kankezw.com|kanshu5.net|kanshushi.com|kchao.net|kenshuzw.com|kkbiqu2.com|lansezw.com|lawen44.net|lewen123.com|lewenge.org|lewxs.com|liewen.la|lindiankanshu.cc|lingdianxs.org|liuxs.la|lnwow.co|lnwow.net|longzu5.net|luoqiu.io|luoqiuzw.com|lwsktxt.com|lwtxt.net|maxreader.la|mcmssc.com|meiguixsw.com|meituhe.com|mhtxs.la|mibaoge.com|mijiashe.com|mingrenteahouse.com|minishuwu.net|mishug.com|mmmli.net|mobikan.cc|moxue99.com|moyandushu.com|mozhua2.com|mqxs.com|mubige.com|mxguan5.com|nuanyuehanxing.com|okzuowen.com|oldtimesxs.cc|panqis.cc|paoshu8.com|paoshuzw.com|piaotian.la|piaotian5.net|piaotianwx.com|piaotianxs.com|pksge.com|prpcoin.com|qbiqu.com|qbxs8.net|qianqianxsw.net|qianrenge.cc|qishuk.com|qiuyelou.com|qqduu.com|qqxsnew.net|qqxsw.co|qr1234.com|quanxiaoshuo.org|quge66.com|qushuba.com|qxzx8.com|ranwen.com|ranwen.la|rizhaoxs.com|rmipoz.com|rmxsba.com|roushuwu6.com|ruihangkeji.com|sbooktxt.com|sdhckt.com|shanhaimiwenlu.com|shenshuxs.la|shixiaolong.com|shu008.com|shu05.com|shuanshu.com|shuao.org|shubaowang.cc|shudai.cc|shuhaiwu.com|shulou.la|shumi.la|shumil.co|shuquge.com|shuquso.com|shuyyw.com|siluke.us|silukeke.com|silukew.com|siluwx.org|sinodan.cc|sjks88.com|soduha.com|soxscc.org|sthuojia.com|stxsw.com|suyue6.com|swangwx.com|sxcnw.net|sytxt.cc|taiuu.com|tangsanshu.com|tianyashuku.com|ting56.cc|tpsge.com|trxs.cc|tsxsw.la|tsxsw.net|ttzw.tv|tutengzw.com|txt909.com|txtduo.com|txtshuku.org|txtwan.com|tycqge.com|tywx.la|u33.cc|uuxs8.cc|vipxs.la|viviyzw.com|wbxsw.com|wenxuem.com|wenxuemi.cc|whzh-xs.com|wlaidu.com|wodexiaoshuoh.com|wqdao.com|wutuxs.net|wx-book.com|x23us.me|x23us.us|x81zw.co|xbiquge.la|xbiquge.so|xbiqugecc.com|xbiqugela.com|xbiquke.com|xbiquwx.la|xbxwx.cc|xdingdiann.com|xhtxt.cc|xhytd.com|xiaoshuwu5.com|xiaoxiangxs.com|xiashuyun.com|xiaxs.la|xieyixs.com|xinqingdou.net|xinremenxs.com|xinshuhaige.net|xinshula.com|xinxin6.com|xinxinshuw.com|xinxs.la|xiushukong.com|xluochen.com|xmalshenzu.com|xntk.org|xpaoshuba.cc|xqianqian.com|xquge6.com|xs222.com|xs386.com|xs5200.com|xs7788.com|xs98.com|xsb-xs.com|xsbiqugew.com|xstt5.com|xszww8.net|xuanjiezhimen.org|xuanshu.com|xuehongxs.org|xunsilu.com|xxbiqudu.com|xxqb5200.com|xxxbiquge.com|xyusk.com|yanqing888.org|yanyiquan.com|yanyuzw.com|yb3.cc|yemancomic.com|yikanxiaoshuo.net|yingsx.com|ymxwx.com|yqd6.com|yruan.com|ysxs8.vip|yuanzunxs.cc|yunhaixianzong.com|yunxs.com|yunyueba.com|yushubo.com|yuyougu.com|yuzhaiwus.com|zaodk.com|zbzw.la|zhhbqg.com|zhnxcw.com|zhuishubox.com|ziyouge.top|zmccx.com|zmtcsy.com|zydu1.com|zzs5.com
 @@.com/ad.aspx|$domain=xdingdiann.com
 @@||bcebos.com^$script,domain=31xiaoshuo.com|biququ.info|jingwubook.com
 @@||bdimg.com/libs/$domain=00ksw.com|147xiaoshuo.com|1biqug.com|23xstxt.com|24kwx.cc|52biquge.com|abcxs.net|b520.cc|b5200.net|biqiugege8.com|biqiugexsw.com|biqkan.com|biquge99.cc|biqugecd.com|biqugeg.com|biqugeq.com|biqugesk.org|biqugewu.net|biqulu.net|biquw.com|bixia.org|boquku.com|bqg999.cc|bqkan8.com|bqwxg8.com|cascoo.net|cits0871.com|ddbqgtxt.com|exiaoshuo.com|gdbzkz.com|ggkxs.com|huanyue123.com|huixsw.com|janpn.com|jx.la|lindiankanshu.cc|lingdianxs.org|mxguan5.com|paoshu8.com|piaotian5.net|qbiqu.com|qianqianxsw.net|qianrenge.cc|quge66.com|ranwen.com|shuquge.com|shuyyw.com|sytxt.cc|taiuu.com|ttzw.tv|txtwan.com|viviyzw.com|x23us.me|xbiqugecc.com|xiaoshuwu5.com|xinxs.la|xmalshenzu.com|xqianqian.com|xxbiqudu.com|xxqb5200.com|ymxwx.com|yuyougu.com|zbzw.la|zhhbqg.com
@@ -22714,7 +22736,6 @@ fqsousou.com,kengso.com#@#.user-share
 -ad-shortcodes/
 -ad-sidebar-
 -ad-sidebar.
--Ad-Space-
 -ad-strip.
 -ad-switcher.
 -ad-tags.
@@ -23266,7 +23287,6 @@ fqsousou.com,kengso.com#@#.user-share
 .zw/ads/
 /?affiliateId=*&realDomain=
 /?view=ad
-/_/ads/*
 /_adslot/*
 /_global/ads/*
 /_svc/ad/*
@@ -23306,7 +23326,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ad-api-
 /ad-assets/*$~image
 /ad-audit.
-/ad-banner-$~image,~script
 /ad-bckg.
 /ad-bin/*$~image
 /ad-blacklist.
@@ -23683,7 +23702,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ad728x15_
 /ad728x90-
 /ad728x90.
-/ad8.
 /ad?channel=
 /ad?cid=
 /ad?count=
@@ -23743,7 +23761,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ad_campaign?
 /ad_campaigns/*
 /ad_caption.
-/ad_check.
 /ad_choices.
 /ad_choices_
 /ad_code.
@@ -23942,7 +23959,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ad_square_
 /ad_squares.
 /ad_srv.
-/ad_status.
 /ad_stem/*
 /ad_sticky.
 /ad_styling_
@@ -24855,7 +24871,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ads/pencil/*
 /ads/player-
 /ads/plugs/*
-/ads/pop.
 /ads/popout.
 /ads/popshow.
 /ads/popup.
@@ -27240,7 +27255,6 @@ fqsousou.com,kengso.com#@#.user-share
 /inc_v2/ad_
 /include/ad/*
 /include/ad_
-/include/ads/*
 /include/adsdaq
 /included_ads/*
 /includes/ad.
@@ -29103,6 +29117,7 @@ fqsousou.com,kengso.com#@#.user-share
 /yahooadsapi.
 /yahooadsobject.
 /yahoofeedproxy.
+/YandexAds.
 /yellowpagesads/*
 /yhs/ads?
 /yieldads.
@@ -29611,7 +29626,6 @@ _afd_ads.
 _affiliate/banners/
 _affiliate/hubtraffic/
 _affiliate_ad.
-_afs_ads.
 _alt/ads/
 _argus_ad_
 _article_ad-
@@ -29998,9 +30012,7 @@ _prebid_
 /jquery.peelback.
 ! Anti-Adblock
 -adblocker-detection/
--adblocker-detector/
 -detect-adblock.
-/abDetector.js
 /abp_detection/*
 /abtest_ab.js
 /ad-blocking-advisor/*
@@ -30454,8 +30466,6 @@ _800x80_
 ###AD-300x250-1
 ###AD-300x250-2
 ###AD-300x250-3
-###AD1line
-###AD2line
 ###AD300Right
 ###AD300_VAN
 ###AD300x250
@@ -30463,12 +30473,7 @@ _800x80_
 ###ADCENTER
 ###ADEXPERT_PUSHDOWN
 ###ADEXPERT_RECTANGLE
-###ADInterest
 ###ADPlaceholder
-###ADSLOT_1
-###ADSLOT_2
-###ADSLOT_3
-###ADSLOT_4
 ###ADSPACE02
 ###ADSPACE03
 ###ADSPACE04
@@ -30584,9 +30589,6 @@ _800x80_
 ###AdZone2
 ###Ad_BelowContent
 ###Ad_Block
-###Ad_Center1
-###Ad_Premier
-###Ad_Right1
 ###Ad_TopLeaderboard
 ###Adbanner
 ###Adcode
@@ -30596,21 +30598,16 @@ _800x80_
 ###AdsBillboard
 ###AdsBottomContainer
 ###AdsBottomIframe
-###AdsCarouselBoxArea
 ###AdsContainerTop
 ###AdsContent
 ###AdsDiv
 ###AdsFrame
-###AdsHome2
 ###AdsLeader
-###AdsLeft_1
-###AdsPlayRight_1
 ###AdsPubperform
 ###AdsRight
 ###AdsShowCase
 ###AdsSky
 ###AdsTopContainer
-###AdsVideo250
 ###AdsWrap
 ###Ads_BA_BS
 ###Ads_BA_BUT
@@ -30706,7 +30703,6 @@ _800x80_
 ###DFP_top_leaderboard
 ###DivAd
 ###DividerAd
-###DynamicAD
 ###FooterAd
 ###FooterAdBlock
 ###FooterAdContainer
@@ -30800,18 +30796,12 @@ _800x80_
 ###RadAdSkyscraper
 ###RadAd_Skyscraper
 ###RelevantAds
-###RgtAd1
 ###RightAd
 ###RightAdBlock
 ###RightAdSpace
 ###RightAdvertisement
-###RightColumn125x125AD
-###RightColumnAdContainer
-###RightColumnSkyScraperAD
 ###RightRailSponsor
 ###RightSponsoredAd
-###ScoreboardAd
-###SearchAd_PlaceHolder
 ###SearchAdsBottom
 ###SearchAdsTop
 ###Section-Ads
@@ -30869,74 +30859,27 @@ _800x80_
 ###aad-header-1
 ###aad-header-2
 ###aad-header-3
-###abHeaderAdStreamer
 ###ab_adblock
-###abc-AD_topbanner
-###about_adsbottom
 ###above-comments-ad
 ###above-fold-ad
 ###above-footer-ads
 ###above-the-fold-ad
 ###aboveAd
-###aboveGbAd
 ###aboveNodeAds
 ###above_button_ad
 ###aboveplayerad
 ###abovepostads
-###acAdContainer
 ###ad--article-top
 ###ad--sidebar
 ###ad-0
 ###ad-1
-###ad-10
-###ad-1050
-###ad-109
-###ad-11
-###ad-118
-###ad-12
-###ad-120-left
-###ad-120x600-1
-###ad-120x600-other
-###ad-120x600-sidebar
-###ad-120x60Div
 ###ad-125x125
-###ad-13
-###ad-133
-###ad-14
-###ad-143
-###ad-15
-###ad-16
 ###ad-160
-###ad-160-long
 ###ad-160x600
-###ad-160x600-sidebar
-###ad-160x600-wrapper
-###ad-162
-###ad-17
-###ad-170
-###ad-18
-###ad-180x150-1
-###ad-19
-###ad-197
 ###ad-2
 ###ad-2-160x600
-###ad-20
-###ad-21
-###ad-213
-###ad-22
-###ad-220x90-1
-###ad-23
-###ad-230x100-1
-###ad-24
-###ad-240x400-1
-###ad-240x400-2
-###ad-25
 ###ad-250
 ###ad-250x300
-###ad-26
-###ad-27
-###ad-28
-###ad-29
 ###ad-3
 ###ad-3-300x250
 ###ad-300
@@ -30954,57 +30897,31 @@ _800x80_
 ###ad-300x250-02
 ###ad-300x250-2
 ###ad-300x250-b
-###ad-300x250-right
-###ad-300x250-right0
 ###ad-300x250-sidebar
 ###ad-300x250-wrapper
 ###ad-300x250Div
 ###ad-300x250_mid
 ###ad-300x250_mobile
 ###ad-300x250_top
-###ad-300x40-1
-###ad-300x40-2
-###ad-300x40-5
 ###ad-300x600_top
-###ad-32
 ###ad-320
 ###ad-336
 ###ad-350
-###ad-37
 ###ad-4
-###ad-4-300x90
 ###ad-5
-###ad-5-images
-###ad-55
 ###ad-6
-###ad-63
-###ad-635x40-1
-###ad-655
 ###ad-7
 ###ad-728
 ###ad-728-90
 ###ad-728x90
-###ad-728x90-1
-###ad-728x90-leaderboard-top
-###ad-728x90-top
-###ad-728x90-top0
-###ad-732
-###ad-734
-###ad-74
 ###ad-8
-###ad-88
-###ad-88-wrap
 ###ad-9
-###ad-970
-###ad-98
 ###ad-Content_1
 ###ad-Content_2
 ###ad-Rectangle_1
 ###ad-Rectangle_2
 ###ad-Superbanner
 ###ad-a
-###ad-a1
-###ad-absolute-160
 ###ad-ads
 ###ad-advertorial
 ###ad-affiliate
@@ -31023,15 +30940,11 @@ _800x80_
 ###ad-ban
 ###ad-banner
 ###ad-banner-1
-###ad-banner-970
-###ad-banner-980
 ###ad-banner-atf
-###ad-banner-body-top
 ###ad-banner-bottom
 ###ad-banner-btf
 ###ad-banner-desktop
 ###ad-banner-image
-###ad-banner-lock
 ###ad-banner-placement
 ###ad-banner-top
 ###ad-banner-wrap
@@ -31039,7 +30952,6 @@ _800x80_
 ###ad-bar
 ###ad-base
 ###ad-bb-content
-###ad-beauty
 ###ad-before-comment
 ###ad-below-content
 ###ad-bg
@@ -31058,7 +30970,6 @@ _800x80_
 ###ad-block-container
 ###ad-border
 ###ad-bottom
-###ad-bottom-300x250
 ###ad-bottom-banner
 ###ad-bottom-right-container
 ###ad-bottom-wrapper
@@ -31074,7 +30985,6 @@ _800x80_
 ###ad-box-right
 ###ad-box1
 ###ad-box2
-###ad-boxATF
 ###ad-boxes
 ###ad-break
 ###ad-bs
@@ -31089,7 +30999,6 @@ _800x80_
 ###ad-circfooter
 ###ad-code
 ###ad-col
-###ad-colB-1
 ###ad-container
 ###ad-container-1
 ###ad-container-2
@@ -31103,10 +31012,6 @@ _800x80_
 ###ad-container-overlay
 ###ad-container1
 ###ad-contentad
-###ad-cube-Bottom
-###ad-cube-Middle
-###ad-cube-sec
-###ad-cube-top
 ###ad-desktop-bottom
 ###ad-desktop-footer
 ###ad-desktop-takeover-home
@@ -31182,8 +31087,6 @@ _800x80_
 ###ad-leader-container
 ###ad-leader-wrapper
 ###ad-leaderboard
-###ad-leaderboard-1
-###ad-leaderboard-2
 ###ad-leaderboard-bottom
 ###ad-leaderboard-container
 ###ad-leaderboard-footer
@@ -31194,9 +31097,6 @@ _800x80_
 ###ad-leaderboard_bottom
 ###ad-leadertop
 ###ad-left
-###ad-left-timeswidget
-###ad-links-content
-###ad-list-row
 ###ad-lrec
 ###ad-m-rec-content
 ###ad-main
@@ -31238,9 +31138,6 @@ _800x80_
 ###ad-overlay
 ###ad-p3
 ###ad-page-1
-###ad-page-sky-300-a1
-###ad-page-sky-300-a2
-###ad-page-sky-left
 ###ad-pan3l
 ###ad-panel
 ###ad-pencil
@@ -31544,17 +31441,7 @@ _800x80_
 ###adBadges
 ###adBanner
 ###adBanner1
-###adBanner10
-###adBanner120x600
-###adBanner160x600
-###adBanner160x610
-###adBanner2
-###adBanner3
 ###adBanner336x280
-###adBanner4
-###adBanner728
-###adBanner728_bot
-###adBanner9
 ###adBannerBottom
 ###adBannerBreaking
 ###adBannerHeader
@@ -31572,11 +31459,6 @@ _800x80_
 ###adBlockContent
 ###adBlockOverlay
 ###adBlocks
-###adBody01
-###adBody02
-###adBody03
-###adBody04
-###adBody06
 ###adBottom
 ###adBox
 ###adBoxUpperRight
@@ -31607,7 +31489,6 @@ _800x80_
 ###adContent
 ###adContentHolder
 ###adContext
-###adControl1
 ###adDailyDeal
 ###adDiv
 ###adDiv0
@@ -31616,8 +31497,6 @@ _800x80_
 ###adDiv4
 ###adDiv728
 ###adDivContainer
-###adDivleaderboard
-###adDivmrec
 ###adFiller
 ###adFlashDiv
 ###adFooter
@@ -31634,7 +31513,6 @@ _800x80_
 ###adHolder1
 ###adHolder2
 ###adHolder3
-###adHolder300x250
 ###adHolder4
 ###adHolder5
 ###adHolder6
@@ -31658,11 +31536,6 @@ _800x80_
 ###adLeft
 ###adLink
 ###adLink1
-###adLink300
-###adLocation-1
-###adLocation-2
-###adLocation-3
-###adLocation-4
 ###adLounge
 ###adLrec
 ###adMOBILETOP
@@ -31678,11 +31551,9 @@ _800x80_
 ###adMeld
 ###adMessage
 ###adMid2
-###adMonster1
 ###adMoveHere
 ###adMpu
 ###adMpuBottom
-###adNshareWrap
 ###adOne
 ###adOuter
 ###adPageContainer
@@ -31736,8 +31607,6 @@ _800x80_
 ###adSide1-container
 ###adSideButton
 ###adSidebar
-###adSidebarSpecial
-###adSidebarSq
 ###adSite
 ###adSkin
 ###adSkinBackdrop
@@ -31754,12 +31623,8 @@ _800x80_
 ###adSlot-topMpu
 ###adSlot1
 ###adSlot2
-###adSlot2_grid
 ###adSlot3
-###adSlot3_grid
 ###adSlot4
-###adSlot4_grid
-###adSlot_center
 ###adSlug
 ###adSpace
 ###adSpaceBottom
@@ -31769,10 +31634,8 @@ _800x80_
 ###adSpacer
 ###adSpecial
 ###adSponsor
-###adSpot-Leader
 ###adSpot-banner
 ###adSpot-island
-###adSpot-mrec1
 ###adSqb
 ###adSquare
 ###adStaticA
@@ -31783,9 +31646,6 @@ _800x80_
 ###adTag-genre
 ###adTag1
 ###adTag2
-###adTakeOverInner
-###adTakeOverLeft
-###adTakeOverRight
 ###adTeaser
 ###adText
 ###adText01
@@ -31801,7 +31661,6 @@ _800x80_
 ###adTop
 ###adTop1
 ###adTop2
-###adTopBanner-inner
 ###adTopBanner1
 ###adTopBig
 ###adTopBox300x300
@@ -31918,8 +31777,6 @@ _800x80_
 ###ad_Right
 ###ad_Top
 ###ad_Top2
-###ad_TopLongBanner
-###ad_Top_300x250
 ###ad_Wrap
 ###ad__billboard
 ###ad__hugebreak
@@ -31927,7 +31784,6 @@ _800x80_
 ###ad_above_game
 ###ad_ad
 ###ad_adsense
-###ad_adverskinleaderboard
 ###ad_after_header_1
 ###ad_after_navbar
 ###ad_anchor
@@ -31944,7 +31800,6 @@ _800x80_
 ###ad_banner_728x90
 ###ad_banner_728x90_bot
 ###ad_banner_bot
-###ad_banner_example
 ###ad_banner_top
 ###ad_banners
 ###ad_banners_content
@@ -32100,14 +31955,6 @@ _800x80_
 ###ad_houseslot_a
 ###ad_houseslot_b
 ###ad_hp
-###ad_hy_01
-###ad_hy_02
-###ad_hy_03
-###ad_hy_04
-###ad_hy_05
-###ad_hy_06
-###ad_hy_07
-###ad_hy_08
 ###ad_iframe_160_by_600_middle
 ###ad_iframe_300
 ###ad_img
@@ -32448,7 +32295,6 @@ _800x80_
 ###adbottomright
 ###adbox
 ###adbox-inarticle
-###adbox-indivisual-body-topright
 ###adbox-placeholder-topbanner
 ###adbox-topbanner
 ###adbox1
@@ -32490,7 +32336,6 @@ _800x80_
 ###adcontainer3
 ###adcontainer5
 ###adcontainerRight
-###adcontainer___gelement_adbanner_2_0
 ###adcontainer_ad_content_top
 ###adcontainer_top_ads
 ###adcontainsm
@@ -32752,7 +32597,6 @@ _800x80_
 ###ads-blog
 ###ads-bot
 ###ads-bottom
-###ads-box-header-pb
 ###ads-by-google
 ###ads-category
 ###ads-center-text
@@ -32895,13 +32739,6 @@ _800x80_
 ###adsBox-dynamic-right
 ###adsBoxResultsPage
 ###adsCTN
-###adsCombo02_1
-###adsCombo02_2
-###adsCombo02_3
-###adsCombo02_4
-###adsCombo02_5
-###adsCombo02_6
-###adsCombo02_7
 ###adsContainer
 ###adsContent
 ###adsDisplay
@@ -33513,8 +33350,6 @@ _800x80_
 ###adv_SkinLdb
 ###adv_adsense_300_dx
 ###adv_adsense_300_m
-###adv_banner_featured
-###adv_banner_sidebar
 ###adv_bkg_cont
 ###adv_bootom
 ###adv_border
@@ -33968,9 +33803,6 @@ _800x80_
 ###amazon-ads
 ###amazon_ad
 ###amazon_bsa_block
-###ami_ad_cntnr
-###amsSparkleAdFeedback
-###amsSparkleAdWrapper
 ###amzn-native-ad-0
 ###amzn-native-ad-1
 ###amzn-native-ad-2
@@ -33986,13 +33818,9 @@ _800x80_
 ###ap-widget-ad
 ###ap-widget-ad-label
 ###ap_adtext
-###ap_cu_overlay
-###ap_cu_wrapper
 ###apiBackgroundAd
 ###apiTopAdContainer
 ###apiTopAdWrap
-###apmNADiv
-###apolload
 ###app_advertising_pregame_content
 ###app_advertising_rectangle
 ###app_advertising_rectangle_ph
@@ -34004,19 +33832,14 @@ _800x80_
 ###appnexus-placement-topicblockAd0
 ###appnexus-placement-topicblockAd1
 ###appnexus-placement-topicblockAd2
-###apt-homebox-ads
-###araHealthSponsorAd
 ###area-adcenter
 ###area-left-ad
-###area13ads
-###area1ads
 ###article-ad
 ###article-ad-container
 ###article-ad-content
 ###article-ads
 ###article-advert
 ###article-advert-dfp
-###article-agora-ad
 ###article-billboard-ad-1
 ###article-bottom-ad
 ###article-box-ad
@@ -34025,8 +33848,6 @@ _800x80_
 ###article-footer-sponsors
 ###article-island-ad
 ###article-sidebar-ad
-###article-sponspred-content
-###article-top-728x90-ad-wrapper
 ###articleAd
 ###articleAdReplacement
 ###articleBoard-ad
@@ -34034,7 +33855,6 @@ _800x80_
 ###articleLeftAdColumn
 ###articleSideAd
 ###articleTop-ads
-###article_LeftAdWords
 ###article_SponsoredLinks
 ###article_ad
 ###article_ad_1
@@ -34066,7 +33886,6 @@ _800x80_
 ###articleview_ad
 ###articleview_ad2
 ###artist-ad-container
-###as24-magazine-rightcol-adtag-1
 ###aside-ad-container
 ###asideAd
 ###aside_ad
@@ -34312,19 +34131,8 @@ _800x80_
 ###block-advert-content2
 ###block-advertisement
 ###block-advertorial
-###block-appnexus-x20-oas-ad
-###block-appnexus-x70-oas-ad-300x100
-###block-bean-artadocean-splitter
-###block-bean-artadocean-text-link-1
-###block-bean-artadocean-text-link-2
-###block-bean-artadocean300x250-1
-###block-bean-artadocean300x250-3
-###block-bean-artadocean300x250-6
 ###block-bean-banner-adlink-3
 ###block-bean-in-content-ad
-###block-br-hhog-module-br-hhog-ad-billboard-front
-###block-dart-dart-tag-ad_top_728x90
-###block-dart-dart-tag-gfc-ad-top-2
 ###block-dctv-ad-banners-wrapper
 ###block-dfp-billboard-leaderboard
 ###block-dfp-mpu-1
@@ -34731,7 +34539,6 @@ _800x80_
 ###connatix-moveable
 ###connatix_placeholder_desktop
 ###container-ad
-###container-ad-content-rectangle
 ###container-ad-topright
 ###container-advMoreAbout
 ###container-polo-ad
@@ -34870,19 +34677,14 @@ _800x80_
 ###ctl00_VBanner_adHolder
 ###ctl00_adCar
 ###ctl00_adFooter
-###ctl00_advert_WideSky_Right_divOther
 ###ctl00_bottom_advert_728x90
 ###ctl00_cphMainContent_lblPartnerAds
-###ctl00_cphMain_phMain_ctl00_ctl03_ctl00_topAd
 ###ctl00_cphRoblox_boxAdPanel
 ###ctl00_ctl01_ctl00_tdBannerAd
 ###ctl00_ctl05_ctl00_tableAdsTop
 ###ctl00_ctl05_ctl00_tdBannerAd
 ###ctl00_ctl08_ctl00_tableAdsTop
 ###ctl00_ctl11_AdvertisementText
-###ctl00_ctrlAdvert6_iframeAdvert
-###ctl00_ctrlAdvert7_iframeAdvert
-###ctl00_ctrlAdvert8_iframeAdvert
 ###ctl00_divAdSuper
 ###ctl00_fc_ctl02_AdControl
 ###ctl00_fc_ctl03_AdControl
@@ -35208,16 +35010,6 @@ _800x80_
 ###div-insticator-ad-6
 ###div-insticator-ad-9
 ###div-social-ads
-###div-vip-ad-banner
-###div-web-ad-billboard
-###div-web-ad-content-article
-###div-web-ad-content-ressort
-###div-web-ad-marginale-1
-###div-web-ad-marginale-2
-###div-web-ad-marginale-3
-###div-web-ad-marginale-4
-###div-web-ad-marginale-5
-###div-web-ad-performance
 ###divABMessageContainer
 ###divAd
 ###divAdDetail
@@ -35729,10 +35521,12 @@ _800x80_
 ###googletextads
 ###googtxtad
 ###gpt-ad-1
+###gpt-ad-banner
 ###gpt-ad-halfpage
 ###gpt-ad-outofpage-wp
 ###gpt-ad-rectangle1
 ###gpt-ad-rectangle2
+###gpt-ad-side-bottom
 ###gpt-ad-skyscraper
 ###gpt-ad-slot-regwall
 ###gpt-ad-slot-right-rail
@@ -37418,12 +37212,6 @@ _800x80_
 ###sector-widget__tiny-ad
 ###self-ad
 ###self_serve_ads
-###sensis_island_ad_1
-###sensis_island_ad_1_column
-###sensis_island_ad_2
-###sensis_island_ad_2_column
-###sensis_island_ad_3
-###sensis_island_ad_3_column
 ###serveAd1
 ###serveAd2
 ###serveAd3
@@ -37999,7 +37787,6 @@ _800x80_
 ###tblAd
 ###tblReklama2
 ###tbo_headerads
-###tcHeaderMobileLeaderBoard-advertisement-desktop
 ###tcwAd
 ###td-ad-placeholder
 ###td-applet-ads_2_container
@@ -38040,10 +37827,6 @@ _800x80_
 ###tgAD_imu_2
 ###tgAD_imu_3
 ###tgAD_imu_4
-###tgt1-Bottom-0-AdBlockPromo-Proxy
-###tgt1-Col2-0-ComboAd-Proxy
-###tgt1-Col2-1-ComboAd-Proxy
-###tgt1-Col2-2-AdBlockPromo-Proxy
 ###the-last-ad-standing
 ###theAd
 ###theadsADT3
@@ -38052,7 +37835,6 @@ _800x80_
 ###themis-ads
 ###theotherads
 ###thheaderadcontainer
-###thirdPartySponsorLinkAds
 ###third_party_ads
 ###thisisnotanad
 ###thistad
@@ -39019,6 +38801,7 @@ _800x80_
 ##.LeftWideSkyscraperAdPanel
 ##.Left_Content_Google_Ad
 ##.Ligatus
+##.ListicleAdRow
 ##.ListingAd-container
 ##.Loge_AD
 ##.LoungeAdsBottomLinks
@@ -40573,22 +40356,17 @@ _800x80_
 ##.ad-widgets
 ##.ad-width-300
 ##.ad-width-728
-##.ad-windowshade-full
-##.ad-wings__link
 ##.ad-wireframe
 ##.ad-wireframe-wrapper
 ##.ad-with-background
 ##.ad-with-header-wrapper
 ##.ad-with-notice
-##.ad-with-us
 ##.ad-wp
 ##.ad-wp-720
 ##.ad-wrap
 ##.ad-wrap--leaderboard
 ##.ad-wrap--mrec
 ##.ad-wrap-transparent
-##.ad-wrap01
-##.ad-wrap02
 ##.ad-wrap_wallpaper
 ##.ad-wrapper
 ##.ad-wrapper--articletop
@@ -40604,13 +40382,10 @@ _800x80_
 ##.ad-wrapper-with-text
 ##.ad-wrapper__ad-slug
 ##.ad-x10x20x30
-##.ad-x31-full
-##.ad-xrcol
 ##.ad-xs-title
 ##.ad-zone
 ##.ad-zone-ajax
 ##.ad-zone-container
-##.ad-zone-s-q-l
 ##.ad.addon
 ##.ad.bottom_article_leaderboard
 ##.ad.bottomrect
@@ -41183,7 +40958,6 @@ _800x80_
 ##.adSTHomePage
 ##.adSection
 ##.adSection_rt
-##.adSelfServiceAdvertiseLink
 ##.adSenceImagePush
 ##.adSense
 ##.adSepDiv
@@ -41264,7 +41038,6 @@ _800x80_
 ##.adTitle
 ##.adTitleR
 ##.adTop
-##.adTopBanner_nomobile
 ##.adTopBk
 ##.adTopFloat
 ##.adTopHome
@@ -41359,7 +41132,6 @@ _800x80_
 ##.ad_300x250
 ##.ad_300x250_box_right
 ##.ad_300x250_container
-##.ad_300x250_live
 ##.ad_300x50
 ##.ad_300x500
 ##.ad_300x60
@@ -42389,7 +42161,6 @@ _800x80_
 ##.adproxy
 ##.adrec
 ##.adrechts
-##.adrecom-pic
 ##.adrect
 ##.adrectangle
 ##.adrectwrapper
@@ -42513,11 +42284,6 @@ _800x80_
 ##.ads-bottom-right
 ##.ads-box
 ##.ads-box-border
-##.ads-box-header
-##.ads-box-header-marketplace-right
-##.ads-box-header-pb
-##.ads-box-header-ws
-##.ads-box-header-wsl
 ##.ads-btm
 ##.ads-by
 ##.ads-by-google-0
@@ -42672,8 +42438,6 @@ _800x80_
 ##.ads-social-box
 ##.ads-sponsored-title
 ##.ads-sponsors
-##.ads-sponsors-125-left
-##.ads-sponsors-125-right
 ##.ads-square
 ##.ads-square-large
 ##.ads-square-small
@@ -42842,13 +42606,6 @@ _800x80_
 ##.adsCategoryTitleLink
 ##.adsCell
 ##.adsColumn
-##.adsCombo02_1
-##.adsCombo02_2
-##.adsCombo02_3
-##.adsCombo02_4
-##.adsCombo02_5
-##.adsCombo02_6
-##.adsCombo02_7
 ##.adsConfig
 ##.adsCont
 ##.adsContentBox
@@ -43793,14 +43550,6 @@ _800x80_
 ##.adv_amazon_single
 ##.adv_banner
 ##.adv_banner_hor
-##.adv_banner_ps_1
-##.adv_banner_ps_13
-##.adv_banner_ps_2
-##.adv_banner_ps_3
-##.adv_banner_ps_4
-##.adv_banner_ps_6
-##.adv_banner_ps_7
-##.adv_banner_ps_8
 ##.adv_bg
 ##.adv_blocker
 ##.adv_box
@@ -44503,7 +44252,6 @@ _800x80_
 ##.advtop-leaderbord
 ##.advttopleft
 ##.advv_box
-##.advword
 ##.adwblue
 ##.adwert
 ##.adwhitespace
@@ -44845,8 +44593,6 @@ _800x80_
 ##.attachment-dm-advert-gold
 ##.attachment-dm-advert-silver
 ##.attachment-sidebar-ad
-##.attachment-sidebarAd
-##.attachment-sidebar_ad
 ##.attachment-squareAd
 ##.attachment-weather-header-ad
 ##.auction-nudge
@@ -44958,28 +44704,19 @@ _800x80_
 ##.banner-advertising
 ##.banner-adverts
 ##.banner-buysellads
-##.banner-paid-ad-label
-##.banner-rectangleMedium
 ##.banner-sidebar-300x250
 ##.banner-top-ads
-##.banner-top-banner-728x90
-##.banner1-728x90
 ##.banner120x600
-##.banner125x125
 ##.banner160
 ##.banner160x600
 ##.banner200x200
-##.banner250_250
 ##.banner300
-##.banner300_250
-##.banner300by250
 ##.banner300x250
 ##.banner300x84
 ##.banner336
 ##.banner336x280
 ##.banner350
 ##.banner468
-##.banner468by60
 ##.banner728
 ##.banner728-ad
 ##.banner728-container
@@ -45177,6 +44914,7 @@ _800x80_
 ##.billboard.ad
 ##.billboard300x250
 ##.billboardAd
+##.billboard__ad__full
 ##.billboard__advert
 ##.billboard_ad
 ##.billboard_ad_desktop
@@ -45375,7 +45113,6 @@ _800x80_
 ##.blxAdopsPlacement
 ##.bmg-sidebar-ads-125
 ##.bmg-sidebar-ads-300
-##.bn-post-excerpt-cat-sponsored
 ##.bn_ads
 ##.bn_advert
 ##.bn_textads
@@ -45586,7 +45323,6 @@ _800x80_
 ##.bps-ad-wrapper
 ##.bps-advertisement
 ##.bps-advertisement-inline-ads
-##.bps-advertisement-placeholder
 ##.bps-search-chitika-ad
 ##.bq_ad_320x250
 ##.bq_adleaderboard
@@ -45964,14 +45700,10 @@ _800x80_
 ##.cnt-ad-square
 ##.cnt-half-page-ads
 ##.cnt-header-ad
-##.cnt-right-box-ad
-##.cnt-right-vertical-ad
-##.cnt-right-vertical-ad-home
 ##.cntAd
 ##.cnt_ad
 ##.cntrad
 ##.cobalt-ad
-##.codeneric_ultimate_ads_manager_ad_wrapper
 ##.coinzilla-ad
 ##.col-ad
 ##.col-ad-hidden
@@ -46270,10 +46002,6 @@ _800x80_
 ##.d1-top-ad
 ##.d3-c-adblock
 ##.d3-o-adv-block
-##.d499d-ads-160x90-left
-##.d499d-ads-160x90-right
-##.d499d-ads-311x300-up
-##.d499d-ads-635x100
 ##.da-custom-ad-box
 ##.dac__banner__wrapper
 ##.dac__mpu-card
@@ -46324,7 +46052,6 @@ _800x80_
 ##.desktop-aside-ad-hide
 ##.desktop-in-content-native-ad
 ##.desktop-lazy-ads
-##.desktop-postcontentad-wrapper
 ##.desktop-sidebar-ad-wrapper
 ##.desktop-top-ad-wrapper
 ##.desktop.ad
@@ -46370,6 +46097,8 @@ _800x80_
 ##.dfp-ad-midbreaker2-wrap
 ##.dfp-ad-placeholder
 ##.dfp-ad-rect
+##.dfp-ad-region-1
+##.dfp-ad-region-2
 ##.dfp-ad-tags
 ##.dfp-ad-top-wrapper
 ##.dfp-ad-unit
@@ -46631,6 +46360,7 @@ _800x80_
 ##.embeddedAds
 ##.embedded_ad_wrapper
 ##.emm-ad
+##.empire-unit-prefill-container
 ##.empty-ad
 ##.end-ad
 ##.end-of-article-ads
@@ -47107,7 +46837,6 @@ _800x80_
 ##.gallery_ad
 ##.gallery_ad_wrapper
 ##.gallery_ads_box
-##.gallery_post--interstitial_ad
 ##.galleryad
 ##.galleryads
 ##.gam-300x250-default-ad-container
@@ -47261,7 +46990,6 @@ _800x80_
 ##.google-user-ad
 ##.google300x250
 ##.google300x250BoxFooter
-##.google300x250TextDetailMiddle
 ##.google300x250TextFooter
 ##.google468
 ##.google468_60
@@ -47565,7 +47293,6 @@ _800x80_
 ##.header-menu-horizontal-ads-content
 ##.header-pencil-ad
 ##.header-sponsor
-##.header-taxonomy-image-sponsor
 ##.header-top-ad
 ##.header-top_ads
 ##.header15-ad
@@ -47780,7 +47507,6 @@ _800x80_
 ##.homepage__ad--top-leader-board
 ##.homepage__ad--top-mrec
 ##.homepage_ad_half
-##.homepage_ad_lower_leaderboard
 ##.homepage_ads
 ##.homepage_ads_firstrow
 ##.homepage_ads_fourthrow
@@ -48431,14 +48157,12 @@ _800x80_
 ##.leaderboardRectAdWrapper
 ##.leaderboard_ad
 ##.leaderboard_ad_container
-##.leaderboard_ad_top_responsive
 ##.leaderboard_ad_unit
 ##.leaderboard_ad_unit_groups
 ##.leaderboard_ads
 ##.leaderboard_adsense
 ##.leaderboard_adv
 ##.leaderboard_banner_ad
-##.leaderboard_text_ad_container
 ##.leaderboardad
 ##.leaderboardadmiddle
 ##.leaderboardadtop
@@ -48527,8 +48251,6 @@ _800x80_
 ##.link_adslider
 ##.link_advertise
 ##.linkads
-##.linkedin-sponsor
-##.links_google_adx
 ##.list-ad
 ##.list-ads
 ##.list-feature-ad
@@ -48536,14 +48258,11 @@ _800x80_
 ##.listAdvertGenerator
 ##.list_bottom_ad
 ##.listad
-##.listicle--ad-rail
 ##.listicle-instream-ad-holder
 ##.listing-card-ad
-##.listing-content-ad-container
 ##.listing-inline-ad
 ##.listing-item-ad
 ##.listingAd
-##.listing__ads--right
 ##.listings-ad-block
 ##.listings-bottom-ad-w
 ##.listings_ad
@@ -48551,11 +48270,7 @@ _800x80_
 ##.literatumAd
 ##.little_vid_ads
 ##.live-ad
-##.live-search-list-ad-container
-##.live_tv_sponsorship_ad
-##.liveads
 ##.liveblog__highlights__ad
-##.livingsocial-ad
 ##.ljad
 ##.llsAdContainer
 ##.ln-home-feed-ad
@@ -48793,7 +48508,6 @@ _800x80_
 ##.mediumRectangleAd
 ##.mediumRectangleAdvert
 ##.medium_ad
-##.medium_rectangle_ad_container
 ##.mediumad
 ##.medo-ad-section
 ##.medo-ad-wideskyscraper
@@ -49207,7 +48921,6 @@ _800x80_
 ##.nav-ad-gpt-container
 ##.nav-ad-plus-leader
 ##.nav-adWrapper
-##.nav-keywords__item--native-ad
 ##.navAdsBanner
 ##.navBads
 ##.nav__adbanner
@@ -49552,15 +49265,11 @@ _800x80_
 ##.pan-ad-sidebar2
 ##.pane-ad-ads-all
 ##.pane-ad-block
-##.pane-ad-manager-bottom-right-rail-circ
 ##.pane-ad-manager-middle
 ##.pane-ad-manager-middle1
-##.pane-ad-manager-right
 ##.pane-ad-manager-right1
 ##.pane-ad-manager-right2
 ##.pane-ad-manager-right3
-##.pane-ad-manager-shot-business-circ
-##.pane-ad-manager-subscribe-now
 ##.pane-ad-pane
 ##.pane-adonews-ad
 ##.pane-ads
@@ -49580,9 +49289,6 @@ _800x80_
 ##.pane-sponsored-links
 ##.pane-textlinkads-26
 ##.pane-tgx-ad
-##.pane-tw-ad-master-ad-300x250a
-##.pane-tw-ad-master-ad-300x600
-##.pane-tw-adjuggler-tw-adjuggler-half-page-ad
 ##.pane-two-column-ads
 ##.pane_ad_wide
 ##.panel-ad
@@ -49625,14 +49331,9 @@ _800x80_
 ##.pb-f-ads-ad
 ##.pb-f-ads-arcads
 ##.pb-f-ads-dfp
-##.pb-f-ads-dfp-big-box-300x250
-##.pb-f-ads-dfp-box-300x450
-##.pb-f-ads-dfp-halfpage-300x600
-##.pb-f-ads-dfp-leaderboard-728x90
 ##.pb-f-ads-nativo
 ##.pb-f-ads-taboola
 ##.pb-f-ads-yieldmo
-##.pb-f-advert-dfp-double-mpu
 ##.pb-mod-ad-flex
 ##.pb-mod-ad-leaderboard
 ##.pc-ad
@@ -49675,7 +49376,6 @@ _800x80_
 ##.ph-ad-mediumrectangle
 ##.photo-ad
 ##.photo-ad-pad
-##.photo-news-list-advertisement
 ##.photoAd
 ##.photoad
 ##.photobox-adbox
@@ -49710,7 +49410,6 @@ _800x80_
 ##.player-ad-overlay
 ##.player-ads
 ##.player-ads2
-##.player-leaderboard-ad-wrapper
 ##.player-section__ad-block
 ##.player-section__ad-wrapper
 ##.player-under-ad
@@ -49910,9 +49609,6 @@ _800x80_
 ##.propel-ad
 ##.proper-ad-insert
 ##.proper-ad-unit
-##.prw_sponsoredListings_hotels_simple_sponsored_listing
-##.prw_sponsoredListings_restaurants_tripads_coverpage
-##.prw_sponsoredListings_restaurants_tripads_slot0
 ##.ps-ad
 ##.ps-ligatus_placeholder
 ##.pt-ad--container
@@ -49958,8 +49654,6 @@ _800x80_
 ##.pz-ad-box
 ##.qa_ad_left
 ##.qm-ad
-##.qm-ad-content
-##.qm-ad-content-news
 ##.quads-ad1_widget
 ##.quads-ad2_widget
 ##.quads-ad3_widget
@@ -49991,7 +49685,6 @@ _800x80_
 ##.r_col_add
 ##.rad_container
 ##.radium-ad-spot
-##.radium-builder-widget-ad-spot
 ##.rads_banner
 ##.raff_ad
 ##.rail-ad
@@ -50112,9 +49805,6 @@ _800x80_
 ##.related-ads
 ##.related-al-ads
 ##.related-al-content-w150-ads
-##.related-content-story__stories--sponsored-1
-##.related-content-story__stories--sponsored-2
-##.related-content-story__stories--sponsored-3
 ##.related-guide-adsense
 ##.relatedAds
 ##.relatedContentAd
@@ -50499,7 +50189,6 @@ _800x80_
 ##.search-result-sponsored
 ##.search-results-ad
 ##.search-results-banner-ad
-##.search-results-page__ad-sense
 ##.search-sponsor
 ##.search-sponsored
 ##.searchAd
@@ -50877,7 +50566,6 @@ _800x80_
 ##.site-header--sponsored
 ##.site-header-ad
 ##.site-header-ad-notification
-##.site-header__advert-container
 ##.site-nav-ad-inner
 ##.site-top-ad
 ##.siteWideAd
@@ -51430,7 +51118,6 @@ _800x80_
 ##.story-header-ad
 ##.story-inline-advert
 ##.story-page-embedded-ad
-##.story-page-embedded-ad-center
 ##.story-top-ad-fix
 ##.storyAd
 ##.storyAdvert
@@ -51552,10 +51239,6 @@ _800x80_
 ##.td-a-rec-id-custom_ad_3
 ##.td-a-rec-id-custom_ad_4
 ##.td-a-rec-id-custom_ad_5
-##.td-a-rec-id-event_bottom_ad
-##.td-a-rec-id-h12_obj_bottom_ad
-##.td-a-rec-id-h3_object_bottom_ad
-##.td-a-rec-id-ud_b4x_post_ad
 ##.td-ad
 ##.td-ad-background-link:not(body)
 ##.td-ad-m
@@ -51660,8 +51343,6 @@ _800x80_
 ##.thirdPartySponsorLink
 ##.thirdPartySponsorLink--fourAds
 ##.thirdPartySponsorLink--twoAds
-##.thirdPartySponsorLink__ad
-##.thirdPartySponsorLink__ads
 ##.thisisad
 ##.thread-ad
 ##.thread-ad-holder
@@ -51982,8 +51663,6 @@ _800x80_
 ##.trafficjunky-ad
 ##.trb_ar_sponsoredmod
 ##.trb_gptAd
-##.trb_header_adBanner_combo
-##.trb_header_adBanner_large
 ##.trb_masthead_adBanner
 ##.trb_pageAdHolder
 ##.trb_soh
@@ -52082,11 +51761,7 @@ _800x80_
 ##.us-advertisement
 ##.us-txt-ad
 ##.us_ad
-##.useful_banner_manager_banners_rotation
-##.useful_banner_manager_rotation_widget
-##.useful_banner_manager_widget
 ##.uvs-ad-full-width
-##.vAd_160x600
 ##.vAds
 ##.v_ad
 ##.vadvert
@@ -52157,7 +51832,6 @@ _800x80_
 ##.video_top_ad
 ##.videoad
 ##.videoad2
-##.videoadbox
 ##.videos-ad
 ##.videos-ad-wrap
 ##.view-Advertisment
@@ -52191,7 +51865,6 @@ _800x80_
 ##.view-id-topheader_ad
 ##.view-image-ads
 ##.view-promo-mpu-right
-##.view-simpleads-advertisements
 ##.view-site-ads
 ##.view-topheader-ad
 ##.view-video-advertisements
@@ -52251,7 +51924,6 @@ _800x80_
 ##.wall_ad_hd
 ##.wallad
 ##.wallpaper-ad-top
-##.wallpaper-parade-ad-container
 ##.wantads
 ##.waterfall-ad-anchor
 ##.wazi-ad-link
@@ -52513,7 +52185,6 @@ _800x80_
 ##.wrapper-google-ads
 ##.wrapper-header-ad-slot
 ##.wrapper-sidebar_ads_box
-##.wrapper-sidebar_ads_half-page
 ##.wrapper-sponsored
 ##.wrapper-sponsored-fb
 ##.wrapperAdSky
@@ -53798,10 +53469,7 @@ _800x80_
 ##.for-taboola
 ##.grid__module-sizer_name_taboola
 ##.nw-taboola
-##.pb-f-ads-taboola-article-well
-##.pb-f-ads-taboola-right-rail-alt
 ##.qa-placement-outbrain-under-post-cr
-##.reading-list-rail-taboola
 ##.tablet_ad_box
 ##.tablet_ad_head
 ##.taboola-above-article
@@ -57480,6 +57148,7 @@ tf2r.com#@#.adverts
 ||chasedeposition.com^
 ||chasmypolloi.com^
 ||chatakauntewed.com^
+||chatheez.net^
 ||chatmilkprude.casa^
 ||chattertasty.com^
 ||chauksoa.net^
@@ -59029,6 +58698,7 @@ tf2r.com#@#.adverts
 ||downloadboutique.com^
 ||downloadgot.com^
 ||downtonpudic.com^
+||dowtyler.com^
 ||doxyspats.com^
 ||doyygwch.com^
 ||doz1it.com^
@@ -59179,6 +58849,7 @@ tf2r.com#@#.adverts
 ||dwepmhhyigfb.com^
 ||dwetwdstom1020.com^
 ||dwirow.com^
+||dwugpwfgi.com^
 ||dxpxlt.com^
 ||dxrzzmhwdp.com^
 ||dycej.com^
@@ -59969,6 +59640,7 @@ tf2r.com#@#.adverts
 ||fastdxr.com^
 ||fastenpaganhelm.com^
 ||faster-trk.com^
+||fastestdwelling.com^
 ||fastestvolcano.com^
 ||fastpopclick.com^
 ||fastpopunder.com^
@@ -63432,6 +63104,7 @@ tf2r.com#@#.adverts
 ||lucylent.com^
 ||ludesthat.club^
 ||lueticajuga.com^
+||luiisstldqvg.com^
 ||lulepy.com^
 ||lumaktoys.com^
 ||luminosoocchio.com^
@@ -63927,6 +63600,7 @@ tf2r.com#@#.adverts
 ||mimpiphy.net^
 ||mincethingsmarch.com^
 ||mindactual.com^
+||mindedcarious.com^
 ||minently.com^
 ||mineralscreamrobes.com^
 ||mingledunorder.com^
@@ -64558,6 +64232,7 @@ tf2r.com#@#.adverts
 ||nhqxzqvkj.com^
 ||nibzitgas.com^
 ||nicertie.com^
+||nicesthoarfrostsooner.com^
 ||nicewistful.com^
 ||nicheads.com^
 ||nichedlinks.com^
@@ -65385,6 +65060,7 @@ tf2r.com#@#.adverts
 ||oxsng.com^
 ||oxtracking.com^
 ||oxybe.com^
+||oxydaserucked.com^
 ||oxydend2r5umarb8oreum.com^
 ||oxynticarkab.com^
 ||oxyphilsebkha.com^
@@ -66024,6 +65700,7 @@ tf2r.com#@#.adverts
 ||poodsboiko.com^
 ||poogriry.click^
 ||pookawnratbite.com^
+||poolbreezecheer.com^
 ||poolgmsd.com^
 ||poorapparel.com^
 ||poorlygarrisondistant.com^
@@ -67377,6 +67054,7 @@ tf2r.com#@#.adverts
 ||rnmd.net^
 ||rnnquuwndiwye.com^
 ||rnovhhli.com^
+||roadmappenal.com^
 ||roakicat.net^
 ||roataisa.net^
 ||robescampus.com^
@@ -68239,7 +67917,6 @@ tf2r.com#@#.adverts
 ||slxenpncpot.com^
 ||slychicks.com^
 ||smaato.net^
-||smac-ad.com^
 ||smagod.com^
 ||smaleo.com^
 ||smallentpation.pro^
@@ -69182,6 +68859,7 @@ tf2r.com#@#.adverts
 ||therapistpopulationcommentary.com^
 ||theraprecramp.com^
 ||therubiqube.com^
+||thesaurussurf.com^
 ||thesvicefgg.com^
 ||thetarhaw.com^
 ||thetaweblink.com^
@@ -69402,6 +69080,7 @@ tf2r.com#@#.adverts
 ||tolyafbnjt9dedjj10.com^
 ||tomatoreach.com^
 ||tomekas.com^
+||tomentaabac.com^
 ||tommiesalegars.cam^
 ||tomqcaljnjvge.com^
 ||tomrigdabih.com^
@@ -70425,6 +70104,7 @@ tf2r.com#@#.adverts
 ||vitcory.com^
 ||vividlobster.com^
 ||vixnixxer.com^
+||viyuzi.xyz^
 ||vizaiced.net^
 ||vjafttweylg.xyz^
 ||vjdciu.com^
@@ -70440,6 +70120,7 @@ tf2r.com#@#.adverts
 ||vlclptmgxmijbyf.com^
 ||vlitag.com^
 ||vlnk.me^
+||vlrgltldc.com^
 ||vmctzaxkc.com^
 ||vmhzvqzx.com^
 ||vmjmpwdupi.com^
@@ -70590,6 +70271,7 @@ tf2r.com#@#.adverts
 ||vwgilkky.com^
 ||vwraggcs.xyz^
 ||vwuyuahqf.com^
+||vxmyrhmdf.com^
 ||vxqaxvqotu.xyz^
 ||vy4e3jw46l.com^
 ||vycqmzwftktb.com^
@@ -71165,7 +70847,6 @@ tf2r.com#@#.adverts
 ||wysoloneau.com^
 ||wysyshypti.pro^
 ||wytyphoji.pro^
-||wzcdn264.net^
 ||wzdzht7am5.com^
 ||x-adservice.com^
 ||x40u1vj75ks9.com^
@@ -73129,6 +72810,7 @@ tf2r.com#@#.adverts
 ||slimtrade.com^$third-party
 ||slinse.com^$third-party
 ||slopeaota.com^$third-party
+||smac-ad.com^$third-party
 ||smac-ssp.com^$third-party
 ||smaclick.com^$third-party
 ||smart.allocine.fr^$third-party
@@ -73184,6 +72866,7 @@ tf2r.com#@#.adverts
 ||sprout-ad.com^$third-party
 ||spyoff.com^$third-party
 ||starlayer.com^$third-party
+||statsperformdev.com^$third-party
 ||stickyadstv.com^$third-party
 ||stocker.bonnint.net^$third-party
 ||stootoat.com^$third-party
@@ -74398,6 +74081,7 @@ tf2r.com#@#.adverts
 ||kanoodle.com^$popup
 ||kappalinks.com^$popup
 ||kasheglesy.pro^$popup
+||katecrochetvanity.com^$popup
 ||kc8vo2l73b7j.top^$popup
 ||kenomal.com^$popup
 ||kerumal.com^$popup
@@ -74444,6 +74128,7 @@ tf2r.com#@#.adverts
 ||linknotification.com^$popup
 ||linkonclick.com^$popup
 ||linkredirect.biz^$popup
+||lite-1x742136.top^$popup
 ||littercipher.com^$popup
 ||liveadexchanger.com^$popup
 ||livechatflirt.com^$popup
@@ -74521,6 +74206,7 @@ tf2r.com#@#.adverts
 ||mgid.com/ghits/$popup
 ||migrantspiteconnecting.com^$popup
 ||millustry.top^$popup
+||mindedcarious.com^$popup
 ||mipujomo.pro^$popup
 ||miraclenecklace.com^$popup
 ||missionarymargaret.com^$popup
@@ -74604,6 +74290,7 @@ tf2r.com#@#.adverts
 ||nextoptim.com^$popup
 ||nextyourcontent.com^$popup
 ||nfqglptm47uc.com^$popup
+||nicesthoarfrostsooner.com^$popup
 ||nipwaghue.com^$popup
 ||nitrogenpleahierarchy.com^$popup
 ||nkwintenc.biz^$popup
@@ -74919,6 +74606,7 @@ tf2r.com#@#.adverts
 ||rndhaunteran.com^$popup
 ||rndmusharnar.com^$popup
 ||rndskittytor.com^$popup
+||roadmappenal.com^$popup
 ||rocketmedia24.com^$popup,third-party
 ||rockstorageplace.com^$popup
 ||rog4.com^$popup
@@ -74949,6 +74637,7 @@ tf2r.com#@#.adverts
 ||safe-connection21.com^$popup
 ||safepcsafe.com^$popup
 ||safestgatetocontent.com^$popup
+||sajagosta.pro^$popup
 ||saltycarboninsulting.com^$popup
 ||samage-bility.icu^$popup
 ||sanctiondevourdivide.com^$popup
@@ -75245,6 +74934,7 @@ tf2r.com#@#.adverts
 ||uhpdsplo.com^$popup
 ||uitopadxdy.com^$popup
 ||ukoffzeh.com^$popup
+||ultimate-captcha.com^$popup
 ||ultralove.net^$popup
 ||ultrlove.com^$popup
 ||unbeedrillom.com^$popup
@@ -76736,6 +76426,7 @@ tf2r.com#@#.adverts
 ||d1xkyo9j4r7vnn.cloudfront.net^
 ||d1ybdlg8aoufn.cloudfront.net^
 ||d1zw85ny9dtn37.cloudfront.net^
+||d204slsrhoah2f.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d20l1z9qfxwqa3.cloudfront.net^
 ||d213cc9tw38vai.cloudfront.net^
@@ -78764,6 +78455,7 @@ dailydot.com###DD_Desktop_HP_Content3
 healthline.com###DMR1__slot
 tweaktown.com###DesktopTop
 road.cc###Footer-Billboard
+geeksforgeeks.org###GFG_AD_Desktop_BTF_Postcontent_728x280
 fanlesstech.com###HTML2 > .widget-content
 fanlesstech.com###HTML3
 fanlesstech.com###HTML4 > .widget-content
@@ -79080,6 +78772,7 @@ stonetoss.com###friends
 peacemakeronline.com###front_mid_right > center
 imgbox.com###full-page-redirect
 reviewgeek.com###future_Y_R_0_1
+clocktab.com###fv_left-side
 filmibeat.com,oneindia.com###fw-int-ad
 chromecastappstips.com###fwdevpDiv0
 drivespark.com###fwnNewWdg
@@ -79132,6 +78825,7 @@ bestvpnserver.com,techitout.co.za###header-content
 govevents.com###header-display
 motorhomefacts.com###header-promo
 one.com.mt###header-sidebar
+looperman.com###header-top
 nisnews.nl###header-wrap
 forums.anandtech.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com,redflagdeals.com###header_leaderboard
 digitalpoint.com###header_middle
@@ -79338,6 +79032,7 @@ skyrock.com###pub_up
 elevationmap.net###publift_home_billboard
 unogs.com###purevpninfo
 howtogermany.com###quaranvino
+sporcle.com###quiz-right-rail-unit-2
 unfair.co###r_sidebarwidgeted
 comicbookrealm.com###rad
 rawstory.com###rawstory_front_2_container
@@ -79473,6 +79168,7 @@ coincodex.com###sticky-footerCCx4
 fool.com###sticky-wrapper
 standard.co.uk###stickyFooterRoot
 afr.com###stickyLeaderboard
+bostonglobe.com###sticky_container.width_full
 medicinehatnews.com###stickyleaderboard
 semiconductor-today.com###storyHorAdd
 afkgaming.com###story_sticky_footer
@@ -79548,6 +79244,7 @@ gogetaroomie.com###top-space
 imassera.com###top-sponsor
 progameguides.com###top-sticky-sidebar-container
 dotesports.com,gamepur.com###top-sticky-sidebar-wrapper
+sporcle.com###top-unit
 nytimes.com,nytimes3xbfgragh.onion###top-wrapper
 danpatrick.com###topBannerContainer
 investing.com###topBroker
@@ -80658,6 +80355,7 @@ hd-trailers.net##.header-win
 gelbooru.com##.headerAd
 thelakewoodscoop.com##.headerPromo
 gautengnewspaper.co.za##.header__banner
+thehits.co.nz##.header__main
 heic2jpg.com,jpg2png.com,png2jpg.com,webptojpeg.com,wordtojpeg.com##.header__right
 manofmany.com##.header_banner_wrap
 koreaherald.com##.header_bnn
@@ -80874,6 +80572,7 @@ motor1.com##.m1_largeMPU
 net-load.com##.m7s-81.m7s
 antimusic.com##.mad
 wccftech.com##.main-background-wrap
+sporcle.com##.main-content-unit-wrapper
 ggrecon.com##.mainVenatusBannerContainer
 color-hex.com##.margin10
 fandom.com##.marketplace
@@ -81034,6 +80733,7 @@ hamodia.com##.oiomainlisting
 forums.somethingawful.com##.oma_pal
 techspot.com##.oneText
 thedigitalfix.com##.ot-widget-banner
+otakuusamagazine.com##.otaku_big_ad
 advocate.com,out.com##.ourSponsors
 news18.com##.outBrainWrapper
 mma-core.com##.outVidAd
@@ -81080,6 +80780,7 @@ mavin.io##.partner-content
 dzone.com##.partner-resources-block
 nationtalk.ca##.partner-slides
 domainmasters.co.ke##.partner2
+artasiapacific.com##.partner_container
 motachashma.com##.partnerbanner
 bundesliga.com##.partnerbar
 freshnewgames.com##.partnercontent_box
@@ -81345,10 +81046,9 @@ teamfortress.tv##.sau
 point2homes.com##.saved-search-banner-list
 pcgamesn.com##.saw-wrap
 animehub.ac##.sb-subs
-independent.co.uk##.sc-eTFcpK
 radaronline.com##.sc-gXZlrW
 scotsman.com##.sc-igwadP
-independent.co.uk##.sc-jonzHS
+okmagazine.com##.sc-jffIyK
 sankakucomplex.com##.scad
 bangordailynews.com##.scaip
 newindianexpress.com##.scc
@@ -81613,10 +81313,12 @@ pakobserver.net##.tdi_121
 pakobserver.net##.tdi_124
 based-politics.com##.tdi_30
 who.is##.teaser-bar
+sporcle.com##.temp-unit
 macrumors.com##.tertiary
 ericpetersautos.com##.text-109
 upi.com##.text-center.mt-5
 businessonhome.com##.text-info
+geeksforgeeks.org##.textBasedMannualAds_2
 sciencedaily.com##.textrule
 evilbeetgossip.com,katt.com,kyis.com,thesportsanimal.com,wild1049hd.com,wky930am.com##.textwidget
 tftcentral.co.uk##.tftce-adlabel
@@ -82159,7 +81861,9 @@ healthline.com##div.css-0 > div[class]:not([id])
 windows10forums.com##div.message--post.message
 inverse.com##div.zz
 nexusradio.com##div[align=center]
+independent.co.uk##div[class*="Ad__Wrapper-"]
 sportbible.com##div[class*="Advert"]
+independent.co.uk##div[class*="TopBanner_"]
 wsj.com##div[class*="WSJTheme--adWrapper"]
 pcgamer.com,tomsguide.com,tomshardware.com##div[class*="ad-unit"]
 issuu.com##div[class*="adPlacement"]
@@ -82709,6 +82413,7 @@ bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
 ! Advanced element hiding rules for Adblock Plus
+fortune.com#?#.homepage:-abp-has(> div[id^="InStream"])
 bleachernation.com#?#.code-block:-abp-has(span:-abp-contains(ADVERTISEMENT))
 digg.com#?#article.fp-vertical-story:-abp-has(a[href="/channel/digg-pick"])
 digg.com#?#article.fp-vertical-story:-abp-has(a[href="/channel/promotion"])
