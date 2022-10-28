@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 57AeowruvMkIgHbOW7Tnvg
-! Version: 202210271651
+! Checksum: rHPKJCd+XjdQixzEv/NIYQ
+! Version: 202210281641
 ! Title: EasyList China+EasyList
-! Last modified: 27 Oct 2022 16:51 UTC
+! Last modified: 28 Oct 2022 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -573,7 +573,6 @@
 /tan.js
 /tan1.js
 /tanad.js
-/tanchuang.
 /td_ads_ckbeck.js
 /template/*/adm/*
 /template/*/ads/*
@@ -1741,6 +1740,7 @@ ubmcmm.baidustatic.com
 ##a[href*="/akmh047.vip"]
 ##a[href*="/bucd.icu/"]
 ##a[href*="/ctyitopo17.com"]
+##a[href*="/ftyvrfy05.com"]
 ##a[href*="/ihezu.run"]
 ##a[href*="/kanxiuren.com/?"]
 ##a[href*="/kk80.cc"]
@@ -1787,6 +1787,7 @@ ubmcmm.baidustatic.com
 ||23539355.com^
 ||23jgiy.com^
 ||28n7.icu^
+||297892531.com^
 ||2i0da8u7.cn^
 ||2i1m.xyz^
 ||2mfx.cn^
@@ -1813,6 +1814,7 @@ ubmcmm.baidustatic.com
 ||4p85.cn^
 ||4sexmail.com^
 ||50039tk.com^
+||513575528.com^
 ||51grow.club^
 ||52sq.shop^
 ||52zxdai.com^
@@ -1835,6 +1837,7 @@ ubmcmm.baidustatic.com
 ||5xokfmru.cn^
 ||609999.xyz^
 ||60dhhs.com^
+||613711567.com^
 ||62kjjhg.com^
 ||6399tp.com^
 ||65211351892.com^
@@ -2268,6 +2271,7 @@ ubmcmm.baidustatic.com
 ||dyjcydn.cloud^
 ||dyxymat.cn^
 ||dzytvcx.cn^
+||e7ckr.icu^
 ||ebazhaheiw.top^
 ||eblnzoq.cn^
 ||eclczg.cn^
@@ -2576,6 +2580,7 @@ ubmcmm.baidustatic.com
 ||idkdoxp.cn^
 ||idqpawg.cn^
 ||iejsk.com^
+||iemwbu.cn^
 ||ifczkst.cn^
 ||ifdcvns.cn^
 ||ifsdg.xyz^
@@ -2592,6 +2597,7 @@ ubmcmm.baidustatic.com
 ||ikrweb.cn^
 ||iktree.xyz^
 ||ikvcxz.cn^
+||iljhbdp.cn^
 ||ilmwaqf.cn^
 ||img301.com^
 ||imgapp.top^
@@ -2687,6 +2693,7 @@ ubmcmm.baidustatic.com
 ||jquery-cdn.cc^
 ||jrnrpma.cn^
 ||jrysogsia.uno^
+||jsdelivr.autos^
 ||jsl44w.xyz^
 ||jsnignsa.xyz^
 ||jsnoownma.fun^
@@ -2764,6 +2771,7 @@ ubmcmm.baidustatic.com
 ||ktggbk.com^
 ||kuaidou.xin^
 ||kunlunshitou.com^
+||kuunmzg.cn^
 ||kvevv.com^
 ||kvhcc.com^
 ||kvrtuse.cn^
@@ -2805,6 +2813,7 @@ ubmcmm.baidustatic.com
 ||lhippac.cn^
 ||lhot.xyz^
 ||lhpzz.love^
+||lianfu.shop^
 ||lianliankanms.top^
 ||ling07.icu^
 ||lingke02.xyz^
@@ -2819,6 +2828,7 @@ ubmcmm.baidustatic.com
 ||ljth.hk^
 ||lknmnnr.xyz^
 ||llsynmll.fun^
+||llyhbqn.cn^
 ||lmcraft.pw^
 ||lo9b.top^
 ||lomo.cool^
@@ -2844,6 +2854,7 @@ ubmcmm.baidustatic.com
 ||lwogldl.top^
 ||lwtlock.cn^
 ||lxlidl.ink^
+||lyewe.xyz^
 ||lyggt.top^
 ||lyrfyti.cn^
 ||lzkj.shop^
@@ -3218,6 +3229,7 @@ ubmcmm.baidustatic.com
 ||qxlidy.ink^
 ||qzlkqsl.cn^
 ||qzthueo.cn^
+||ranlisgz.fun^
 ||razasot.cn^
 ||rbazhaheiz.top^
 ||rbgfxxt.cn^
@@ -3479,6 +3491,7 @@ ubmcmm.baidustatic.com
 ||u0081.com^
 ||u0082.com^
 ||u0083.com^
+||u05.xyz^
 ||u5ree6.com^
 ||u8hdqyug.co^
 ||u8hdqyug.live^
@@ -3521,6 +3534,7 @@ ubmcmm.baidustatic.com
 ||urysogsit.uno^
 ||usbvhzg.cn^
 ||usmhimw.cn^
+||usnignst.xyz^
 ||usnoownmt.fun^
 ||utijs.xyz^
 ||utll.cn^
@@ -3620,6 +3634,7 @@ ubmcmm.baidustatic.com
 ||weimeiwangluo.site^
 ||weio6nkoe.cyou^
 ||wephone.club^
+||weqvpmw.cn^
 ||wfkspcs.cn^
 ||wgnlaige.fun^
 ||wgttjk.cn^
@@ -22195,6 +22210,7 @@ $image,third-party,domain=258zw.com
 /mhw0/duniao/*
 /ojborn.so?$script,third-party
 /proxy_top_banner_js.php
+/sg.asp?wg&df=
 /sg.asp?wsg&df=1$script,third-party
 /socket?platform=*&href=$third-party,websocket
 /svr/*.aspx?placeid=$third-party
@@ -26071,7 +26087,7 @@ fqsousou.com,kengso.com#@#.user-share
 /refreshads-
 /reklam-ads2.
 /reklam.$domain=~github.com|~reklam.com.tr
-/reklam/*$domain=~github.com|~reklam.com.tr
+/reklam/*$domain=~cloudflare.com|~github.com|~reklam.com.tr
 /reklama.$~stylesheet,domain=~blaudirekt.de|~github.com|~pracuj.pl|~reklama.cinema.sk|~reklama.citylink.pro|~reklama.grajewo.net.pl|~reklama.mariafm.ru|~reklama.ringieraxelspringer.pl|~reklama.tochka.com
 /reklama/*$domain=~github.com
 /reklama1.
@@ -26375,6 +26391,7 @@ fqsousou.com,kengso.com#@#.user-share
 /tag_oas.
 /tag_sys.
 /tagadv_
+/tardisrocinante/austin.js
 /targetingAd.
 /targetpushad.
 /td-ads-
@@ -38390,6 +38407,7 @@ _800x80_
 ##.br-banner-ad
 ##.br-right-rail-ad
 ##.brand_ad
+##.branded-sponsored-result
 ##.branding-ad-gallery
 ##.branding-ad-wrapper
 ##.bravo-ad
@@ -39795,6 +39813,7 @@ _800x80_
 ##.gpt-ad
 ##.gpt-ad-container
 ##.gpt-ad-sidebar-wrap
+##.gpt-ad-wrapper
 ##.gpt-ads
 ##.gpt-billboard
 ##.gpt-breaker-container
@@ -44523,6 +44542,7 @@ _800x80_
 ###component-taboola-below-article-feed
 ###component-taboola-below-article-feed-2
 ###component-taboola-below-homepage-feed
+###fake_taboola_fallback
 ###ra-taboola-bottom
 ###taboola-ad
 ###taboola-adverts
@@ -44576,6 +44596,7 @@ _800x80_
 ##.taboola_block1
 ##.taboola_container
 ##.taboola_lhs
+##.tbl-floating-unit
 ##.tncls_taboola
 ##.trb_taboola
 ##.trc_rbox .syndicatedItem
@@ -70761,7 +70782,7 @@ tf2r.com#@#.adverts
 ||freeworldgroup.com/banner
 ||funnyjunk.com/site/js/extra/pre
 ||futbollatam.com/ads.js
-||fwpub1.com^$domain=ndtv.com
+||fwpub1.com^$domain=ndtv.com|ndtv.in
 ||g2a.com/assets/g2a.affiliate.
 ||g2a.com/js/affiliate.
 ||gamasexual.com/a/i/$image
@@ -72290,7 +72311,6 @@ thedrinknation.com###fcBanner
 fandom.com###featured-video__player
 fandom.com###featured-video__player-container
 investing.com###findABroker
-ndtv.com###firework1
 thisismoney.co.uk###fiveDealsWidget
 mediafire.ec,point2homes.com,propertyshark.com###fixedban
 cnx-software.com###fixeddbar
@@ -73035,6 +73055,7 @@ allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.c
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,khaama.com,mpog100.com##.ad2
 allscrabblewords.com,mpog100.com##.ad3
 khaama.com##.ad8
+sfchronicle.com,thetelegraph.com,timesunion.com##.adBanner
 ndtv.com##.adBg
 afar.com,m.economictimes.com,trailspace.com##.adContainer
 luscious.net##.adDisplay-module__ad_banner--Drna4
@@ -73139,7 +73160,7 @@ onlineradious.com##.ai-placement
 uploadvr.com##.ai-sticky-widget
 androidpolice.com,constructionreviewonline.com,cryptobriefing.com,dereeze.com,tyretradenews.co.uk##.ai-track
 getdroidtips.com,journeybytes.com,thebeaverton.com,thisisanfield.com,unfinishedman.com##.ai-viewport-1
-beckernews.com,bizpacreview.com,browserhow.com,constructionreviewonline.com,planetanalog.com,windowslatest.com,yugatech.com##.ai_widget
+anoopcnair.com,beckernews.com,bizpacreview.com,browserhow.com,constructionreviewonline.com,planetanalog.com,windowslatest.com,yugatech.com##.ai_widget
 apkmirror.com,net-load.com##.ai_widget.widget
 tennistemple.com##.akcelo-wrapper
 wikihow.com##.al_method
@@ -73397,6 +73418,7 @@ imgtaxi.com##.bottom_abs
 collive.com##.bottom_leaderboard
 allmonitors24.com,streamable.com##.bottombanner
 arcadebomb.com##.bottombox
+timesofindia.com##.bottomnative
 canonsupports.com##.box
 ghacks.net##.box-banner
 efe.com##.box-publi
@@ -73517,7 +73539,7 @@ careerindia.com##.cmscontent-top
 cnn.com##.cn--expandable.cn--idx-1
 thisismoney.co.uk##.cnr5
 letras.com##.cnt-space-top
-180gadgets.com,browserhow.com,charlieintel.com,chromeunboxed.com,crimereads.com,cryptoslate.com,eurweb.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,lithub.com,notalwaysright.com,quickanswer.blog,reneweconomy.com.au,rezence.com,rok.guide,simscommunity.info,thecinemaholic.com,twistedvoxel.com,welovetrump.com,zerohanger.com##.code-block
+180gadgets.com,anoopcnair.com,browserhow.com,charlieintel.com,chromeunboxed.com,crimereads.com,cryptoslate.com,eurweb.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,lithub.com,notalwaysright.com,quickanswer.blog,reneweconomy.com.au,rezence.com,rok.guide,simscommunity.info,thecinemaholic.com,twistedvoxel.com,welovetrump.com,zerohanger.com##.code-block
 conservativebrief.com##.code-block > span
 androidsage.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,techpp.com,whats-on-netflix.com##.code-block-1
 trendingpolitics.com##.code-block-12
@@ -74171,6 +74193,7 @@ gogetaroomie.com##.left-space
 latestly.com##.lhs_adv_970x90_div
 op.gg##.life-owner
 mobygames.com##.lifesupport-header
+trakt.tv##.light
 iheartradio.ca##.lightbox-wrapper
 getbukkit.org##.limit
 linuxize.com##.linaff
@@ -74208,7 +74231,6 @@ antimusic.com##.mad
 wccftech.com##.main-background-wrap
 sporcle.com##.main-content-unit-wrapper
 naturalnewsblogs.com##.main-holder > #sidebar > [class] > ul
-9gag.com##.main-wrap > div
 ggrecon.com##.mainVenatusBannerContainer
 color-hex.com##.margin10
 fandom.com##.marketplace
@@ -74429,7 +74451,7 @@ dzone.com##.partner-resources-block
 nationtalk.ca##.partner-slides
 domainmasters.co.ke##.partner2
 artasiapacific.com##.partner_container
-motachashma.com##.partnerbanner
+motachashma.com,ordertracker.com##.partnerbanner
 bundesliga.com##.partnerbar
 freshnewgames.com##.partnercontent_box
 investopedia.com##.partnerlinks
@@ -74468,6 +74490,7 @@ diglloyd.com,windinmyface.com##.placementTL
 diglloyd.com,windinmyface.com##.placementTR
 hagerty.com##.placements
 plagiarismtoday.com##.plagi-widget
+trakt.tv##.playwire
 advfn.com##.plus500
 freewebarcade.com##.pnum
 pedestrian.tv##.popular-jobs-widget
@@ -75881,6 +75904,9 @@ rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgpro
 titantv.com##tr.gridRow > td > [id] > div:first-child
 opensubtitles.org##tr[style="height:115px;text-align:center;margin:0px;padding:0px;background-color:#DFEBF9;"]
 tripadvisor.at,tripadvisor.be,tripadvisor.ca,tripadvisor.ch,tripadvisor.cl,tripadvisor.cn,tripadvisor.co,tripadvisor.co.id,tripadvisor.co.il,tripadvisor.co.kr,tripadvisor.co.nz,tripadvisor.co.uk,tripadvisor.co.za,tripadvisor.com,tripadvisor.com.ar,tripadvisor.com.au,tripadvisor.com.br,tripadvisor.com.eg,tripadvisor.com.gr,tripadvisor.com.hk,tripadvisor.com.mx,tripadvisor.com.my,tripadvisor.com.pe,tripadvisor.com.ph,tripadvisor.com.sg,tripadvisor.com.tr,tripadvisor.com.tw,tripadvisor.com.ve,tripadvisor.com.vn,tripadvisor.de,tripadvisor.dk,tripadvisor.es,tripadvisor.fr,tripadvisor.ie,tripadvisor.in,tripadvisor.it,tripadvisor.jp,tripadvisor.nl,tripadvisor.pt,tripadvisor.ru,tripadvisor.se#?#.listItem:-abp-has(.sponsored_v2)
+! firework
+ndtv.com,ndtv.in##[class^="firework"]
+ndtv.com,ndtv.in##[id^="firework"]
 ! Adcompanies
 adspyglass.com##HTML
 ! Amazon
@@ -77185,6 +77211,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||discretemath.org^$image,stylesheet
 @@||dnsleak.privateinternetaccess.com^$xmlhttprequest,domain=dnsleak.com
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
+@@||dodo.ac/np/images/thumb/$image,domain=nookipedia.com
 @@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com
 @@||doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|downdetector.com|epaper.timesgroup.com|formularywatch.com|gamespot.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nbcsports.com|nycgo.com|physicianspractice.com|scotsman.com|webmd.com
 @@||edmodo.com/ads$~third-party,xmlhttprequest
