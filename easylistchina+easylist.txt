@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Hln5Udf4qWjUBC0il5mU3g
-! Version: 202301061631
+! Checksum: avN7pjd4Gca8s3E+Fh6J5Q
+! Version: 202301071631
 ! Title: EasyList China+EasyList
-! Last modified: 06 Jan 2023 16:31 UTC
+! Last modified: 07 Jan 2023 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1536,6 +1536,22 @@ ubmcmm.baidustatic.com
 ||yanjiusuo.cc^
 ||yretx.cn^
 ||yzgid.cn^
+||ewmvim.xyz^
+||kwivb.cn^
+||twn2e.cn^
+||zeipw.xyz^
+||nouivjv.cn^
+||qycfqk.xyz^
+||looktt.xyz^
+||rdoybkd.cn^
+||ztxstudy.club^
+||8ccrv.xyz^
+||xkhall.xyz^
+||dgozp.com^
+||ockuc.com^
+||frpns.com^
+||045zxnm.com^
+||zunnnh.xyz^
 !
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -13647,9 +13663,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||ztyumn.ifeng.com^
 ||zuiacg.com/images/client/
 ||zuidaima.com/images/1/201606/20160616135714978.
-||zuixingkong.com/gao/
-||zuixingkong.com/show-g/
-||zuixingkong.com^*mygg/
 ||zuofang05.com/template/mytheme/statics/image/1/
 ||zuoyebang.cc/static/question/pkg/wap-qb_
 ||zwwooooo.com/images/hengtian.
@@ -13660,13 +13673,17 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzbaike.com/main/arvixe
 ||zzbaike.com/main/host
 ||zzc.cn/b1/live_b_
+||meituan.net^$rewrite=abp-resource:1x1-transparent-gif,domain=939394.xyz
 ||zzidc.com/images/1060.jpg
 ||zzidc.com/uploads/pintuan.jpg
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||939394.xyz^*.gif
+||c.nuhcpf.com^
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+939394.xyz##DIV[style*="position: fixed;"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -18113,7 +18130,6 @@ dm5.com,dm5.hk##a[href*=".wannaplay.cn"]
 tiexue.net##a[href*=".wx359.cn/"]
 downkr.com##a[href*=".xitongzhijia."]
 toolfk.com##a[href*=".xiuxiandou.com/"]
-939394.xyz##a[href*=".yangkeduo.com"]
 ifkdy.com,ilxdh.com##a[href*=".yhm11.com"]
 douyu.com##a[href*=".youzan.com"]
 duba.com,newduba.cn##a[href*=".zhhainiao.com/"]
@@ -28405,6 +28421,7 @@ _800x80_
 ###adsensetop
 ###adsensewide
 ###adserv
+###adsframe_2
 ###adsfundo
 ###adside
 ###adsiframe
@@ -45690,6 +45707,7 @@ tf2r.com#@#.adverts
 ||agcdn.com^
 ||agcm.xyz^
 ||ageacavnrnwijh.xyz^
+||ageandinone.xyz^
 ||ageismvipery.com^
 ||agenduret.com^
 ||ageore.com^
@@ -49482,6 +49500,7 @@ tf2r.com#@#.adverts
 ||dejectionminus.com^
 ||del-del-ete.com^
 ||delayeddisembroildisembroil.com^
+||delbertbisalt.com^
 ||delempanyi.one^
 ||delendatole.live^
 ||deleterasks.digital^
@@ -50083,6 +50102,7 @@ tf2r.com#@#.adverts
 ||dustywrenchdesigned.com^
 ||dutorterraom.com^
 ||dutravisne.com^
+||duz64ud8y8urc.cloudfront.net^
 ||dvaminusodin.net^
 ||dviccvivms.com^
 ||dvigukindal.com^
@@ -56399,6 +56419,7 @@ tf2r.com#@#.adverts
 ||ossrhydonr.com^
 ||ossshucklean.com^
 ||oswerebage.xyz^
+||osyrhjwnwoaya.com^
 ||otbuzvqq8fm5.com^
 ||otdopkz.com^
 ||otdsngganpsgru.com^
@@ -59942,6 +59963,7 @@ tf2r.com#@#.adverts
 ||stepmotherincomingpluck.com^
 ||steppesshirvan.com^
 ||stepsothohe.pro^
+||steptoedelfs.com^
 ||sterilecute.com^
 ||stethydelicat.com^
 ||stevoglutu.com^
@@ -61121,6 +61143,7 @@ tf2r.com#@#.adverts
 ||tusno.com^
 ||tut-64.com^
 ||tutfuqc.com^
+||tutlyinlaik.com^
 ||tutvp.com^
 ||tuxbpnne.com^
 ||tuxedochard.com^
@@ -62643,6 +62666,7 @@ tf2r.com#@#.adverts
 ||xvwebllndr.com^
 ||xwlketvkzf.com^
 ||xwqvytuiko.com^
+||xwrnbrwkairr.com^
 ||xxccdshj.com^
 ||xxe2.com^
 ||xxecldsp.xyz^
@@ -62862,6 +62886,7 @@ tf2r.com#@#.adverts
 ||yrvzqabfxe.com^
 ||ysczggasfx.com^
 ||ysnakestanothia.xyz^
+||ysuchtjhwasp.info^
 ||ytgfsvcwtradg.xyz^
 ||ythyqwcrrnh.com^
 ||ytimm.com^
@@ -62907,6 +62932,7 @@ tf2r.com#@#.adverts
 ||z5x.net^
 ||z7yru.com^
 ||zabanit.xyz^
+||zabpbhko.com^
 ||zadauque.net^
 ||zaglushkaaa.com^
 ||zagtertda.com^
@@ -68776,6 +68802,7 @@ tf2r.com#@#.adverts
 ||fpcplugs.com/do.cgi?widget=
 ||free.srcdn.xyz^
 ||freesexcam365.com/in/
+||games-direct.skynetworkcdn.com^$subdocument,third-party
 ||gateway-banner.eravage.com^
 ||geobanner.adultfriendfinder.com^
 ||geobanner.alt.com^
@@ -70794,7 +70821,7 @@ forums.somethingawful.com###notregistered
 freeaddresscheck.com,freecallerlookup.com,freecarrierlookup.com,freeemailvalidator.com,freegenderlookup.com,freeiplookup.com,freephonevalidator.com###offers
 livestreamfails.com###oranum_livefeed_container_0
 ckk.ai###orquidea-slideup
-electronicproducts.com,powvideo.net,streamplay.to###overlay
+electronicproducts.com,powvideo.net,streamplay.to,uxstyle.com###overlay
 mzzcloud.life,rabbitstream.net,rapid-cloud.ru,streamrapid.ru###overlay-container
 drivevideo.xyz###overlays
 animexin.xyz,animexinax.com###overplay
@@ -75298,6 +75325,7 @@ myreadingmanga.info##a[href^="https://www.gaming-adult.com/"]
 gotporn.com##a[href^="https://www.gotporn.com/click.php?id="]
 imagebam.com,vipergirls.to##a[href^="https://www.mrporngeek.com/"]
 barelist.com##a[onclick="CallServer('ad', '')"]
+h-flash.com##a[style^="width: 320px; height: 250px"]
 bdsmx.tube##article > section
 girlonthenet.com##aside[data-adrotic]
 xpassd.co##aside[id^="tn_ads_widget-"]
