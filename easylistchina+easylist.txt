@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uQBNpZkA2nGIBos7eQAMPA
-! Version: 202301121651
+! Checksum: XnDdpTkrTqFyOLtVEbP/JQ
+! Version: 202301131631
 ! Title: EasyList China+EasyList
-! Last modified: 12 Jan 2023 16:51 UTC
+! Last modified: 13 Jan 2023 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1487,13 +1487,16 @@ ubmcmm.baidustatic.com
 ||045zxnm.com^
 ||0s6s0.top^
 ||100ytrf.com^
+||1134555.com^
 ||2aqr.net^
+||37tek.fun^
 ||3p8801.co^
 ||401aww.com^
 ||51gpiao.cn^
 ||51xl.xyz^$third-party
 ||595tuchuang.com^
 ||5r562.cn^
+||78dfvv.com^
 ||81xs.xyz^
 ||8ccrv.xyz^
 ||ahwiaw.xyz^
@@ -1503,6 +1506,7 @@ ubmcmm.baidustatic.com
 ||bfdaawe.top^
 ||bgjjwl.cn^
 ||bkisss.com^
+||bqg16.cc^
 ||cerfbup.xyz^
 ||creawww.top^
 ||cuwuqo.xyz^
@@ -1511,7 +1515,9 @@ ubmcmm.baidustatic.com
 ||dgozp.com^
 ||doublechen.online^
 ||dxgyl.xyz^
+||ebzqyow.cn^
 ||ewmvim.xyz^
+||fangyaomin.site^
 ||felzfr.xyz^
 ||ffdcpvv.cn^
 ||frpns.com^
@@ -1524,6 +1530,7 @@ ubmcmm.baidustatic.com
 ||hhaobcj.cn^
 ||hibaby.ren^
 ||htbdvx.xyz^
+||hualu.live^
 ||huifuhuo.com^
 ||huihemou.com^
 ||huishij.net^
@@ -1537,15 +1544,19 @@ ubmcmm.baidustatic.com
 ||ikbgika.cn^
 ||ionqv.cn^
 ||irygym.xyz^
+||ituxzez.cn^
+||jfmfmgj.cn^
 ||juyqiolna.cyou^
 ||jwgihca.cn^
 ||kb5ke.xyz^
 ||kbbqwhf.cn^
+||keysmw.xyz^
 ||kwivb.cn^
 ||leeleo.top^$third-party
 ||leiwo.xyz^
 ||looktt.xyz^
 ||maccms10.cn^
+||mbepa.xyz^
 ||mdi5k.cn^
 ||mfaec.cn^
 ||mgowec.xyz^
@@ -1568,6 +1579,7 @@ ubmcmm.baidustatic.com
 ||ps123.online^
 ||qiegoa.xyz^
 ||qingfengxq.com^
+||qvfkiwf.cn^
 ||qycfqk.xyz^
 ||rdoybkd.cn^
 ||renzhongjiaoyu.xyz^
@@ -1624,6 +1636,7 @@ ubmcmm.baidustatic.com
 ||yuqingby.fun^
 ||yzgid.cn^
 ||zeipw.xyz^
+||ztwrnpd.cn^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 !
@@ -14409,7 +14422,7 @@ javhope.com###havhope
 chaidu.com,kdslife.com###hb
 macd.cn###hbad
 coolaler.com###hd
-jrfz.xyz###hd + .wp
+jrlt1.xyz###hd + .wp
 gdmm.com###hd > .wp > .module
 hackhw.com,ithome.com###hd_float
 ithome.com###hd_float1
@@ -17930,6 +17943,7 @@ cangjige.net##.wp[style="height:36px;padding-top:15px;"]
 tui18.com##.wp[style^="width:"]
 start.firefoxchina.cn##.wrap > div[style]:last-child
 99a21.com##.wrap-head-spots
+939394.xyz##.wrap.mb8.mt5 + div[class]:not(.outer)
 123.com.cn##.wraper_ad
 5yfz.com##.wrapper > p
 image.baidu.com##.wrapper_dot_box.dot_black
@@ -18244,7 +18258,7 @@ szjjzs.com##a[href^="/pic/tiao/"]
 chinacsbs.com##a[href^="/plus/view.php?aid="]
 96weixin.com##a[href^="/show/ads/"]
 fx112.com##a[href^="/union."]
-jrfz.xyz##a[href^="ad."]
+jrlt1.xyz##a[href^="ad."]
 ixinshijue.com##a[href^="http"] > img[src*=".pstatp."]
 boniu123.cc##a[href^="http"] > img[src*="/bn_"]
 yigujin.cn##a[href^="http"]:not([href$=".html"]) > img[src*="/tp/"]
@@ -18332,6 +18346,7 @@ house365.com##a[style*="1200px;"]
 hdzone.org##a[style*="fixed"]
 huaren.tv##a[style*="height:"]
 36dm.club,36dm.com,acgsou.com##a[style="color:red;"][href^="show-"]
+939394.xyz##a[style="display: block;"]
 wandhi.com##a[style="display: inline-block;position: relative"]
 hanjutv2020.com##a[style="width: 1120px;height: 70px;overflow: hidden;display: block;"]
 houdao.com##a[style^="background:url"]
@@ -45776,6 +45791,7 @@ tf2r.com#@#.adverts
 ||ahbdsply.com^
 ||ahcdsply.com^
 ||ahdytiyc.xyz^
+||ahedrankslowl.com.ua^
 ||ahemsoku.net^
 ||ahjopnbimr.com^
 ||ahlbhiaq.com^
@@ -48945,6 +48961,7 @@ tf2r.com#@#.adverts
 ||coneenpien.com^
 ||confdatabase.com^
 ||configurationluxuriantinclination.com^
+||confinehindrancethree.com^
 ||confirmationviewsyowl.com^
 ||confrontationdrunk.com^
 ||confused-classic.pro^
@@ -50365,6 +50382,7 @@ tf2r.com#@#.adverts
 ||eclogicmeows.com^
 ||ecmjckvcqiceia.xyz^
 ||economyobserver.com^
+||econth.com^
 ||econtinue.xyz^
 ||ecortb.com^
 ||ecound.com^
@@ -51199,6 +51217,7 @@ tf2r.com#@#.adverts
 ||fgjasshw.com^
 ||fgnidvwcg.com^
 ||fh259by01r25.com^
+||fhdagtocgqdvqf.com^
 ||fhesrohah.com^
 ||fhgh9sd.com^
 ||fhisladyloveh.xyz^
@@ -52363,6 +52382,7 @@ tf2r.com#@#.adverts
 ||hadsipz.com^
 ||hadskiz.com^
 ||hadsokz.com^
+||hadwlnikjrywb.com^
 ||haemorrhagedigest.com^
 ||haffic.com^
 ||hafnes.com^
@@ -55952,6 +55972,7 @@ tf2r.com#@#.adverts
 ||noblemeantimeawelessaweless.com^
 ||noblesoverloadprofanity.com^
 ||noblymarlier.com^
+||nobost.com^
 ||nockerlpittite.website^
 ||noclef.com^
 ||noddingdilutionradish.com^
@@ -57782,6 +57803,7 @@ tf2r.com#@#.adverts
 ||protecthumor.com^
 ||protectionabate.com^
 ||protectorincorporatehush.com^
+||protectspokesmancalendar.com^
 ||proteographiummarcellus.com^
 ||protestsedatevisited.com^
 ||protoawe.com^
@@ -57978,6 +58000,7 @@ tf2r.com#@#.adverts
 ||pungeywitlet.com^
 ||punishrwy.space^
 ||punjur.com^
+||punmciarskt.com^
 ||punnettracked.website^
 ||punoocke.com^
 ||punosy.best^
@@ -58646,6 +58669,7 @@ tf2r.com#@#.adverts
 ||restlessreduction.com^
 ||restorationpencil.com^
 ||restrictbench.com^
+||restrictioncheekgarlic.com^
 ||restrictionsempty.com^
 ||resulf.com^
 ||resultedmundconceal.com^
@@ -59103,6 +59127,7 @@ tf2r.com#@#.adverts
 ||ryeeffortoccupy.com^
 ||ryminos.com^
 ||ryntmyhahy.com^
+||rysheatlengthani.com.ua^
 ||rysubmission.biz^
 ||rzneekilff.com^
 ||s-adzone.com^
@@ -60202,6 +60227,7 @@ tf2r.com#@#.adverts
 ||statcamp.net^
 ||statelyexpertwere.com^
 ||statementsorb.com^
+||statementsphilosophy.com^
 ||stationeryshapeless.com^
 ||statisticsdemandeddeficit.com^
 ||statsforads.com^
@@ -60259,6 +60285,7 @@ tf2r.com#@#.adverts
 ||sticksurroundingsconstitutional.com^
 ||stickyadstv.com^
 ||sticmilt.xyz^
+||stiffenshave.com^
 ||stifletunnelsang.com^
 ||stilaikr.com^
 ||stilfb.com^
@@ -65655,6 +65682,7 @@ tf2r.com#@#.adverts
 ||directrev.com^$popup
 ||directuklyecon.pics^$popup
 ||disappearingassurance.com^$popup
+||discountbasistinge.com^$popup
 ||dishphysics.com^$popup
 ||disreputablegenuinelyhonorary.com^$popup
 ||distantnews.com^$popup
@@ -67233,6 +67261,7 @@ tf2r.com#@#.adverts
 ||wahoha.com^$popup
 ||waisheph.com^$popup
 ||walter-larence.com^$popup
+||warehousecanneddental.com^$popup
 ||warilyaggregation.com^$popup
 ||warilycommercialconstitutional.com^$popup
 ||warkop4dx.com^$popup
@@ -68741,6 +68770,7 @@ tf2r.com#@#.adverts
 ||d2v02itv0y9u9t.cloudfront.net^
 ||d2va1d0hpla18n.cloudfront.net^
 ||d2vwl2vhlatm2f.cloudfront.net^
+||d2w92zbcg4cwxr.cloudfront.net^
 ||d2werg7o2mztut.cloudfront.net^
 ||d2x19ia47o8gwm.cloudfront.net^
 ||d2y8ttytgze7qt.cloudfront.net^
